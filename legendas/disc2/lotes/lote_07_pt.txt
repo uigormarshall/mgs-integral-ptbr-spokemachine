@@ -1,0 +1,109 @@
+901	Snake, eu te considero meu amigo. / Acredite nisso.
+902	Até um soldado precisa de mais motivos / pra viver além de lutar. Se ele tivesse / encontrado outra coisa, talvez não / fosse tão atormentado...
+903	Mei Ling, como está a Naomi?
+904	Hã? Ela está bem, acho. O que houve?
+905	O que você quer, Snake? Se quer falar com a Naomi, por que não liga pra ela?
+906	Ah, não é nada... esqueça.
+907	Cara estranho...
+908	...A Naomi não estava agindo de modo / estranho nem nada?
+909	Não... Não consigo acreditar que a Naomi / seja uma espiã inimiga. Me recuso a aceitar.
+910	Snake, a Naomi está presa...
+911	Que diabo está acontecendo aí?
+912	O que o Coronel está pensando?
+913	O Campbell está...
+914	Sinto muito. Não posso dizer mais nada.
+915	Mas acredite em mim. Estou aqui para / ajudar você. Até o fim...
+916	Mas se o que o Coronel Campbell diz / for verdade...
+917	Eu sei. Nastasha, você já ouviu falar / de Fox Die?
+918	Fox Die? / Não, desculpe... Nunca ouvi falar.
+919	Nastasha, vou perguntar mais uma vez. / Você sabe algo sobre o Fox Die / e a verdadeira natureza desta operação?
+920	Se usar chaff, você deve conseguir / confundi-lo por um tempo.
+921	Não é só um sistema de radar lá dentro. / Aquele radome provavelmente tem / sensores infravermelhos, detectores de / movimento e outros equipamentos também.
+922	Snake, agora são só você e o Liquid. / Não tenho nenhum conselho pra dar.
+923	O elevador em que você está agora é o / elevador #1.
+924	Esse elevador não desce até o fim, então / você terá que trocar para o elevador #2 / no ponto de conexão.
+925	Snake, esse é o ponto de conexão entre / o elevador #1 e o elevador #2.
+926	Mas por algum motivo eles aumentaram muito em número por aqui na mesma época em que o FOX-HOUND / chegou à base.
+927	A única forma de impedir o lançamento é / reinserir os códigos de detonação para / travar o mecanismo. Você precisa / daquele cartão-chave para isso.
+928	Encontre o cartão-chave, Snake! Não / há outro jeito!
+929	Agora você precisa resfriar a chave. / Olha, você está perto do depósito / onde lutou contra o Raven, certo?
+930	É... Eu não sou um computador, / sou um humano...
+931	Ih. Uma câmera de vigilância.
+932	Droga! Sem chaves!
+933	Peguei! Vamos!
+934	Use o botão de arma para disparar / a metralhadora.
+935	Revide com ela, Snake!
+936	Ih, Snake. É um posto de controle.
+937	Droga! Não dá pra passar!
+938	Snake. Você tem que abrir caminho!
+939	Atire nos barris, Snake!
+940	Snake! Faça algo a respeito deles!!
+941	Temos que furar o bloqueio!
+942	Bom trabalho, Snake!
+943	É outro posto de controle, Snake.
+944	Seu pulguento!!
+945	Droga! Perdi ele!!
+946	Pra onde você foi!?
+947	Peguei você, Snake!
+948	Acha que pode me vencer com / essa coisinha?
+949	Você não tem chance, Snake!
+950	Acabaram seus mísseis, Snake!!
+951	Acabou a brincadeira!!!
+952	Sem mísseis e agora sem sorte!!!
+953	Agora pague o preço final / pela sua fraqueza!!!
+954	Qual é o problema, irmãozinho!?
+955	Não quer salvar a garota!?
+956	Você não é nada!
+957	Como pode ser filho do Big Boss!?
+958	Venha cá, Snake!
+959	Seja homem!
+960	Estou aqui!
+961	Venha me pegar!!
+962	Isso não foi nada!
+963	É só isso que você tem!?
+964	Acha que me vence com isso?
+965	Muito bem, Snake.
+966	Rápido! Suba!
+967	É só isso que você tem... irmão?
+968	Então isso é o melhor que você faz, é!!
+969	Levante!
+970	Aqueles não são corvos, são corvos-do- / norte. Os inuítes e outros nativos / americanos veneravam os corvos-do-norte / como divindades criadoras.
+971	Mas tudo bem. O Fox Die é um vírus... / uma arma biológica. Deve haver / uma vacina.
+972	Então a Naomi usou o Fox Die para se / vingar de você...
+973	A chave está errada?
+974	A chave errada...?
+975	Era a errada...?
+976	Parece que a chave não encaixa..
+977	Graças ao DNA do nosso pai,
+978	identificaram mais de / sessenta "genes de soldado"
+979	responsáveis por tudo, desde / o pensamento estratégico...
+980	até o "instinto assassino".
+981	Esses "genes de soldado" foram / transplantados...
+982	para os membros das Forças Especiais / da Nova Geração.
+983	Foi assim que eles se tornaram...
+984	Os Soldados Genoma que você vem / matando são nossos irmãos...
+985	com os mesmos genes que os nossos.
+986	1991... a Guerra do Golfo.
+987	O Exército injetou em segredo / genes de soldado nas tropas.
+988	A Síndrome da Guerra do Golfo de que / centenas de milhares de
+989	soldados reclamaram ao voltar...
+990	foi um efeito colateral disso.
+991	Rá.
+992	Todos sabem que a síndrome / veio da exposição ao...
+993	urânio empobrecido usado em / munição antitanque.
+994	Isso foi só uma fachada / do Pentágono.
+995	Primeiro tentaram dizer que era / estresse pós-traumático,
+996	depois armas químicas ou biológicas...
+997	As unidades de detecção de gás tóxico / e as injeções anti-sarin,
+998	00000082 / eram tudo só para encobrir / os experimentos genéticos secretos...
+999	Era tudo só um encobrimento / disso...
+1000	experimento genético secreto.
+1001	Então...
+1002	os chamados "Bebês da Guerra do Golfo" / relatados pelos
+1003	veteranos da Guerra do Golfo são...
+1004	Eles também são nossos irmãos / e irmãs.
+1005	Então os Soldados Genoma significam / que os experimentos foram um sucesso?
+1006	Sucesso?
+1007	Não seja tolo!
+1008	São um fracasso completo!
+1009	Estamos à beira da extinção.

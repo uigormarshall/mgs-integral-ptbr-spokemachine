@@ -1,0 +1,150 @@
+2701	Snake, elimine todos os inimigos ou / você não vai conseguir sair daí e / chegar à base subterrânea.
+2702	Vulcan Raven é meio nativo do Alasca / e meio inuíte. Foi criado como xamã, / e dizem que tem poderes / sobrenaturais.
+2703	Na Guerra Fria, treinou na Rússia / com os Bimpel, as forças especiais / soviéticas.
+2704	Em 1993, Yeltsin o rebaixou após o / golpe. Ele fugiu do país e / virou mercenário.
+2705	Ficou lá até se juntar a nós na / FOX-HOUND, por forte indicação / de Revolver Ocelot.
+2706	Esse canhão que ele carrega é uma / Vulcan de 20 milímetros. Normalmente / é montada em caças.
+2707	Você não vence ele num tiroteio. / Ele te faz em pedacinhos.
+2708	Ele não é só força bruta, Snake. É / formado pela Universidade do Alasca, / então pensa rápido também.
+2709	De qualquer forma, é melhor não / atacar de frente.
+2710	Armas comuns não são páreo para a / Vulcan de 20 mm. Ataque pelos / lados ou por trás.
+2711	Num ataque frontal, você está em / desvantagem.
+2712	Tente atacá-lo com o Míssil / Controlado. Guie-o entre os / contêineres para chegar por trás.
+2713	Mas se o míssil voar devagar demais, / será abatido mesmo vindo por trás.
+2714	Aproxime-os em velocidade máxima / ou contornando as esquinas.
+2715	Também pode prever para onde ele vai / e plantar C4. Com bom timing, / pode funcionar.
+2716	Quando os contêineres forem / destruídos, bloquearão o caminho. / Acabe com ele antes disso.
+2717	Snake, sobre a Naomi, estou / investigando agora. Dê-me mais / um pouco de tempo.
+2718	Onde ela está?
+2719	Ainda está dormindo.
+2720	Não acredito... Primeiro o chefe da / DARPA era um impostor, e agora a / Naomi... O que está acontecendo?
+2721	Imagino que vai dizer que não / sabe de nada, certo?
+2722	Sinto muito, Snake.
+2723	Um louco ameaça o mundo com uma / arma nuclear. Acho que é com isso / que devo me preocupar agora...
+2724	Snake, impeça o lançamento. Vá à / sala de controle da base subterrânea.
+2725	Ligue para o Dr. Emmerich.
+2726	A sala de controle fica no terceiro / andar da base subterrânea, não é?
+2727	Não há tempo!
+2728	Snake, corra para a base subterrânea / do Metal Gear. Fica ao norte do / depósito onde você enfrentou Raven.
+2729	Snake, o cartão mudou de forma. / Isso não é bom. Faça-o voltar.
+2730	Ótimo. O cartão mudou de forma. / Corra para a sala de controle, Snake!
+2731	Snake, não esquente o cartão. / Esfrie-o. Procure um lugar frio.
+2732	Snake, olhe o cartão. Voltou à / forma original. Terá que mudá-lo / de novo.
+2733	Você precisa baixar a temperatura / do cartão. Procure um lugar frio!
+2734	Coronel, alguma novidade da Naomi?
+2735	Ela está sendo interrogada, Snake. / Deixe comigo. Você só se preocupe / em deter o Metal Gear.
+2736	Por favor, Snake.
+2737	Eu considero você meu amigo. / Por favor, acredite nisso.
+2738	Snake, estamos quase sem tempo! / Vá para a sala de controle!
+2739	Snake, o que está fazendo? Era para / esquentar, não esfriar. Procure um / lugar quente.
+2740	Conseguiu. Foi o último! / Corra para a sala de controle!
+2741	Agora precisa esquentar o cartão. / Procure um lugar quente!
+2742	Desculpe, Snake... Ainda estou / investigando.
+2743	Snake, gás! Faça alguma coisa!
+2744	Snake! Ligue para o Emmerich! Ele / deve conseguir burlar a segurança!
+2745	Snake, o Emmerich vai abrir a porta. / Confie nele e aguente firme!
+2746	Deus nos ajude! O Metal Gear está / se movendo...
+2747	Snake, tudo depende de você agora. / Tem que parar essa coisa!
+2748	Mas como?
+2749	Pergunte ao Dr. Emmerich, / quem o construiu.
+2750	Destrua o Metal Gear! Estamos sem / tempo!
+2751	Se você não conseguir, terei que / recorrer à minha última opção.
+2752	Última opção?
+2753	Temos um submarino preparado para / lançar um ataque nuclear total / contra a base.
+2754	Que diabos!?
+2755	Coronel, Fox está morto...
+2756	Eu sei... Que Deus o tenha.
+2757	Até um soldado precisa de mais do que / lutar para viver. Se tivesse achado / outra coisa, talvez não fosse / tão atormentado...
+2758	Era simples demais... puro demais. / Não havia nada neste mundo em que / acreditar... então acreditou / só em si mesmo.
+2759	Acho que você tem razão. Um homem / como Fox só procura a própria / morte...
+2760	É. Mas, para mim, não há felicidade / na morte... nem paz.
+2761	Eu vou sair daqui vivo.
+2762	Ótimo. Eu também quero isso.
+2763	Se acertar um míssil Stinger direto / na cabine, talvez consiga destruí-lo. / Vamos, Snake! Vença!
+2764	Snake, ótimo trabalho! / Você deteve o Metal Gear...
+2765	Não... ainda não é hora de comemorar. / Não consigo me mexer.
+2766	Snake, consegue virar o pescoço? / Dê uma olhada em volta.
+2767	Snake, você precisa rastejar para / passar por aí.
+2768	Primeiro agache apertando o botão / de rastejar e depois use o direcional / para rastejar na direção desejada.
+2769	Mas cuidado. Rastejar é lento e / você não pode atacar enquanto / rasteja.
+2770	Para levantar, aperte o botão de / rastejar de novo.
+2771	Snake, há um elevador aí que leva / até a superfície.
+2772	Você terá que esperar o elevador / descer. É melhor se esconder / em algum lugar.
+2773	Entre no elevador. Ele leva direto / à frente da Instalação de Descarte / de Armas Nucleares. Cuidado.
+2774	Snake, não pise em poças. O barulho / da água pode alertar os inimigos. / Cuidado.
+2775	Snake, lembre-se: é uma operação / secreta. Há muitos inimigos e / só um de você.
+2776	Se for visto, será cercado / num instante.
+2777	Se isso acontecer, está acabado.
+2778	Primeiro vá ao elevador dos fundos / e suba até o térreo. Depois / procure o chefe da DARPA.
+2779	Não há mais volta, Snake. Você tem / uma missão e é nossa única / esperança. O mundo conta com você.
+2780	Parece um caminhão de carga.
+2781	Devem usá-lo para transportar / mercadorias pela base.
+2782	Snake, por que não se esconde no / caminhão? Disfarçado de carga, / talvez use o caminhão para circular.
+2783	Essa base deve ter algum sistema de / ventilação para recircular o ar. / Deve haver dutos por aí.
+2784	Devem precisar de muita energia para / manter a base. Provavelmente há um / gerador a diesel em algum lugar.
+2785	E como gerar eletricidade exige / oxigênio, também deve haver / saídas de exaustão.
+2786	Você não vai acreditar, mas abateram / os F-16 que usávamos de diversão... / com um Hind D! E recebemos / uma mensagem do Liquid.
+2787	Disse que, se tentarmos algo assim / de novo, vai lançar a bomba!
+2788	Snake, entre logo! Aquele Hind / vai voltar em breve.
+2789	Snake, você nunca passará pela / porta da frente. Ache outro / jeito de entrar.
+2790	Cuidado com aquela câmera. Talvez / dê para bloqueá-la um tempo / com o Chaff.
+2791	Deve haver um ponto cego embaixo / da câmera. Fique colado na / parede e ficará bem.
+2792	Não faça muito barulho ou será / visto. Cuidado ao andar nesse piso.
+2793	Use o elevador para trocar de andar.
+2794	Deve haver um elevador de carga por / ali que desce. Tente encontrá-lo.
+2795	Tente encontrá-lo.
+2796	Mesmo fortalecidos pela terapia / genética, os Soldados Genoma / precisam dormir. Pode se mover / em segurança enquanto cochilam.
+2797	Os Soldados Genoma foram treinados / para entrar em sono leve a qualquer / hora e continuar em postura de ataque.
+2798	Cuidado para não fazer barulho / perto deles.
+2799	Quando bocejam, estão de olhos / fechados e não podem te ver. / Calcule bem o tempo e ficará bem.
+2800	Snake, use o elevador para ir de / andar em andar.
+2801	Para chamar o elevador, aperte o / botão no painel próximo com o botão / de ação. Ele chega rapidinho.
+2802	Hmm. Parece que os sensores / infravermelhos daqui foram / desligados.
+2803	Aperte o botão de ação para descer.
+2804	Snake, essa porta tem sistema de / segurança. Não abre sem o cartão / de segurança correto.
+2805	Só abre com um cartão de nível igual / ou superior ao da porta.
+2806	Snake, o sinal do chefe da DARPA / vem de algum lugar dessa área. / Não há onde descer?
+2807	Olhe em volta na visão em / primeira pessoa.
+2808	Snake, para subir ou descer uma / escada, aperte o botão de ação / junto a ela.
+2809	O lugar parece protegido por sensores / infravermelhos. Você terá que / passar pelos feixes de algum jeito.
+2810	Snake. Cuidado. Há alçapões ali / perto e a queda é fatal. Fique rente / à parede e ficará bem.
+2811	Você deve ver onde ficam os alçapões / com os Óculos Térmicos.
+2812	Se tiver dúvidas sobre a FOX-HOUND, / pergunte à Dra. Naomi.
+2813	Revolver Ocelot é ex-membro / da Spetsnaz.
+2814	Após a queda da União Soviética, / parece que serviu na tropa de elite / da Polícia Fiscal russa.
+2815	Depois entrou no SVR, o Serviço de / Inteligência Exterior russo, que / antes fazia parte da KGB.
+2816	Mas, segundo minhas fontes, ele / estava insatisfeito com o sistema / rígido da KGB e queria sair.
+2817	É fanático por armas e obcecado / por filmes de cowboy e / bangue-bangues italianos.
+2818	Também é meio sádico... aprendeu as / técnicas de tortura mais avançadas / na Spetsnaz.
+2819	Pois é, teve muita prática. A prisão / de Lubianka fica dentro da sede / da KGB.
+2820	Num tiroteio, recarregar costuma ser / o momento mais perigoso. Mas ele / adora. Use isso a seu favor.
+2821	Acabe com ele quando estiver / recarregando. Vê onde aparece / a munição restante na tela?
+2822	Espere o momento certo e / acabe com ele!
+2823	Não deixe o presidente Baker se ferir. / Se morrer, acabou. Não cruze a linha / amarela ou pode disparar a explosão.
+2824	Você também pode atordoá-lo com / uma granada de atordoamento.
+2825	Se chegar perto demais, Ocelot foge / e atira de longe. Cuidado.
+2826	Não esqueça que o presidente Baker / está aí. Está coberto de C4, então / não use explosivos perto dele.
+2827	Snake, há câmeras armadas aí. Se / detectarem você, abrirão fogo.
+2828	Fique fora do campo de visão das / câmeras. Também pode bloqueá-las / com Chaff.
+2829	Um campo minado, é? / Você vai precisar do Detector de Minas.
+2830	Meryl conhece a base como a palma / da mão. Por que não pergunta a ela?
+2831	Um campo minado, é? Não esqueça / de usar o detector de minas.
+2832	Ao descobrir onde há uma mina, / rasteje até ela e tente recolhê-la.
+2833	Cuidado. É proibido usar armas / nessa área.
+2834	Coronel, vi sua sobrinha, mas...
+2835	É mesmo? Onde?
+2836	Ela entrou no banheiro feminino.
+2837	Estranho. Eu a vi entrar, mas / agora não a encontro em lugar nenhum.
+2838	Terá que olhar nas cabines, / acho.
+2839	Acho que tem razão. / Vou ver uma por uma.
+2840	O guarda é humano. Precisa dormir e / ir ao banheiro como todos. Essa será / sua chance.
+2841	Snake, não se preocupe. Você terá / chance de escapar. Aguente firme.
+2842	Não sei como, mas a porta está aberta.
+2843	Vi a silhueta de alguém com / camuflagem furtiva...
+2844	Camuflagem furtiva? Será o / Emmerich?
+2845	Não, acho que não era o Otacon.
+2846	Então quem?... Não será o Gray Fox?
+2847	Sim, acho que sim. Acho que era...
+2848	...Quer dizer que ele veio salvar / o amigo?
+2849	Pode ser. Ou talvez só não queira / que eu morra numa cela.
+2850	...Não sei. Não imagino o que / ele estava pensando...

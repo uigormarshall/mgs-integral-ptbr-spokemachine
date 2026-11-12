@@ -1,0 +1,150 @@
+1051	Desligue o monitor...
+1052	E a Naomi?
+1053	Droga!
+1054	Coronel, a Naomi está aí?
+1055	Não, ela saiu.
+1056	Está tirando um cochilo.
+1057	Hmmm...
+1058	O que tem a Naomi?
+1059	Talvez seja melhor o Coronel / ouvir isso também.
+1060	Sim... pode falar, Master.
+1061	A Dra. Naomi Hunter não é / a Dra. Naomi Hunter.
+1062	A história dela me pareceu meio / estranha, então investiguei.
+1063	E...?
+1064	Existe uma Dra. Naomi Hunter de verdade, / ou melhor, existia...
+1065	Mas não é a mulher que conhecemos.
+1066	A verdadeira Naomi Hunter desapareceu / em algum lugar do Oriente Médio.
+1067	A nossa Naomi deve ter conseguido / os documentos dela de algum jeito.
+1068	Então quem ela é de verdade?
+1069	Deve ser algum tipo de... espiã.
+1070	Uma espiã!?
+1071	Sim... talvez tenha sido enviada para / sabotar esta operação.
+1072	Está dizendo que ela está com os / terroristas?
+1073	...Eu também não quero acreditar.
+1074	Mas ela trabalha para a FOX-HOUND...
+1075	Então acha que ela teve parte na / rebelião?
+1076	Ou pode estar trabalhando para / outro grupo.
+1077	Outro grupo...?
+1078	Não pode ser...
+1079	Prendam-na.
+1080	O quê!
+1081	Ela nos traiu.
+1082	Ela precisa ser presa e interrogada / para descobrirmos com quem está.
+1083	Se for uma das espiãs deles, / estamos em apuros...
+1084	Como assim!?
+1085	Ah, nada...
+1086	Você contou a ela algum segredo / vital, por acaso?
+1087	Isso tem a ver com as mortes misteriosas / do chefe da DARPA e do presidente / da ArmsTech?
+1088	Eu... não faço ideia.
+1089	De qualquer forma, ela não pode mais / participar desta missão.
+1090	Espere um pouco.
+1091	Sem ela, não podemos concluir / a missão.
+1092	Eu sabia. Você está escondendo algo.
+1093	Me dê um tempo.
+1094	Vou tentar arrancar isso dela...
+1095	Então se apresse.
+1096	Precisamos descobrir quem ela é / e o que faz aqui.
+1097	Snake, me dê um tempo.
+1098	Não tenho mais tempo para você.
+1099	Snake... sou eu.
+1100	Achou um bom lugar para se esconder?
+1101	Achei, graças ao equipamento furtivo.
+1102	Parece que terminaram de preparar / o Metal Gear.
+1103	Como sabe disso?
+1104	Ouvi eles conversando.
+1105	Bem na frente do Metal Gear. / ...mas é estranho.
+1106	O quê?
+1107	Não tem ninguém aqui...
+1108	...nem guardas, nem patrulhas...
+1109	...está quieto demais.
+1110	Talvez porque já está tudo pronto.
+1111	Disseram que até inseriram / os códigos PAL.
+1112	O que devo fazer?
+1113	Só nos resta usar o sistema de / anulação que o presidente Baker / mencionou.
+1114	Mas só tenho uma das três chaves.
+1115	E, como disse o Ocelot, / há um truque para usar as chaves...
+1116	Deixe comigo...
+1117	Tem algum plano?
+1118	Estou na sala de computadores / agora.
+1119	Tentando acessar os arquivos / particulares do Baker.
+1120	Os arquivos do Baker?
+1121	Não precisa de senha?
+1122	Claro. Mas há jeitos...
+1123	Você é hacker?
+1124	Sim. / Dá pra dizer que sim.
+1125	Parece que consegue entrar?
+1126	Ainda não sei.
+1127	Vou tentar.
+1128	Conto com você...
+1129	Snake... sou eu de novo.
+1130	Como está indo?
+1131	Hmmm... nada mal.
+1132	Passei do terceiro nível de segurança.
+1133	Ele era bem cuidadoso.
+1134	Acha que vai conseguir entrar logo?
+1135	Nunca vi sistema que eu não / conseguisse invadir.
+1136	Certo, continue tentando...
+1137	Snake, consegui!
+1138	Passou pela segurança?
+1139	Bingo!!!
+1140	Ótimo! E o que achou?
+1141	Acessei o arquivo confidencial / do Metal Gear.
+1142	E o sistema de anulação PAL / de que o Baker falou?
+1143	Ainda não encontrei...
+1144	É isso que preciso saber!
+1145	Mas, Snake, achei outra coisa!
+1146	O segredo da nova arma nuclear!
+1147	Como eu pensava, a ogiva nuclear / foi feita para ser disparada do / canhão eletromagnético como projétil...
+1148	Não usa combustível, então não é / considerada um míssil.
+1149	Assim contorna todo tipo de / tratado internacional.
+1150	Bem esperto.
+1151	Sim, mas eficaz.
+1152	E isso nem é o mais assustador / nessa arma.
+1153	Mal posso esperar para ouvir.
+1154	É uma arma furtiva!
+1155	Quer dizer que não aparece no radar?
+1156	A verdade é que... trabalham num / míssil furtivo desde o fim dos anos 70.
+1157	Por que só conseguiram / desenvolver agora?
+1158	Por causa da propulsão a foguete do / míssil... satélites inimigos o detectam.
+1159	Ah, faz sentido.
+1160	Mas, ao contrário de um míssil, o / canhão não queima propelente.
+1161	Então os sistemas atuais de detecção / de mísseis balísticos não o detectam.
+1162	Uma ogiva nuclear invisível...
+1163	Totalmente impossível de interceptar.
+1164	E além disso tem uma ogiva perfurante / feita para penetrar bases / subterrâneas reforçadas.
+1165	Aprendemos essa lição na / Guerra do Golfo.
+1166	Isso pode significar o fim / do mundo!
+1167	É a arma definitiva.
+1168	E do ponto de vista político, / evita o problema da redução e da / inspeção nuclear.
+1169	Coronel, isso é verdade? / Está ouvindo?
+1170	Estou ouvindo...
+1171	Se isso vazar,
+1172	pode atrasar a assinatura do Tratado / Start 3 e causar um enorme / incidente internacional.
+1173	É, seria feio.
+1174	Os Estados Unidos seriam / condenados pela ONU... poderia até / derrubar o Presidente...
+1175	Você sabia disso, Coronel!?
+1176	Você mudou, Coronel...
+1177	Não vou dar desculpas...
+1178	Snake, ouça.
+1179	Essa nova arma nuclear nunca foi / testada de fato, só simulada.
+1180	Quer dizer, num modelo de computador?
+1181	Sim, por isso fizeram / este exercício.
+1182	Precisavam de dados experimentais / reais para sustentar / a simulação.
+1183	Qual foi o resultado do exercício?
+1184	Parece que foi melhor do que / esperavam. Mas...
+1185	Não encontro os dados em lugar / nenhum desta rede.
+1186	Dados tão importantes deveriam / estar bem registrados...
+1187	Estavam. O presidente Baker me deu / um disco óptico com todos os dados.
+1188	O quê!? Ainda está com ele?
+1189	Não. O Ocelot tomou de mim.
+1190	Droga...
+1191	Os terroristas trocaram a ogiva / de teste por uma ogiva real.
+1192	Assim que inserirem os códigos de / detonação, estarão prontos para lançar.
+1193	Acha que conseguem?
+1194	Bem, a ogiva de teste era idêntica / à real, então acho que sim.
+1195	Já descobriu como anular?
+1196	Ainda não. / Deve estar em outro arquivo.
+1197	Agora estou vasculhando todos os / arquivos pessoais do Baker.
+1198	Contamos com você...
+1199	Snake?
+1200	Achou?

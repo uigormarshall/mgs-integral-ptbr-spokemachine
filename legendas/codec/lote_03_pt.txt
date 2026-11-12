@@ -1,0 +1,150 @@
+301	E aí, Snake? Já se acostumou / com o radar?
+302	Já. É um ótimo sistema. Além do relevo, / também acompanho o movimento / dos inimigos.
+303	Prático, né? E também facilita ver / tudo o que você está fazendo.
+304	Você vê tudo?
+305	Claro. Se fosse meu namorado, / nunca poderia me trair.
+306	Ser vigiado 24 horas por dia... / Seria um inferno.
+307	Não pense assim. Pelo menos / você nunca se perde.
+308	Se for com cautela, provavelmente / não vai cometer um grande erro. / Snake, mesmo acostumado com a / missão, mantenha a concentração.
+309	Um conselho de amigos pode / evitar muita dor de cabeça. / Pense nisso.
+310	Se estiver em apuros ou precisar de / informações, chame o Coronel / Campbell ou outra pessoa. Certo?
+311	Quer dizer que o lado com mais gente / costuma vencer. Você está em grande / desvantagem, Snake... Evite ser visto.
+312	Queria poder mandar armas por este / Codec, em vez de só dados.
+313	Seria ótimo. Já me sinto / um ladrão...
+314	Revirando salas, vasculhando os / bolsos de inimigos caídos...
+315	Mas você não tem escolha, Snake.
+316	Talvez, mas acho que estou virando / cleptomaníaco. Só fico enfiando / coisas no bolso.
+317	Já ouviu esta? / Foi Confúcio quem disse...
+318	Chega de provérbios por agora. / Quero saber de você.
+319	O que isso quer dizer?
+320	Quer dizer que mal te conheço, Snake. / Não seria certo começar a contar / minha vida pessoal.
+321	Tudo bem... mas não vou desistir.
+322	Snake, você pegou um resfriado, não é? / Não acha melhor tomar pelo / menos um remédio?
+323	Isso é de Henrique IV. Snake, é melhor / tomar esse remédio e melhorar. O / sucesso da missão pode depender disso.
+324	Mei Ling, como você entrou / nesta profissão?
+325	Na verdade... sempre quis ser / piloto de caça.
+326	Me apaixonei por jatos vendo / filmes.
+327	Você se surpreenderia com quantos / dizem o mesmo.
+328	Mas eu não queria matar ninguém. Aí / soube que a Força Aérea dos EUA / precisava de gente para BDA, avaliação / de danos de batalha.
+329	São os que confirmam o sucesso / de um bombardeio.
+330	É. Então comecei a estudar fotografia / aérea e inteligência aérea. / Foi a minha formação.
+331	Mas não existem pilotos que / só fazem BDA...
+332	Pois é. Mas quando descobri isso, / eu já era especialista na área.
+333	Mei Ling, você disse que queria / ser piloto. Fez teste de aptidão?
+334	Bom, minha vista é ruim. Você talvez / não saiba, mas uso lentes de contato.
+335	Então reprovou no teste, é?
+336	É, ridículo. Já não voamos / mais de biplano, sabe.
+337	Verdade. Os pilotos de hoje voam / jatos várias vezes mais rápidos / que o som.
+338	Exato. Nessa velocidade, o olho nu / não adianta muito. Precisa de / eletrônica sofisticada para ver / o que realmente acontece.
+339	Foi por isso que você criou / seu sistema de radar?
+340	Foi. Eu queria um radar que ajudasse / os soldados a decidir melhor, / com mais informação.
+341	Então seu radar mostra o que / realmente acontece, é?
+342	Depende de como você interpreta. / Como a beleza, a verdade está nos / olhos de quem vê.
+343	Nem me fale.
+344	Snake, como é lutar?
+345	Por que pergunta?
+346	Eu gosto de jogos de luta.
+347	Jogos?
+348	É. Jogos de luta. Desde que comecei / neste trabalho, vi muita gente se matar. / Mas sempre num monitor, ou por / transmissão em rajada.
+349	Não é um trabalho muito bom, né.
+350	Não sei. Vendo num monitor, / parece mesmo um videogame.
+351	Isto não é jogo! Não dá pra / recomeçar se você errar.
+352	Desculpe...
+353	Matar não é divertido. Nem bonito, / como nos videogames.
+354	Tudo bem, Snake... entendi. / Guerra não é jogo.
+355	Escute, Mei Ling, depois desta / operação, quero que volte a ser / uma estudante normal.
+356	Você devia se divertir... com / videogames de verdade, não com guerra.
+357	Snake, avance quando for seguro e / recue quando houver perigo. Vai ter / que improvisar conforme a situação.
+358	É porque o bom nadador superestima / sua habilidade e subestima / a força do rio.
+359	Você já deve estar bem acostumado / com a missão, mas não relaxe.
+360	Não fique pensando em outra coisa / durante a missão, tá?
+361	Snake, rir é o melhor remédio.
+362	Que bom que você tem tempo livre / para jogar. Divirta-se, tá?
+363	Mas... por outro lado, você teve que / roubar ou achar cada item que tem, / então acho melhor não dizer isso.
+364	É a sua cara. Você consegue, Snake. / Mas precisa ser flexível... se / adaptar a cada situação.
+365	Não esqueça por que está aí. / Aproveite cada oportunidade / que surgir.
+366	Mas acho que nem preciso / dizer isso, né?
+367	Não esqueça de salvar / minhas lembranças também.
+368	Não dá pra salvar lembranças, nem / nesse seu sistema. Lembranças são / frágeis.
+369	Depois de virarem números binários / e viajarem pelo ar, já não são / mais lembranças.
+370	Eu não teria tanta certeza. Não há / nada que meus sistemas não façam.
+371	Lembranças não são só sons e / imagens. Elas existem em algum lugar / entre os sons, entre as imagens.
+372	Não entendo. Tudo pode ser / feito digitalmente.
+373	Se é assim, então salve o que / estou pensando agora.
+374	Isso eu não consigo salvar. Pelo / menos precisa pôr em palavras...
+375	Exato. E lembranças são isso... / sem palavras.
+376	Não sei não...
+377	Por mais que a tecnologia avance, / nunca vai penetrar no / coração humano.
+378	Você está errado. É questão de tempo...
+379	Mas primeiro tente entender / as emoções humanas, Mei Ling.
+380	E como faço isso?
+381	Precisa se permitir / apaixonar por alguém.
+382	Quer dizer que, quando as coisas / ficarem feias, tente lembrar / o que é importante.
+383	Mantenha as coisas em / perspectiva, tá?
+384	Quer dizer que, se você confia que / o que faz é da sua natureza, / não deve haver hesitação.
+385	Não sei se suas ordens são da sua / natureza ou não. Mas Snake... / acredite em você!
+386	E você, Snake? Pensa assim? Existe / algo que você não faria para / continuar vivo?
+387	Pense nisso, Snake.
+388	Snake, não desista. Lembre de / Macbeth, ato V, cena 3.
+389	Todos contam com você, Snake... / Você tem que conseguir!
+390	E você, Snake? Sua honra também / é só uma bolha vazia?
+391	Estamos quase sem tempo, Snake.
+392	Rápido! Só você pode impedi-los / de lançar aquela bomba nuclear.
+393	Já ouviu isso? / É de Elizabeth Barrett Browning.
+394	Ah... não pense muito nessa. / Nem sei por que falei isso...
+395	Boa sorte, Snake.
+396	Ora, Snake. Não me chame / sem motivo.
+397	Snake, você está bem? Fico com tanto / medo por você. Deve ser horrível.
+398	Já passei por coisa muito pior. / Pode acreditar.
+399	Uau. Você é mesmo um herói.
+400	Ainda bem que o Codec liga direto / no seu ouvido interno. Pode nos / chamar a qualquer hora.
+401	...É sempre bom saber que / você está bem.
+402	Que tal chamar o Coronel? Se alguém / sabe achar uma saída, é ele.
+403	Mei Ling... Você deve achar / que sou um lixo...
+404	...Snake, não se culpe tanto.
+405	Você só...
+406	Deixei matarem a Meryl para salvar / minha pele inútil!
+407	Escute... na China existe um ditado...
+408	Esqueça... desta vez uso / minhas próprias palavras.
+409	Anime-se, Snake.
+410	Não ligue para o que ele disse. É / só blefe. Tenho certeza.
+411	Não acho que ele seja de blefar...
+412	Mas, Snake, você tem uma missão. / Se recomponha pelo bem do mundo.
+413	Primeiro, descubra como / sair daí.
+414	Snake, me escute!
+415	Você... precisa se recompor / e voltar ao trabalho.
+416	Obrigado, Mei Ling...
+417	Mei Ling, acho que não aguento / passar por tudo de novo. Salve / a missão, por favor.
+418	Certo, Snake, deixa comigo.
+419	Snake, não posso fazer nada para / ajudar. Só posso torcer por você!
+420	Snake, prenderam o Coronel. Não sei / o que fazer. Este provavelmente / será seu último save.
+421	Vou sentir falta dos seus / provérbios.
+422	Mei Ling, preciso de um favor.
+423	Faça uma cópia impressa de toda a / conversa do Codec até agora. / Quero um seguro.
+424	Certo, Snake. Deixa comigo.
+425	Snake, por favor. Se cuide... por mim.
+426	Aqui é o Snake.
+427	Coronel, está me ouvindo?
+428	Alto e claro.
+429	Qual é a situação, Snake?
+430	Parece que o elevador dos fundos é / o único caminho para cima.
+431	Como eu esperava.
+432	Você terá que pegar o elevador / até a superfície.
+433	Mas cuide para ninguém te ver.
+434	Se precisar, me chame pelo Codec.
+435	A frequência é 140.85.
+436	Para usar o Codec, / aperte o botão Select.
+437	Quando precisarmos falar com você, / o Codec vai apitar.
+438	Ao ouvir esse sinal, / aperte o botão Select.
+439	O receptor do Codec estimula direto / os ossinhos do seu ouvido.
+440	Ninguém além de você consegue ouvir.
+441	Entendido. / Certo. Estou pronto.
+442	É o Snake.
+443	Estou em frente à instalação / de descarte.
+444	Excelente, Snake.
+445	A idade não te atrasou nem um pouco.
+446	Graças ao treino em RV a bordo / do Discovery.
+447	Demorou bastante.
+448	Imagino que esteja meio enferrujado.
+449	Não se preocupe.
+450	Faz tempo, mas está tudo / voltando.

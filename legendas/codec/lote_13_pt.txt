@@ -1,0 +1,150 @@
+1801	Hã? Você não tem óculos térmicos? / Com essa sua vista, talvez / consiga achá-los se olhar bem.
+1802	Otacon, em que direção fica / a base subterrânea?
+1803	Fica no campo de neve ao norte da / Torre B. A porta é nível 6.
+1804	O tempo está horrível. Cuidado / para não se perder lá fora.
+1805	Snake, nem preciso dizer, mas o frio / é congelante. Seria perigoso ficar / muito tempo no campo de neve.
+1806	Otacon, onde acho munição / para a PSG-1?
+1807	E-eu não posso te dizer.
+1808	O elevador parou num andar de baixo / e não sobe. Há como chegar a um / elevador que me leve mais fundo?
+1809	Bem... há um, mas...
+1810	Está vendo a oeste do alto-forno?
+1811	Está vendo aquele guindaste? Se descer / por aquelas escadas, acho que chega / ao outro lado.
+1812	Você já viu alguém descer lá?
+1813	Não, mas já vi ratos indo lá.
+1814	Eu pareço um rato pra você?
+1815	Cuidado com esse guindaste também.
+1816	Se ficar perto daquelas escadas, acho / que consegue chegar ao outro lado... / talvez.
+1817	Há um elevador de carga no nordeste / do andar de baixo. Ele leva à base / subterrânea do Metal Gear.
+1818	Você vai notar logo. Tem um / holofote grande de patrulha nele.
+1819	...Estarei observando, Snake...
+1820	Snake, não há onde se esconder nesse / elevador. Você vai ter que lutar!
+1821	Aquela sala ainda está em obras, pois / a prioridade era terminar a base / subterrânea do Metal Gear.
+1822	Mas, com todos aqueles contêineres, / deve ser fácil se esconder, certo?
+1823	Não sei nada sobre a Dra. Naomi, / então não tenho muito a dizer...
+1824	Mas, Snake, é melhor deixar isso com / o Coronel Campbell. Não acha melhor / ir logo para a Sala de Controle?
+1825	É lá que fica o sistema de / cancelamento de emergência do PAL.
+1826	A Sala de Controle fica no 3º andar / da base onde você está.
+1827	Está vendo a escada ao lado / do Metal Gear?
+1828	Pode subir por ela.
+1829	Otacon. Como vai?
+1830	Ainda não. Me dê mais um tempinho.
+1831	Já conseguiu?
+1832	Por favor, Snake, me dê mais / um tempinho.
+1833	E então? Achou o arquivo do / sistema de cancelamento?
+1834	Ainda não. Preciso de mais um tempo.
+1835	Bem, achei muita informação sobre / essa nova arma nuclear...
+1836	Lançar um míssil balístico tem 4 fases. / A primeira é a Fase de Impulso.
+1837	Começa no lançamento e termina quando / todo o combustível do foguete queima / e o míssil é impelido à exosfera.
+1838	A próxima é a Fase Pós-Impulso. Começa / quando o combustível acaba e termina / com a ejeção do veículo de reentrada.
+1839	Depois vem a Fase Intermediária. Ocorre / após a ejeção do veículo de reentrada / e dura até o míssil entrar na exosfera.
+1840	Então vem a Fase Final. Começa quando / o veículo de reentrada entra na / exosfera e vai até atingir o alvo / final no solo.
+1841	Os sistemas de defesa usam satélites / militares para detectar as emissões / do foguete na Fase de Impulso.
+1842	Mas essa nova arma usa a capacidade / do canhão eletromagnético de lançar / projéteis a velocidades altíssimas, / em vez de um foguete.
+1843	Por isso ela não é detectada pelos / sistemas de defesa atuais!
+1844	E ainda por cima, o veículo de / reentrada usa tecnologia Stealth...
+1845	É tão preciso que a zona de 50% de / acerto fica perto de 50 metros. / Igual ao melhor ICBM.
+1846	Uma arma nuclear precisa, indetectável / e impossível de interceptar. Nem / saberíamos de onde veio...
+1847	E não é só isso. Um míssil balístico / comum usa foguete a combustível sólido / de 2 ou 3 estágios para propulsão.
+1848	Além de custar caro, manter com / segurança o combustível sólido e / preparar o lançamento dá muito trabalho.
+1849	Mas uma ogiva nuclear lançada por / canhão eletromagnético evita tudo / isso. E ainda é barata.
+1850	É a bomba perfeita. O sonho de / um general...
+1851	E o pesadelo do mundo.
+1852	Achou o arquivo do sistema de / cancelamento?
+1853	Só espere um pouco mais.
+1854	Mas descobri muita coisa sobre / a indústria bélica...
+1855	Após a Guerra Fria, os Estados Unidos / cortaram o orçamento de defesa em / mais de 15%. A indústria bélica sofreu muito.
+1856	Isso gerou uma orgia de fusões e / aquisições.
+1857	Alguns grandes conglomerados de hoje / são o que há 10 anos seriam 20 ou mais / empresas menores.
+1858	A ArmsTech é um deles. Mas perdemos a / licitação para a próxima linha de caças / da Força Aérea dos EUA.
+1859	Depois tentamos aplicações civis, mas / também fracassou. A empresa estava / quase falindo.
+1860	Ironicamente, o Departamento de Defesa / estava na mesma situação.
+1861	Com os grandes cortes, foram forçados / a recorrer ao setor privado para / financiar o desenvolvimento de armas.
+1862	Além disso, o governo passou a exportar / ativamente sua tecnologia de armas / avançadas ao setor privado...
+1863	...para manter um alto padrão de / qualidade no armamento de defesa / do país.
+1864	Por fim, decidiram por um projeto / conjunto de novos sistemas de armas / entre o DOD e o setor privado.
+1865	E... como os dois lados estavam em / péssima situação financeira, aí entrou / toda a troca de favores.
+1866	Então havia outro motivo para o / desenvolvimento conjunto do Metal Gear. / Não era só o Presidente Baker tentando / manter a ArmsTech à tona...
+1867	Os terroristas terminaram de inserir / os códigos de detonação!
+1868	Agora, só dá para impedir o lançamento / inserindo de novo os códigos para / travar a detonação. Você precisa da chave.
+1869	Ache essa chave, Snake! / Não há outro jeito!
+1870	Você achou o cartão, certo? / Primeiro vem a chave em temperatura / ambiente. Use no terminal à esquerda / da Sala de Controle.
+1871	Snake, o cartão mudou de forma. / Você precisa devolvê-lo à temperatura / ambiente!
+1872	Essa chave é na verdade um cartão IC. / Os pinos e o corpo são feitos de uma / liga com memória de forma.
+1873	Foi projetado para que, se não estiver / na forma correta,
+1874	não seja reconhecido pelo terminal de / código PAL da Sala de Controle e o / código de detonação não seja inserido.
+1875	Snake, olhe o cartão. Ele voltou / ao normal! Você precisa mudá-lo / de novo!
+1876	Snake, parece que você mudou a forma / do cartão corretamente.
+1877	Insira no terminal do meio da Sala de / Controle. Antes que esquente e volte / à forma original.
+1878	Agora você tem que esfriar o cartão.
+1879	Onde devo fazer isso?
+1880	Isto é o Alasca. Vá lá fora, / está frio em todo lugar.
+1881	Mas você está perto do depósito onde / lutou com o Raven, certo?
+1882	Aquele lugar fica bem no meio da / camada de gelo permanente e / não tem aquecimento.
+1883	Agora você tem que esfriar a chave. / Você está perto do depósito onde / lutou com o Raven, certo?
+1884	Parece que mudou a forma direito. O / último cartão vai no terminal à direita / da Sala de Controle.
+1885	Mas cuidado. Se ficar muito tempo num / lugar frio, ele volta à forma original. / Você precisa se apressar.
+1886	Um lugar quente? / Que tal o alto-forno?
+1887	Mas se passar por um lugar frio na / volta, o cartão pode mudar de forma. / Tem que se apressar na volta.
+1888	A Naomi é uma espiã inimiga!? / ...Não acredito!
+1889	Eu também não quero acreditar, mas...
+1890	Snake, deixe com o Coronel Campbell. / Concentre-se em inserir de novo / o código de detonação.
+1891	Você tem razão...
+1892	Não posso culpar a Dra. Naomi... / Sinto pena dela.
+1893	...Desde criança eu sempre / odiei meu primeiro nome.
+1894	Hal, não é?
+1895	É... Mas eu não sou um computador, / sou um humano...
+1896	...Meu avô no Projeto Manhattan... meu / pai nascido no dia da bomba de / Hiroshima... Eu odiava tudo isso.
+1897	Meu nome, meu pai, meu avô. / ...Parecia que tudo isso era uma bola / de ferro presa às pernas, me puxando / para baixo...
+1898	Mas agora, pensando bem, / percebo que fui abençoado.
+1899	Pelo menos sei quem eu sou... / de onde vim...
+1900	Mas a Dra. Naomi nem sabia quem eram / seus pais, qual era seu nome de verdade. / Deve ter sido uma menina muito solitária...
+1901	Otacon...
+1902	...Desculpe, Snake. Acho que agora você / deve se focar em inserir de novo / os códigos PAL.
+1903	Você ainda não inseriu o último cartão. / Corra para a Sala de Controle.
+1904	Essa não é a forma certa. Corra e / esquente. O alto-forno é provavelmente / o melhor lugar.
+1905	Snake, isso é vidro à prova de balas. / Não dá para quebrar com arma comum.
+1906	Você não consegue abrir a trava / de segurança daqui?
+1907	Vou tentar. Aguente um minuto.
+1908	Vamos, anda logo!
+1909	Aguente!
+1910	Meu tempo acabou!
+1911	Aguente só mais um pouco!
+1912	Otacon!
+1913	Quase lá. Aguente!
+1914	O que está fazendo? A porta está / aberta, Snake. / Corra atrás do Liquid!
+1915	Snake, a blindagem do Rex é inviolável. / Suas armas não causam dano nenhum.
+1916	O Rex usa o que há de mais moderno / em blindagem composta.
+1917	O único jeito de perfurá-la é com / um projétil HEAT (antitanque de alto / poder explosivo) de alto desempenho.
+1918	Então o que eu faço?
+1919	O assento do piloto do Rex funciona / exatamente como um sistema de RV.
+1920	Tem vários sensores ligados a uma / interface de alta tecnologia / usada nos controles.
+1921	É totalmente fechado e isolado / do ambiente externo.
+1922	Ele não usa os próprios olhos?
+1923	Isso. Então, se você conseguisse / destruir os sensores...
+1924	Está vendo aquela placa redonda no / braço esquerdo do Rex?
+1925	Sim, aquilo que parece um escudo?
+1926	É um radome. Se destruí-lo, ele não / poderá usar o equipamento eletrônico.
+1927	Então ele ficará cego?
+1928	Isso. Tente acertar o radome / com um míssil Stinger.
+1929	Isso vai pará-lo?
+1930	Não, o Rex foi projetado para também / ser controlado manualmente.
+1931	Que ótimo.
+1932	A parte que parece um bico é onde fica / o assento do piloto. Em emergências, / ela se abre.
+1933	A blindagem do Rex é perfeita. / Não dá para destruí-la.
+1934	Você já me disse isso.
+1935	Mas o interior é outra história.
+1936	Entendi... primeiro destruo o radome. / Isso o obriga a abrir o assento / do piloto.
+1937	Isso. Se acertar um Stinger na cabine, / vai destruir o sistema de controle / computadorizado.
+1938	Você projetou com um ponto fraco / de propósito?
+1939	Não é um ponto fraco. Prefiro chamar de / defeito de caráter. As pessoas não são / completas sem um defeito de caráter, / não acha?
+1940	Acho que sim. Te devo uma, Otacon.
+1941	Vi nos arquivos secretos do Presidente / Baker. O Rex tem um laser de elétrons / livres montado na barriga.
+1942	É uma arma laser que converte um feixe / de laser num feixe de elétrons / acelerado por ímãs gigantes.
+1943	Gera uma quantidade incrível de / energia... perto de 100 megawatts. / Dez vezes mais que qualquer outro laser.
+1944	Primeiro use um míssil Stinger para / destruir o radome e desativar / a eletrônica.
+1945	Se o Rex pisar em você, acabou. / Muito cuidado quando ele se aproximar.
+1946	O Rex tem mísseis antitanque nos dois / joelhos. São do tipo guiado por laser / semiativo, sem fios.
+1947	O atirador usa um iluminador laser / para refletir um feixe no alvo.
+1948	Depois, o míssil usa a luz refletida / pelo alvo para se guiar até ele.
+1949	Felizmente, as pontas dos mísseis são / HEAT e não ogivas antipessoal. Mas / se te acertarem em cheio, você se / arrepende. Cuidado.
+1950	O canhão eletromagnético usa / magnetismo para disparar projéteis.

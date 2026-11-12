@@ -1,0 +1,150 @@
+601	Mas ele já estava morto!
+602	Sim. Mas eles o reviveram.
+603	Puseram nele um exoesqueleto protótipo / e o mantiveram dopado por quatro anos...
+604	enquanto o usavam em experimentos / como um brinquedo.
+605	Os soldados genoma de hoje nasceram / desses experimentos.
+606	É a coisa mais doentia que já ouvi...
+607	Usaram ele para testar todo tipo de / técnica de terapia genética.
+608	...Naomi, por que não nos contou / isso antes?
+609	...Porque é informação confidencial.
+610	Só por isso?
+611	Naomi, o que aconteceu com o Gray Fox / depois disso?
+612	O registro diz que ele morreu na / explosão.
+613	Entendo.
+614	Mesmo que o ninja seja o Gray Fox, / por que isso?
+615	Pelo que percebi, ele não sabia / quem era.
+616	Quer dizer que ele é só um robô / sem mente?
+617	Não sei, mas parece decidido a lutar / comigo até a morte...
+618	...vamos nos encontrar de novo, eu sei.
+619	Então vai lutar de novo?
+620	Até matá-lo?
+621	Hmmmm...
+622	Preferia que não, mas talvez seja / o que ele quer...
+623	Meryl, o engenheiro está bem.
+624	Que alívio.
+625	Quero que cuide dele.
+626	Onde você está agora?
+627	Bem perto.
+628	Ali está ela! Lá!
+629	Ah, não!
+630	Droga... me viram!!
+631	Meryl! O que houve!
+632	Coronel, sua sobrinha vai ficar bem.
+633	Valeu, Snake. Te devo uma.
+634	Agora que Mantis foi derrotado, a lavagem / cerebral da Meryl deve passar, certo, / Naomi?
+635	Sim...
+636	Por que se esforçou tanto para / salvá-la?
+637	Pelo Campbell?
+638	...ou...
+639	...será que é porque gosta dela?
+640	Não quero ver mulher nenhuma morrer / bem na minha frente.
+641	Ah, é? Desde quando a morte dos / outros te incomoda tanto?
+642	Naomi! É verdade que o Snake matou / muita gente,...
+643	...mas isso não quer dizer que ele / não tenha coração.
+644	Tudo bem, Coronel... ela tem razão.
+645	Meryl!
+646	Droga!! Snake, é uma armadilha!
+647	Truque de franco-atirador para te atrair.
+648	O atirador espera você ir ajudar a / Meryl para te acertar... Não vá!
+649	Deve ser a Sniper Wolf...
+650	A melhor atiradora da FOX-HOUND.
+651	Franco-atiradores costumam trabalhar / em dupla, mas essa está sozinha, hein?
+652	Eu a conheço.
+653	Ela espera horas, dias ou semanas. / Para ela tanto faz.
+654	Ela só observa e espera você se / expor.
+655	Talvez, mas a Meryl não aguenta / tanto tempo...
+656	Snake, você consegue ver a Wolf / daí?
+657	Não há onde se esconder daqui / até a torre...
+658	...ela deve estar no segundo andar / da torre.
+659	Se a Wolf está na Torre de Comunicações, / ela te vê perfeitamente! É a clássica / posição de franco-atirador!!
+660	Àquela distância, uma arma comum / também não vai alcançá-la!
+661	Você vai precisar de um rifle de precisão!!
+662	Coronel! Calma.
+663	Vou salvar a Meryl custe o que custar.
+664	Certo... obrigado.
+665	Que foi, Naomi?
+666	...Só me surpreende você se sacrificar... / você tem genes de soldado, não de salvador.
+667	Quer dizer que só penso em salvar / minha pele?
+668	Eu não chegaria a tanto, mas...
+669	Não sei como são meus genes e / não me importo.
+670	Eu ajo por instinto.
+671	Como um animal?
+672	Vou salvar a Meryl. / Não preciso de desculpa.
+673	Certo...
+674	E também não faço isso por outra / pessoa.
+675	Vou salvar a Meryl por mim mesmo.
+676	Coronel, não se preocupe!
+677	Snake, obrigado.
+678	Entendo.
+679	Sinto muito.
+680	Já estive melhor...
+681	Como está a Meryl?
+682	...Eles a pegaram.
+683	Snake,...
+684	...o governo decidiu não ceder às / exigências deles.
+685	Estamos tentando ganhar mais tempo.
+686	Vamos, Coronel,...
+687	...pare de se fazer de bobo.
+688	Sinto pela Meryl. Mas quero que as / mentiras acabem agora.
+689	Do que está falando?
+690	O Metal Gear foi projetado para lançar / um novo tipo de ogiva nuclear, / não foi?
+691	Você sabia o tempo todo, não é?
+692	Por que tentou esconder?
+693	...Desculpe...
+694	Não pode contar aos soldados, hein...
+695	...Você mudou muito.
+696	Metal Gear... pesquisa secreta de / armas nucleares avançadas...
+697	A Casa Branca sabe disso? / Até onde vai isso?
+698	...Até onde sei, até ontem o Presidente / não tinha sido informado sobre / o Projeto Rex.
+699	Os tempos são delicados. Até testes / nucleares subcríticos causam / alvoroço.
+700	Negação plausível, hein?
+701	Sim.
+702	E amanhã o Presidente e seu colega / russo devem assinar o Acordo / Start 3.
+703	Entendi. É por isso o prazo.
+704	Isso mesmo, Snake.
+705	E por isso não podemos deixar este / ataque terrorista vir a público.
+706	Nem ratificamos o Start 2 ainda / nem resolvemos a questão dos TMDs.
+707	Isso envolve a reputação do Presidente / e o lugar da América como / superpotência dominante.
+708	Então patriotismo é sua desculpa para / burlar a Constituição?
+709	Por favor, Snake, só detenha eles...
+710	Por que eu deveria?
+711	Porque você é o único que pode.
+712	Nesse caso, me conte a verdade sobre / esse novo tipo de ogiva nuclear.
+713	Já disse antes. / Não sei os detalhes.
+714	Não acredito.
+715	Se a situação é tão grave, por que / não cede às exigências deles?
+716	Entregue os restos do Big Boss.
+717	Veja bem...
+718	Ou há algum motivo para você não / poder fazer isso?
+719	Algo que não me contou...
+720	Em público, o Presidente tem sido / muito firme contra experimentos / de eugenia.
+721	Não queremos que a existência do / exército genoma se torne pública.
+722	E é só por isso?
+723	Hunf! Dane-se você!
+724	O corpo do chefe da DARPA está / aqui do meu lado.
+725	Pobre homem.
+726	Mas é estranho. Ele parece e cheira / como se estivesse morto há dias.
+727	Todo o sangue dele foi drenado também.
+728	Drenado!?
+729	Talvez para retardar a decomposição?
+730	Mas o Chefe morreu só há algumas / horas, certo?
+731	Certo.
+732	Mas ele já começou a se decompor.
+733	O que será que isso significa?
+734	Algo no sangue dele que eles queriam?
+735	Duvido. Só os nanomáquinas e o / transmissor.
+736	O Chefe revelou o código de detonação?
+737	Receio que sim. Parece que têm os / dois códigos e estão quase prontos / para lançar.
+738	Droga. Dá para impedir?
+739	Parece que existe um dispositivo de / emergência que pode anular o / código de detonação.
+740	É uma contramedida que a ArmsTech / instalou em segredo.
+741	Para destravá-lo é preciso três / cartões-chave especiais.
+742	E onde estão esses cartões?
+743	Tenho um deles. Não sei onde estão / os outros dois.
+744	Além disso, estou trancado aqui.
+745	Não temos escolha. / Esqueça os cartões.
+746	Sua prioridade agora é destruir o / próprio Metal Gear.
+747	Sinto jogar tudo isso em cima de você, / mas só tenho você.
+748	Saia daí e vá até a Torre de / Comunicações.
+749	Além disso...
+750	O quê?

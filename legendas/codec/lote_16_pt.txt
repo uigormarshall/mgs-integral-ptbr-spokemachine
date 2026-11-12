@@ -1,0 +1,150 @@
+2251	Aquelas estátuas foram feitas com / o rosto verdadeiro do Mantis.
+2252	Mantis detesta ver o próprio rosto. / Se ele de repente vir a própria cara / desfigurada, pode perder / a concentração.
+2253	Snake, se destruir os rostos das / estátuas, poderá atrapalhar os / poderes psíquicos do Mantis.
+2254	Ele usa a habilidade psíquica para ler / os movimentos do seu Controle. / Por isso ele desvia dos seus ataques.
+2255	Você tem que impedir que ele leia / os movimentos do seu Controle. / Pense! Deve haver um jeito!
+2256	Snake, a Meryl não está / esperando você?
+2257	É falta de educação deixar / uma dama esperando.
+2258	Snake, a Meryl está em perigo! Ache / um rifle de precisão para revidar / contra o Wolf! É a única forma de salvá-la!
+2259	Snake!! Que diabos é isso!! Está / tentando matar a Meryl!!?
+2260	Você enlouqueceu!?
+2261	Pare com isso! Vai matá-la!
+2262	Snake, pare!!
+2263	Você é terrível, Snake!!
+2264	Não!! Não acredito!! O Snake / enlouqueceu!
+2265	Snake, você é um péssimo / exemplo de homem!...
+2266	Conseguiu uma PSG-1? / Use-a contra a Sniper Wolf. / Rápido, salve a Meryl!
+2267	Snake, cuidado. Instalaram novas / câmeras armadas e aumentaram as / patrulhas. Não querem que você / escape.
+2268	Você pode destruí-las com uma / Granada ou bloqueá-las com Chaff...
+2269	Não vai conseguir usar o elevador / sem desativar essas câmeras / armadas.
+2270	Primeiro você precisa recuperar / seus itens.
+2271	Snake, tire essa bomba dos / seus itens!
+2272	Selecione a bomba na janela de / Equipamento e aperte o botão O / para jogá-la fora!
+2273	Rápido! Jogue fora!
+2274	Se o Míssil Controlado ir longe demais, / você perde o controle dele. / Cuidado.
+2275	Veja como fazer rapel.
+2276	Aperte X para pular da parede. Com / você longe da parede, aperte para / baixo no Direcional para descer.
+2277	Se pular apertando direita ou esquerda / no Direcional, dá um grande pulo / nessa direção.
+2278	Se segurar o botão O enquanto usa / o Direcional, você anda devagar / pela parede.
+2279	Com bom timing, você consegue desviar / dos tiros do Hind durante o rapel. / Se alguém consegue, é você, Snake!
+2280	Liquid ainda paira sobre o telhado da / torre B. Ele está esperando você...
+2281	Snake, é hora de enfrentá-lo!
+2282	A entrada da base subterrânea / fica mais abaixo.
+2283	Deve haver um elevador de carga / por ali que leva para baixo. / Tente encontrá-lo.
+2284	Snake, desça nesse elevador até / a base subterrânea.
+2285	Parece que o elevador em que você / estava não desce mais. / Troque para o outro elevador.
+2286	O Metal Gear fica logo abaixo. / Mexa-se!
+2287	Não há tempo. / Os terroristas estão prontos para lançar.
+2288	As negociações acabaram?
+2289	O governo não pode ceder às / exigências dos terroristas.
+2290	Mas eles ameaçam lançar / uma arma nuclear!
+2291	Eles tomaram a decisão final.
+2292	...Por que a Casa Branca está / sendo tão inflexível?
+2293	Coronel, ainda há algo que / está escondendo de mim?
+2294	Snake, por favor... apenas se / concentre em detê-los, certo?
+2295	Snake, não pagamos você para / ser um espantalho, sabia?
+2296	Coitados. / Corvos também são criaturas / de Deus, Snake.
+2297	Coronel, cadê a Naomi?
+2298	Estou aqui, Snake. O que foi?
+2299	Ah... hã... nada. Esqueça.
+2300	Estranho...
+2301	...Snake, a essa altura os terroristas / já terminaram os preparativos do / lançamento. Pare de perder tempo!
+2302	A base do Metal Gear fica adiante.
+2303	Snake, está a mais de 30 graus / negativos lá fora...
+2304	Cuidado, você está se recuperando / de um resfriado...
+2305	Esqueça, obrigado.
+2306	Snake, pare de enrolar e vá até a / base do Metal Gear. Não há / tempo!
+2307	Snake, essa água está contaminada / com lixo nuclear. Se entrar / nela, vai sofrer dano.
+2308	Lixo nuclear?
+2309	Foram extremamente descuidados com / os materiais nucleares. / A Nastasha sabe tudo sobre isso, se / quiser mais informações.
+2310	A frequência dela é 141.52.
+2311	Snake, pegue o cartão de volta do / rato. Observe o trajeto dele e / monte uma armadilha com C4 / ou algo assim.
+2312	Ache aquela chave! Ela caiu em algum / lugar naquela vala de drenagem!
+2313	Use o Detector de Minas.
+2314	Detector de Minas?
+2315	Sim. O Detector de Minas funciona / como um detector de metais. A posição / do cartão deve aparecer no radar.
+2316	Snake, eles inseriram os dois códigos / de detonação. A única forma de parar / o lançamento é usar o cartão para / inserir os códigos de novo.
+2317	Ache o cartão! / Ele caiu em algum lugar naquela / vala de drenagem!
+2318	Conseguiu o cartão... ótimo. Agora volte / à Sala de Controle e use a chave / para inserir os códigos PAL de novo. / Pare esse lançamento!
+2319	Snake, insira os códigos PAL de novo.
+2320	Snake, a câmera de vigilância... / Ao inserir o cartão, não / deixe que ela veja você.
+2321	Tente usar o Chaff.
+2322	Talvez uma Caixa também funcione.
+2323	Snake, o que está fazendo? / Vá atrás do Liquid!
+2324	Que diabos está fazendo, Snake!? / Você tem que parar o Metal Gear!
+2325	Snake, não precisamos de uma ratoeira. / Precisamos de alguém que impeça / esse maldito míssil de ser lançado!
+2326	Snake, matar ratos é tão divertido? / Torturar animais pequenos é sinal / de mente doentia, sabia?
+2327	Snake, é gás! Segure a respiração!
+2328	Seu Medidor de O2 deve aparecer / embaixo da barra de Vida. Se você / não respirar, o medidor diminui.
+2329	Quando chegar a zero, sua barra / de Vida começa a diminuir.
+2330	Tente achar uma Máscara de Gás.
+2331	O gás liberado provavelmente é um / gás nervoso à base de / organofosforado.
+2332	Ele destrói o sistema nervoso ao / impedir a degradação da acetilcolina, / um neurotransmissor importante.
+2333	E não precisa inalar para matar. / Ele pode entrar no corpo / pelo contato com a pele.
+2334	As vítimas morrem em quinze minutos / após os primeiros sintomas: náusea, / suor, convulsões, dor de cabeça / ou dificuldade para respirar.
+2335	Seu Traje de Infiltração dá alguma / proteção. É feito de um material / parecido com o dos soldados NBC.
+2336	Além disso, injetei em você nanomáquinas / com PAM (cloreto de protopam), / um neutralizador de gás nervoso.
+2337	Mas isso só protege temporariamente. / É melhor achar uma Máscara / de Gás!
+2338	O que você tem aí? / Uma caixa de papelão?
+2339	Sim. Lembra desse truque?
+2340	Esse é o Snake que eu conheço. Esses / pobres coitados nem vão saber / o que os atingiu.
+2341	Você está fumando?
+2342	Estou, e daí?
+2343	Não sabia que cigarros contêm / benzopireno, uma substância que / causa câncer de pulmão?
+2344	Sabemos agora que, ao entrar no corpo, / o benzopireno se transforma em / diol-epóxido de benzopireno (BPDE)
+2345	e se liga aos receptores do gene P53, / o gene que causa o câncer / de pulmão.
+2346	O BPDE se liga ao gene P53 em três / pontos específicos e causa alterações / pré-cancerosas no tecido / pulmonar.
+2347	Você sabe muito de ciência, mas não / sabe como um cigarro é / bom de manhã.
+2348	O tranquilizante que o Wolf usa é / diazepam.
+2349	Diazepam?
+2350	É um ansiolítico à base de / benzodiazepínico. Tem forte efeito no / sistema nervoso central e costuma / ser usado como psicotrópico.
+2351	Então como isso para o tremor / das mãos dela?
+2352	Ansiolíticos também são eficazes como / relaxantes musculares. São muito / usados em transtornos psicossomáticos
+2353	como ataxia autonômica ou como / pré-anestésico, para relaxar o / paciente antes de uma operação.
+2354	Mas cuidado. Em doses altas por um / longo período, o diazepam vicia, / como o álcool.
+2355	Um adulto não deve tomar mais que / uma a quatro doses por dia, de / 0,25 a 0,5 miligrama cada.
+2356	Nossa, você parece médica.
+2357	Eu sou cientista.
+2358	Snake, olhe suas rações. Estão / congeladas. Não dá para usar / ração congelada.
+2359	Enquanto não descongelarem, você não / recupera energia. / Tome muito cuidado.
+2360	Elas descongelam em lugar quente. / Provavelmente o contato com a / pele já resolve.
+2361	Snake, a Naomi quer falar com você.
+2362	Como se sente, Snake?
+2363	Pra falar a verdade, acho que estou / pegando um resfriado...
+2364	Estou monitorando você pelas / nanomáquinas... Sua temperatura / está alta e os gânglios levemente / inchados.
+2365	Mas não se preocupe, parece ser só / um rinovírus leve.
+2366	Acho que peguei daquele soldado.
+2367	Aumentei sua nutrição e elevei / seu nível de açúcar no sangue.
+2368	Você não consegue curar?
+2369	Desculpe, Snake. / As nanomáquinas não levam / antibióticos.
+2370	Talvez ache alho. Ele tem antibióticos / naturais, sabia? E vitaminas / e minerais também.
+2371	Argh. Alho cru. Faça-me o favor.
+2372	Deve haver algum remédio para / resfriado na base. Faria você / se sentir melhor.
+2373	Se não, vai ter que esperar as / defesas naturais do corpo agirem.
+2374	Depois selecione a arma que quer com / o Direcional.
+2375	Para usar a arma, siga as instruções / exibidas na janela.
+2376	Com o botão R1 você equipa a arma / mais rápido. Estando de mãos / vazias, aperte R1 para equipar a última
+2377	arma usada. Aperte R1 enquanto / segura uma arma para ficar / de mãos vazias de novo.
+2378	Não dispare sem necessidade ou pode / ser descoberto. Com uma arma com / silenciador, seria diferente...
+2379	Se tiver dúvidas sobre armas ou / equipamentos, pergunte à nossa / analista militar, Nastasha. / A frequência dela é 141.52.
+2380	Snake! Olhe o radar! Captamos o / sinal do Chefe da DARPA.
+2381	Vê o ponto verde piscando no radar? / Vem do transmissor no corpo do Chefe. / É onde você vai encontrá-lo.
+2382	Parece que o Chefe está preso numa / cela. Ache um jeito de entrar lá. / Rápido, tire-o de lá.
+2383	Snake, você não captou o sinal do / Chefe da DARPA no subsolo do / 1º andar?
+2384	Snake, não soube que o Chefe da / DARPA foi levado para uma cela no / subsolo do 1º andar?
+2385	Snake, sua missão é infiltrar, não / lutar. Não deixe o inimigo ver você.
+2386	Não demorou nada para ser / avistado, hein?
+2387	Pena, parece que sua cobertura / caiu. Prossiga com extremo cuidado.
+2388	Primeiro você precisa resgatar o Chefe / da DARPA. Infiltre o prédio à frente. / Procure um jeito de entrar.
+2389	Snake, primeiro ache o Chefe da / DARPA. Procure pistas.
+2390	Snake. Só para garantir, vamos revisar / como usar o sistema Codec.
+2391	Snake, para enviar uma transmissão, / primeiro aperte Select. Isso / coloca você no Modo Codec.
+2392	Na tela do Codec, aperte direita ou / esquerda no Direcional para / mudar a frequência.
+2393	Depois aperte para cima no Direcional / ou o botão O para transmitir / nessa frequência.
+2394	O Codec também guarda automaticamente / as frequências de quem você já / contatou. Para abrir a Janela de Memória,
+2395	aperte para baixo no Direcional / na tela do Codec.
+2396	A Janela de Memória mostra a lista de / todas as frequências. É só escolher / a frequência desejada e / apertar O para transmitir.
+2397	Para voltar ao Modo Codec normal, / basta apertar Select ou X.
+2398	Se for avistado, todos os inimigos / vêm atacar você de uma vez. / Isso é o Modo Alerta.
+2399	Nesse caso, só há duas formas de / sair do perigo.
+2400	Matar todos os inimigos que estão / atrás de você, ou fugir deles por / um certo tempo.

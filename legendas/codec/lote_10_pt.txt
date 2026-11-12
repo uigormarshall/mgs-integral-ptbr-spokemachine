@@ -1,0 +1,150 @@
+1351	É um tipo de citocina, um peptídeo / que faz as células morrerem.
+1352	O TNF epsilon viaja pela corrente / sanguínea até o coração, onde se liga / aos receptores de TNF nas células / cardíacas.
+1353	E aí...causa um ataque cardíaco?
+1354	As células do coração sofrem um choque / e entram em apoptose extrema. / Então...
+1355	...a vítima morre.
+1356	Apoptose...quer dizer que as células / do coração se suicidam...
+1357	...Naomi...
+1358	...O quê?
+1359	...Você programou essa coisa / pra me matar também, não foi?
+1360	Ainda tenho tempo?
+1361	Naomi, não te culpo por querer / me ver morto.
+1362	Mas ainda não posso ir. / Tenho um trabalho a terminar.
+1363	Escute, Snake.
+1364	...Não fui eu quem decidiu / usar o FoxDie.
+1365	Não foi?
+1366	Você recebeu o FoxDie como / parte desta operação.
+1367	Eu só queria que você soubesse que...
+1368	...Não, essa não é a verdade toda...
+1369	O que eu realmente queria te dizer / era...
+1370	Snake, eu...eu...
+1371	Ei! O que está fazendo!?
+1372	Aaaah!!
+1373	Ooooh....
+1374	Snake.....
+1375	...Snake, não posso permitir que Naomi / faça mais transmissões não autorizadas.
+1376	Naomi foi afastada desta / operação.
+1377	O que aconteceu com a Naomi!?
+1378	O que ela quis dizer com o FoxDie / ser parte desta operação!?
+1379	Coronel, deixe-me falar com ela!
+1380	Não vou deixar. Ela está presa.
+1381	...você me traiu!
+1382	Snake, não há tempo pra isso!
+1383	Agora sua missão é deter / o Metal Gear!
+1384	...Entendeu, Snake!?
+1385	Obrigado, Snake.
+1386	Agora o código de detonação está / completo.
+1387	Nada pode deter o Metal Gear agora.
+1388	Mestre, o que está acontecendo?
+1389	Você achou a chave e ainda ativou / a ogiva pra nós. Eu realmente devo / agradecer.
+1390	Desculpe ter envolvido você naquela / bobagem da liga com memória de forma.
+1391	Não conseguimos descobrir o código / do Chefe da DARPA.
+1392	Nem com os poderes psíquicos do Mantis / ele conseguiu ler a mente dele.
+1393	Aí o Ocelot o matou sem querer / durante o interrogatório.
+1394	Ou seja, não conseguíamos / lançar o dispositivo nuclear e / estávamos todos ficando preocupados.
+1395	Sem a ameaça de um ataque nuclear, / nossas exigências jamais seriam atendidas.
+1396	O que quer dizer?
+1397	Sem os códigos de detonação, / precisávamos achar outro jeito.
+1398	Foi aí que pensamos...que você / poderia ser útil, Snake.
+1399	Primeiro pensei em conseguir a / informação com você, Snake.
+1400	Então mandei o Decoy Octopus se / disfarçar de Chefe da DARPA.
+1401	Infelizmente o Octopus não sobreviveu / ao encontro. ...Graças ao FoxDie.
+1402	Quer dizer que planejaram isso / desde o início?
+1403	Só pra me fazer digitar o código / de detonação!?
+1404	Hã? Não achou que tinha chegado / tão longe sozinho, achou?
+1405	Quem diabos é você!?
+1406	De qualquer forma, os preparativos / de lançamento estão completos.
+1407	Quando o mundo vir o poder / desta arma,
+1408	a Casa Branca não terá escolha / a não ser me entregar a vacina / do FoxDie.
+1409	A carta na manga deles é inútil agora...
+1410	Carta na manga?
+1411	Mas o quê...!
+1412	O plano do Pentágono de usar você / já deu certo...
+1413	...na sala de tortura.
+1414	Snake, você é o único que / não sabe.
+1415	Pobre tolo.
+1416	Quem é você afinal!?
+1417	Eu te conto tudo que quiser / saber.
+1418	Se vier até onde eu estou, claro.
+1419	Onde você está?
+1420	Bem perto.
+1421	Snake, esse não é o Mestre Miller!
+1422	Campbell, você chegou tarde.
+1423	O corpo do Mestre Miller acabou de / ser encontrado na casa dele.
+1424	Está morto há pelo menos três / dias.
+1425	Eu não sabia porque meu link de Codec / com o Mestre foi cortado.
+1426	Mas a Mei Ling disse que o sinal dele / vinha de dentro da base!
+1427	Então quem é?
+1428	Snake, você esteve falando com...
+1429	...Eu...
+1430	...querido irmão.
+1431	Liquid!? Como...!?
+1432	Você cumpriu seu papel.
+1433	Já pode morrer!
+1434	Coronel! Está me ouvindo?
+1435	Sim...estou ouvindo.
+1436	O que o Pentágono está tentando fazer!?
+1437	Coronel! Responda!
+1438	O Secretário de Defesa assumiu o / controle ativo desta operação.
+1439	Ele está indo pra aí num AWACS.
+1440	Pra quê?
+1441	Pra bombardear o local.
+1442	E não só isso.
+1443	Bombardeiros B-2 acabaram de decolar / da Base Aérea de Galena.
+1444	Levam bombas nucleares táticas / B61-13 perfurantes de superfície.
+1445	O quê!? O Metal Gear foi destruído. / Avise o Secretário de Defesa!
+1446	O Secretário soube que a Naomi nos / traiu e está preocupado com o FoxDie.
+1447	Agora que não há mais perigo de / ataque nuclear do Metal Gear,
+1448	ele fará o que for preciso pra / encobrir a verdade sobre o que / aconteceu aqui.
+1449	Vai lançar uma bomba nuclear pra / vaporizar todas as provas junto com / quem souber de alguma coisa...
+1450	Não se preocupe, Snake.
+1451	Vou impedir o ataque nuclear.
+1452	Posso ser só uma figura decorativa, mas / ainda comando oficialmente esta / missão.
+1453	Se eu ordenar o adiamento do ataque, / vou confundir a cadeia de comando e / pelo menos ganhar tempo pra você.
+1454	Vai te dar uma chance de fugir!
+1455	Mas Coronel, se fizer isso...
+1456	Tudo bem, Snake.
+1457	...A verdade é que o FOX-HOUND já / era alvo de uma investigação / secreta.
+1458	A Meryl foi transferida pra esta base / pouco antes do ataque terrorista...
+1459	...pra me manipularem.
+1460	Aqueles desgraçados...
+1461	Me forçaram a cooperar em / troca da vida dela.
+1462	É melhor sair daí, Snake.
+1463	...Vai ser ruim pra você.
+1464	É o mínimo que posso fazer depois / de todas as mentiras.
+1465	Estou ordenando que cancelem o / bombardeio.
+1466	Depois disso não há volta...
+1467	Aaaah! O que estão fazendo!?
+1468	Snake!
+1469	Mei Ling, o que aconteceu com / o Coronel!?
+1470	...Não acredito!!
+1471	O que aconteceu!?
+1472	Snake, o Coronel...!!
+1473	Roy Campbell foi afastado do / serviço.
+1474	Aqui é o Secretário de Defesa, / Jim Houseman.
+1475	Ponha o Coronel de volta!
+1476	Ele foi preso por vazar informação / ultrassecreta e pelo crime de / alta traição.
+1477	Ridículo!
+1478	Sim, ele é um homem ridículo.
+1479	Acreditava mesmo que comandava / esta operação.
+1480	Seu desgraçado...!
+1481	Não vai sobrar um vestígio de / prova.
+1482	Tenho certeza de que o Presidente / quereria o mesmo.
+1483	O Presidente ordenou isso?
+1484	O Presidente é um homem ocupado.
+1485	Tenho autoridade total aqui.
+1486	Como pretende explicar um ataque / nuclear no Alasca para a mídia?
+1487	Já preparamos uma história de / cobertura convincente.
+1488	Diremos simplesmente que os terroristas / detonaram um dispositivo nuclear.
+1489	...Esperto.
+1490	Vai assassinar todo mundo aqui. / Os cientistas, o Exército Genoma, / todos...
+1491	Donald...
+1492	...o Chefe da DARPA já está morto...
+1493	Então você não pretendia matar o / Chefe da DARPA?
+1494	Ele era meu amigo.
+1495	E você não liga pro que / acontece com os outros, né?
+1496	Bem, se me entregar o disco óptico, / posso considerar poupá-los.
+1497	Os dados de teste do Metal Gear!
+1498	O Donald deveria trazê-lo de volta.
+1499	Não está comigo.
+1500	Entendi. / Bom, tudo bem...

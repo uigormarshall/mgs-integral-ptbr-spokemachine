@@ -1,0 +1,150 @@
+751	Meryl, certo?
+752	É...
+753	Eu vou salvá-la.
+754	Obrigada.
+755	Naomi, fale comigo.
+756	Diga algo pra tirar minha cabeça / da dor.
+757	O que posso dizer?
+758	Qualquer coisa.
+759	Eu... não sou boa de conversa...
+760	Por favor...
+761	...fale sobre você.
+762	Sobre mim?
+763	...Essa é difícil.
+764	Tem família?
+765	...Não é um assunto feliz pra mim.
+766	Eu não tenho família...
+767	Não, espere, teve um homem que disse / ser meu pai...
+768	Onde ele está?
+769	Morto.
+770	...pelas minhas próprias mãos.
+771	Big Boss.
+772	O quê!? Big Boss!!? / Eu não fazia ideia.
+773	Não tinha como saber.
+774	Foi em Zanzibar, 6 anos atrás.
+775	Só Snake e eu sabemos a verdade / sobre o que aconteceu lá.
+776	Então... é verdade?
+777	Big Boss era mesmo seu pai?
+778	Foi o que ele disse...
+779	É tudo o que sei.
+780	E você conseguiu matá-lo, / sabendo disso?
+781	Sim.
+782	Ele queria isso.
+783	Além do mais, algumas pessoas / precisam morrer...
+784	Isso é parricídio...!
+785	É o trauma de que Mantis / falava.
+786	O que temos em / comum.
+787	Foi por isso que saiu da FOX-HOUND?
+788	Digamos que eu precisava ficar / sozinho um tempo, e o Alasca era / o lugar perfeito...
+789	...Snake.
+790	...Eu também não tive uma família de verdade.
+791	Só um irmão mais velho que me / pagou os estudos.
+792	Nem éramos parentes de sangue, e / ele era bem mais velho que eu.
+793	...Ele morreu...
+794	...tem alguma mulher na sua vida?
+795	Depois de tantas guerras como as / minhas, é difícil confiar em alguém.
+796	Amigos?
+797	...Roy Campbell...
+798	Hã? Você ainda me chama de amigo?
+799	É só isso?
+800	Não, teve outro...
+801	Frank Jaeger.
+802	O tenente de maior confiança de Big Boss,
+803	...Gray Fox.
+804	Aprendi muito com ele...
+805	Mas...
+806	...vocês não tentaram se matar?
+807	É verdade. Tentamos. Em Zanzibar.
+808	Mas nada pessoal.
+809	...éramos só profissionais em lados / opostos, só isso.
+810	Difícil de acreditar?
+811	Guerra não é motivo pra acabar / uma amizade.
+812	Isso é loucura.
+813	Eu o conheci no campo de batalha.
+814	Ele era prisioneiro do Outer / Heaven.
+815	Mas não parecia um prisioneiro / pra mim.
+816	Ele era sempre calmo e preciso. / Eu era novato, e ele me ensinou / o ofício.
+817	Você o conhecia bem?
+818	Não. Nunca falamos da / vida pessoal.
+819	Era uma regra não escrita...
+820	Da próxima vez que o vi no / campo de batalha, éramos inimigos.
+821	Lutamos de mãos nuas num / campo minado.
+822	Sei que parece estranho pra / maioria das pessoas.
+823	Mas éramos só dois soldados / fazendo o trabalho.
+824	É como um esporte.
+825	Homens e seus joguinhos!
+826	Vocês são como animais selvagens!
+827	Você tem razão. Somos animais.
+828	Se eram amigos, como explica / o comportamento do Ninja?
+829	Não sei.
+830	São os seus genes... eles os / predispõem à violência!
+831	Você adora falar de genes, / Naomi.
+832	Por que foi trabalhar com / pesquisa genética?
+833	...Nunca soube quem eram meus pais / nem como eram.
+834	Acho que fui pra genética porque / queria entender por que eu sou / como sou.
+835	Então você estudou DNA?
+836	Sim. Achei que, estudando minha / estrutura genética, descobriria quem sou.
+837	Achei que, analisando a informação / genética de uma pessoa,
+838	eu poderia recuperar os espaços em / branco da memória dela.
+839	A memória fica guardada no DNA?
+840	Não sabemos ao certo.
+841	Mas sabemos que o destino genético / de uma pessoa é definido só pela / sequência das quatro bases / do seu DNA.
+842	E o meu destino?
+843	Você conhece a minha sequência / de DNA, não conhece?
+844	Seu destino?
+845	...Desculpe. Não faço ideia.
+846	Claro que não.
+847	Você é cientista, não vidente.
+848	Tudo bem, Snake?
+849	É... sem novidades.
+850	Snake, posso fazer algo por você?
+851	Pode, meu braço dói...
+852	...Pobre Snake.
+853	Vou aumentar o nível de analgésicos / no seu sangue.
+854	Certo, mas tire a / benzedrina.
+855	Aquilo me deixa agitado demais.
+856	Pelo visto você não está tão mal / assim.
+857	Snake, encoste o controle no / seu braço.
+858	Relaxe. Vai ser bom.
+859	Hã?
+860	Certo, lá vou eu.
+861	Ooooh.
+862	Como está, Snake?
+863	Um pouco melhor?
+864	Estimulei suas fibras musculares com / os cílios das nanomáquinas.
+865	É tudo o que posso fazer por você...
+866	Não sou o homem certo. / Não posso salvar o mundo.
+867	O que houve?
+868	Eu cedi à dor...
+869	Desculpe, Coronel.
+870	Sacrifiquei a Meryl pra me salvar...
+871	...Snake..........
+872	Ela era soldado. Sabia dos riscos.
+873	Baixas em combate são sempre / trágicas, mas são uma parte / inevitável da guerra.
+874	Não se culpe.
+875	Você ainda tem uma missão a cumprir.
+876	Foi por pouco, Snake.
+877	Ocelot... você vai pagar por isso...
+878	Esse Deepthroat é um enigma. / Com certeza é de dentro das fileiras deles.
+879	Será um informante?
+880	Talvez algum tipo de dissidente?
+881	Tenho a impressão de que há outra / força agindo aqui.
+882	Snake, sobre a Meryl...
+883	Coronel, sinto muito...
+884	Escute.
+885	Não consegui protegê-la.
+886	Snake, tudo bem.
+887	Você fez o que pôde, agora deixe pra lá.
+888	Coronel...
+889	Snake... ela é soldado.
+890	Sabe que prisioneiros são / parte da guerra.
+891	Ela se alistou por livre vontade.
+892	Tenho certeza de que estava preparada.
+893	Não. Você está errado...
+894	Meryl achava que precisava virar / soldado... achava que era o único / jeito.
+895	Disse que isso a deixaria mais / perto do pai morto.
+896	Ela disse isso!?
+897	Ela não estava pronta pro combate real.
+898	Eu não devia ter pressionado tanto. / ...A culpa é toda minha.
+899	Isso não é a sua cara, Snake.
+900	Mestre? O que foi?

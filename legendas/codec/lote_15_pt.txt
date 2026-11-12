@@ -1,0 +1,150 @@
+2101	Mas lembre-se: não baixe a guarda / até confirmar a morte.
+2102	Planeje com base nas posições dos / inimigos. Pense como o comandante / inimigo pensaria.
+2103	Se você se colocar na mente do / projetista do mapa, muitas portas / vão se abrir.
+2104	Se você perder a esperança, acabou. / Aí nada dá certo. / O desespero leva à morte.
+2105	Você precisa acreditar. Se acreditar / de todo o coração, vai conseguir.
+2106	Às vezes, em combate ou no limite, / você vê coisas que normalmente não / estão lá ou não deveriam estar.
+2107	Relaxe. Não é defeito. São só os / mistérios da mente humana.
+2108	Pense em algo terrível que aconteceu / na sua vida. Todo mundo já passou / por algo ruim.
+2109	Isso ajuda a tirar da cabeça a / miséria do campo de batalha.
+2110	Um verdadeiro mestre da guerra muda / de estratégia conforme o campo de / batalha muda.
+2111	Se você sempre seguir o manual, / o inimigo vai te ler como um livro.
+2112	Mestre, você e eu... não passamos / de cães, não é?
+2113	Isso não é a sua cara, Snake... Não / deixe o que a Sniper Wolf disse te / abalar.
+2114	Escute. Não existe soldado vivo que / não se questione. E se existir, não / passa de um assassino.
+2115	Mas alguém como a Wolf... um soldado / que só procura a própria morte não / serve pra ninguém.
+2116	Quando ela começou a procurar a / morte, tudo acabou.
+2117	É assim que você vai acabar também, / Snake...
+2118	Claro, numa sala fechada seus / movimentos são limitados. Mas isso / não quer dizer que deva ficar parado / como alvo.
+2119	Você vence se observar os movimentos / do inimigo e contra-atacar com / astúcia.
+2120	Elas já estão congeladas.
+2121	Você pode esquentá-las equipando. / Depois de um tempo, dá pra comer.
+2122	Um nativo do Alasca, é? Provavelmente / atabascano. Vêm da mesma tribo dos / apaches e navajos do Novo México.
+2123	Antropologicamente, são parentes dos / japoneses. Há até semelhanças / linguísticas entre
+2124	as línguas atabascanas e o japonês / antigo. Você e ele provavelmente / têm muitos ancestrais em comum.
+2125	...Mestre, não me lembro de ter dito / que sou parte japonês...
+2126	O Four Man Carry é uma corrida em que / você carrega quatro homens adultos / pendurados numa vara nas costas.
+2127	Pelo visto o Raven faz com seis homens.
+2128	Snake, tenho certeza de que essa / mulher que se chama Naomi é algum / tipo de espiã.
+2129	E agora acho que o Campbell também / esconde algo. Não confie nele.
+2130	Snake, o sistema de código de / detonação não fica na Sala de Controle? / Corra pra lá!
+2131	Perdeu a chave? Corra e ache! Eles já / digitaram o código de detonação!
+2132	O único jeito de impedir o lançamento / é travar o sistema digitando de novo / os códigos de detonação.
+2133	Com o Detector de Minas você acha a / chave mesmo que ela tenha caído na / vala. Custe o que custar, ache!
+2134	Recuperou o cartão? Bom trabalho. / Corra e digite.
+2135	Recuperou o cartão? Bom trabalho. / Agora corra pra Sala de Controle.
+2136	A chave mudou de forma. / Corra pra Sala de Controle e digite.
+2137	Agora congele a chave. / Vá a algum lugar frio!
+2138	Agora você precisa esquentá-la. / Procure um lugar quente.
+2139	Então a Naomi é espiã, como eu achei. / O Campbell também esconde algo...
+2140	Mas tudo bem. O FoxDie é um vírus... / uma arma biológica. Deve haver / uma vacina.
+2141	Isso a gente resolve depois, Snake. / Agora foque em digitar de novo os / códigos de detonação. Certo?
+2142	A chave mudou de forma. Corra pra / Sala de Controle! É a última chave!
+2143	Mestre, nunca vi você tão animado.
+2144	Então a Naomi usou o FoxDie pra se / vingar de você...
+2145	Sim, mas ela disse que não decidiu / usá-lo. Segundo ela, era só uma / parte da operação.
+2146	Hum. Se isso vai até o Campbell, pode / não ser fácil conseguir a vacina... / bom, deixa pra lá...
+2147	Corra pra Sala de Controle. / Digite a última chave!
+2148	Primeiro você precisa mudar a forma / da última chave.
+2149	A guerra revela a crueldade do homem. / Não importa a criação, todos viram / animais quando se lançam ao combate.
+2150	Às vezes, mesmo sabendo que a batalha / está perdida, você tem que lutar ou / se condenar. Uma chance pequena ainda / é uma chance.
+2151	Previsão é importante na guerra. Em / perigo extremo, o sexto sentido latente / das pessoas costuma despertar.
+2152	Quando isso acontecer, esqueça a / lógica e confie nos seus instintos.
+2153	O único jeito de vencer o medo é / encará-lo e rir dele. Nunca deixe o / medo te controlar.
+2154	Não se sinta culpado pelos soldados / que morreram com suas balas. Eles / sabiam os riscos, assim como você.
+2155	Snake, cadê seus itens? Não vai / tentar terminar a missão de mãos / vazias, vai? Pegue seus itens.
+2156	Agora que recuperou suas coisas, dê / uma boa olhada nelas. Demorar pra / equipar um item em batalha pode / significar a morte.
+2157	O som se propaga melhor no frio. Se / for usar uma pistola, equipe um / silenciador.
+2158	Quando a temperatura cai a 30 ou 40 / graus negativos, surge a névoa de / gelo: a umidade do ar congela.
+2159	Parece bonito, mas reduz muito a sua / visibilidade. Cuidado.
+2160	Kipling, poeta inglês e Nobel, disse / que além de 65 graus norte,
+2161	você está além do alcance da / proteção divina e da lei humana.
+2162	Pra sobreviver num lugar assim, você / precisa ser forte o bastante pra não / depender de Deus nem de ninguém.
+2163	Num frio assim, mais de 70% do calor / do corpo se perde pela cabeça. / Ponha algum tipo de chapéu.
+2164	Odeio chapéus. Uma bandana serve?
+2165	Bom, melhor que nada...
+2166	No ambiente ártico, é importante / trocar a roupa de baixo se suar muito. / Se demorar demais, além de gastar / suas
+2167	forças, pode pegar pneumonia. Evite / jogar depois do banho.
+2168	É fácil desidratar no frio abaixo de / zero, então reponha os líquidos. Mas / nunca faça isso comendo neve.
+2169	Você congela o estômago e a / temperatura do corpo cai. Sempre / derreta e ferva a neve antes de beber.
+2170	Nada de comida ou bebida gelada. / Isso causa um desequilíbrio de / temperatura que drena a energia / do corpo.
+2171	Uma regra de ouro no ambiente ártico.
+2172	Não olhe de repente para o escuro. / Olhe devagar de uma área clara para / uma mais escura.
+2173	Assim seus olhos se ajustam aos poucos / e você enxerga melhor no escuro. / Evite jogar no escuro também.
+2174	Lutando no escuro, use a audição e o / olfato. Não confie nos olhos, / use os ouvidos.
+2175	Sinta o fluxo do ar com o corpo todo. / Assim você descobre onde o inimigo está.
+2176	As pessoas às vezes entram em pânico / no escuro. Mantenha a calma.
+2177	Com o Óculos de Visão Noturna, a luz / é amplificada cem vezes.
+2178	Se olhar uma explosão ou uma Granada / de Atordoamento, pode queimar as / retinas. Se isso acontecer, a visão / demora um pouco a voltar.
+2179	Você está bem como sempre, Snake. Além / de especialista em infiltração, é / um ótimo atirador.
+2180	Mas nunca relaxe até confirmar a morte / com seus próprios olhos.
+2181	As ferramentas mais importantes de um / bom atirador de elite são os sentidos / que você nasceu com eles. Nenhum / treino muda isso.
+2182	Se seus sentidos são fracos desde o / início, você nunca será um grande / atirador de elite.
+2183	Segundo o manual da SWAT, o máximo que / um atirador consegue manter o foco no / alvo é de 15 minutos.
+2184	Depois de 15 minutos, observador e / atirador trocam de lugar. Snipar é / geralmente trabalho de dois.
+2185	Parece que seu alvo está parado. / Com bastante prática, não deve ser / um tiro difícil.
+2186	A mira de um rifle de precisão é / muito potente. Em compensação, tem / um campo de visão bem estreito.
+2187	Pra procurar a posição do inimigo, / é melhor usar o binóculo.
+2188	Se deixar muitas pegadas, você pode / confundir o inimigo. Mas não deixe / que mostrem a direção que você foi.
+2189	Disfarce suas pegadas pra enganar / o inimigo.
+2190	Aqueles são ratos-do-campo do Alasca. / Fique tranquilo. Não podem te ferir.
+2191	Ratos selvagens não têm uma camada / grossa de gordura, mas sobrevivem aos / invernos rigorosos daqui sem hibernar.
+2192	Eles cavam túneis sob a neve e é / lá que se mantêm aquecidos.
+2193	Especialistas em sobrevivência, é? / Devia aprender com eles.
+2194	Mas há um lado sombrio. Às vezes os / machos matam e comem filhotes que / não são seus.
+2195	Pra garantir a sobrevivência dos / próprios genes, certo?
+2196	Isso. / Programa brilhante, não é?
+2197	Se há ratos, deve haver uma saída / em algum lugar. Siga os ratos.
+2198	Snake, esse piso foi feito pra seus / passos ecoarem.
+2199	Primeiro, apoie o peso no pé oposto / ao que vai dar o passo. Depois dê o / passo tocando o chão primeiro com / o calcanhar.
+2200	Depois, baixe devagar a ponta do pé / e passe o peso aos poucos pra ele.
+2201	Use os joelhos pra manter o equilíbrio / sutil. Tente.
+2202	Eu... eu não consigo...
+2203	Outro jeito é usar as meias por cima / dos sapatos...
+2204	Se rastejar de barriga, também não / faz barulho...
+2205	A velocidade da bala de um revólver é / menor que a de uma automática. Isso / é ruim pra você.
+2206	Quanto menor a velocidade, maior o / dano da arma.
+2207	Porque a bala tende a se alojar no / corpo em vez de atravessar.
+2208	Esses ferimentos demoram a curar. / Às vezes nunca curam. Acho que é / parte do motivo de ele gostar dessa arma.
+2209	Ele é um doente, esse Ocelot...
+2210	A maior desvantagem do revólver é o / tempo de recarga. Essa é a sua chance!
+2211	A Meryl deve estar escondida lá. / Procure por perto.
+2212	É verdade... seu inimigo é um telepata / poderoso. Mas você tem mais / experiência de combate. Você consegue, Snake!
+2213	Snake, é a sua chance. Aproveite. / Saia daí!
+2214	Normalmente, quando um soldado é / capturado, só deve revelar os 4 Grandes.
+2215	Nome, patente, número de série e data / de nascimento. Mas você não é um / soldado qualquer, Snake.
+2216	Não quero que diga nada a eles. Por / sorte, você é forte o bastante pra / resistir.
+2217	Não diga nada que provoque ou irrite / quem te tortura. Se o enfurecer, / será pior pra você. Poupe suas forças.
+2218	Se tiver chance de comer, não deixe / passar. Prisioneiro não pode ser / exigente.
+2219	Você precisa recuperar as forças pra / fugir quando surgir a oportunidade.
+2220	Snake, você vai ter uma chance de / fugir. Não a desperdice.
+2221	Mestre, eu...
+2222	Não diga, Snake. Você ainda tem uma / missão a cumprir. É só nisso que deve / pensar agora.
+2223	De qualquer forma, não acha que devia / contatar o Coronel Campbell?
+2224	Snake! O que está fazendo? Cuide dos / vilões e saia daí!
+2225	É melhor usar a arma que achou!
+2226	Tente pegar a arma que um inimigo / deixou cair!
+2227	Snake, a Meryl não está em si. / Não use sua arma.
+2228	É o Psycho Mantis. Ele está / controlando a Meryl. Essa música é a / música de controle mental dele.
+2229	Não use sua arma. / Tente nocauteá-la.
+2230	É o Psycho Mantis... ex-psíquico da / KGB. Tem poderes telepáticos enormes.
+2231	Após o colapso da União Soviética, ele / veio pros EUA atrás de emprego. / Trabalhou com o FBI em vários casos / como perfilador psíquico.
+2232	Há cinco anos ele trabalhava no caso / de um serial killer múltiplo... e / entrou fundo demais na mente do / assassino.
+2233	Como resultado, ficou igual ao / assassino.
+2234	Então ele foi meio que infectado / pelos pensamentos desse serial killer...?
+2235	Enfim, depois virou uma espécie de / espião psíquico a serviço de quem / pagasse mais. Viajou o mundo todo.
+2236	Foi quando foi recrutado pela / FOX-HOUND.
+2237	Ele lê a mente das pessoas. Sabe cada / movimento que você vai fazer.
+2238	O que eu faço? Não tenho chance / de vencê-lo.
+2239	Deve haver algum jeito.
+2240	Ele é mestre em controlar pessoas. / Snake! Não deixe que ele te manipule!
+2241	Nem tudo que você vê com seus olhos é / real. Destruir o espírito dele é mais / importante que destruir o corpo.
+2242	Não deixe que ele te leia. Seja uma / folha em branco! Certo? Esvazie a mente.
+2243	Ele leu sua mente com os poderes / psíquicos. De algum jeito você precisa / contorná-lo!
+2244	Já sei. Use a porta do controle!!
+2245	Ligue seu controle na porta 2. Assim / ele não conseguirá ler sua mente!
+2246	Snake, há algum motivo pra não poder / usar a porta de controle 2?
+2247	Tudo bem. Você vê algo parecido com / uma estátua dos dois lados da sala?
+2248	Sim. Aquelas coisas com o rosto todo / enrolado em tiras de couro?
+2249	Isso. Ataque essas estátuas pra / descobrir os rostos.
+2250	Por quê?

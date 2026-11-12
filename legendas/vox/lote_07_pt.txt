@@ -1,0 +1,134 @@
+901	Sem o Codec, eu não poderia / falar com você assim.
+902	Snake, seu radar Soliton...
+903	Eu sei. Não dá pra usar num espaço / apertado como este, certo?
+904	Certo. Desculpe.
+905	Não precisa pedir desculpas. Até a maior / obra-prima tem seus defeitos.
+906	Mau pressentimento? Comeu algo estragado?
+907	Não, falo sério... / tipo uma premonição...
+908	Mei Ling... Você deve achar / que eu sou um lixo...
+909	...Snake, não se culpe / tanto.
+910	Deixei matarem a Meryl / pra salvar minha própria pele!
+911	Esquece... Desta vez eu / uso minhas próprias palavras.
+912	Não ouça o que ele disse. / É só um blefe. Tenho certeza.
+913	Mas, Snake, você tem uma missão. / Se recomponha pelo bem do mundo.
+914	Primeiro, você precisa descobrir / como sair daí.
+915	Você... precisa se recompor / e voltar ao trabalho.
+916	Você tem razão. Já me lamentei / tempo demais.
+917	Ou seja, o lado com mais gente / costuma vencer. Você está em grande / desvantagem, Snake... tente não / ser visto.
+918	Não é certo usar a força pra / obrigar alguém a fazer o que / não quer.
+919	Vale para os países também, / não acha?
+920	Snake, ninguém costuma mentir / no último suspiro. Acho que ele disse / a verdade. Talvez devesse acreditar.
+921	Acho que é verdade. Depois de morto, / você nunca mais terá chance de / ser feliz. Não entendo quem / quer morrer antes da hora.
+922	Por favor, Snake... prometa que / volta vivo.
+923	Snake, às vezes viver é mais difícil / que morrer. É aí que você precisa / ser corajoso.
+924	Deve estar sendo terrível pra você. / Por favor... seja forte. Sei que / vai conseguir. Eu acredito em você.
+925	Cigarro é veneno... mata. / Não ouviu o que a / Dra. Hunter disse?
+926	Snake, se estiver perdido e sem / saber o que fazer, ligue pro / Coronel Campbell. Ele pode / ter uma boa sugestão.
+927	Ah. Nesse caso, é melhor não / mexer nisso.
+928	Simplesmente não temos / capacidade de desmontar todas / as ogivas que existem / por aí.
+929	Não há mais espaço nos depósitos / de material nuclear. Por isso / precisamos de instalações de / descarte de armas nucleares.
+930	Cientistas usam terapia genética / para criar um microrganismo / capaz de decompor / plutônio,
+931	Combustão em reatores nucleares, / vitrificação... já surgiram / muitas sugestões,
+932	Sim, é verdade. Desde a criação / do DARHT, a Instalação de Testes / Hidrodinâmicos Radiográficos,
+933	...e do NIF, a Instalação Nacional de / Ignição, no início do século XXI, há / muitos dados sobre fissão / e fusão nuclear.
+934	Também há muitos dados / acumulados dos testes nucleares / feitos nas últimas quatro décadas.
+935	Para coletar dados para as / simulações, fazem testes / subcríticos no subsolo.
+936	...mas isso não passa de uma / frágil história de fachada.
+937	Claramente, o verdadeiro motivo / desses testes é ajudar a / desenvolver novos tipos de armas / nucleares e de plasma.
+938	Há muitos na Rússia e / também / nos EUA
+939	É uma grande preocupação para ele / e seus apoiadores.
+940	...a aplicação do Tratado ABM / aos sistemas TMD dificultou / a ratificação nos anos 1990.
+941	É verdade que a assinatura do START 3 / significaria menos mísseis / nucleares,
+942	Há uma grande diferença entre / reduzir armas nucleares e / eliminá-las.
+943	vai ficar cada vez mais fácil / para terroristas colocarem as mãos / nelas... ou seja, mais ataques / terroristas como este.
+944	Após a Guerra do Golfo, descobriram / que o Iraque desenvolvia armas / nucleares em segredo bem debaixo / do nariz dos inspetores!
+945	...o que levaria ao desenvolvimento / militar e a tecnologias de / uso civil.
+946	O combustível nuclear usado fica / radioativo por 300 anos. Ou seja, / esse material continuará letal pelos / próximos três séculos.
+947	Mesmo sabendo dos grandes / problemas disso, ainda não temos / uma solução eficaz de descarte.
+948	Chama-se processamento de extinção, / mas quase não é usado por causa dos / problemas técnicos e econômicos / que traz.
+949	Que ironia. As pessoas trabalham como / escravas para pagar por armas que / jamais devem ser usadas... armas que / visam a elas próprias. É loucura!
+950	Também sou analista militar, então / entendo bastante de / sistemas de armas.
+951	Bem, não se preocupe... Se soprar a / fumaça na direção dos sensores / infravermelhos, você os verá.
+952	Isso é explosivo C4. / Um explosivo plástico com textura / de argila, que dá pra moldar / como quiser.
+953	A maior desvantagem dos revólveres / é o tempo de recarga. / Aproveite.
+954	Para chegar perto, confunda o / sistema de rastreamento dele. / Use o Chaff.
+955	Ele impede que balas penetrem, mas / você ainda sente o impacto dos / tiros. Não confie demais nele.
+956	Bem, seu Sneaking Suit dá alguma / proteção. Além disso, suas / nanomáquinas têm agentes / neutralizantes anti-BC,
+957	Você encontrou a Meryl.
+958	Um soldado psíquico... sim. Embora / não admitam, muitos países têm / programas paranormais e usam / psíquicos em operações especiais.
+959	Eles ampliam a luz 100.000 vezes. / Você enxerga 500 metros à luz / das estrelas como se fosse dia.
+960	Esses óculos de visão noturna / cansam a vista depois de um tempo. / Não use por muito tempo.
+961	Mas eles cansam a vista, / então não use demais.
+962	Ao contrário de outros rifles de / precisão, o PSG-1 é semiautomático, / não de ferrolho. Sua melhor / característica é o tiro rápido.
+963	Atirando a longa distância, o menor / tremor pode fazer você errar / o alvo por centímetros.
+964	Estar preso não significa / que não haja chance de / fuga.
+965	Snake, corra para a / Torre de Comunicações.
+966	Que análise sombria, Nastasha.
+967	Não é isso...
+968	Afinal, aquele Hind derrubou dois / F-16. Difícil acreditar que, depois / disso, foi abatido por um só / homem... mandou bem, Snake.
+969	Está olhando o quê...?
+970	Vamos, Snake...
+971	Não me olhe assim...
+972	Temos que andar logo.
+973	No que está pensando?
+974	Como você pôde...
+975	Por que você fez isso...
+976	Droga! Uma câmera de vigilância!
+977	Eu dirijo!
+978	Droga! Sem chaves!
+979	Ótimo! Chaves!!
+980	Peguei, Snake! Pule!!
+981	Dispare a metralhadora com o / botão de arma.
+982	Atire neles, Snake!
+983	Snake, rápido! Entre!
+984	Rápido!!
+985	Snake, segure firme!
+986	Ih, Snake. Posto de controle!
+987	Não vamos conseguir!
+988	Snake, abra caminho!!
+989	Atire naqueles tambores!
+990	Snake, varra aqueles guardas!!
+991	Snake, atire neles!!
+992	Certo, Snake. Vamos!
+993	Ainda não estamos a salvo!
+994	O quê? O que foi...?
+995	Temos que andar logo.
+996	Por que você fez isso...?
+997	O Dr. Emmerich deve estar na área do / laboratório, no 2º subsolo.
+998	Ele deve estar no laboratório de pesquisa / no 2º subsolo do prédio nuclear, ao norte.
+999	Pronto pra ir?
+1000	Por que demorou, Snake?
+1001	Vamos, Snake.
+1002	Aonde você vai, Snake?
+1003	Me deixe...!
+1004	Saia daqui, Snake...
+1005	Snake, corra...!
+1006	Ela também me deu um cartão-chave. / Acho que posso usá-lo pra impedir / o lançamento de uma bomba.
+1007	Provavelmente por perto. / Ele só está invisível.
+1008	Estou tranquilo. Só não sei / como passar o tempo aqui.
+1009	Cuidado. Sempre há muitos / soldados guardando as Torres / de Comunicações.
+1010	A passarela fica entre as / Torres de Comunicações. Vá para lá.
+1011	Da próxima vez avise antes. / E agora, o que eu faço?
+1012	Há mísseis Stinger na / Torre de Comunicações B. Tenho / quase certeza de que ficam perto da / entrada da passarela.
+1013	Hmm... bem, sabe... eu... eu pergunto / quando te encontrar... tchau.
+1014	Use os óculos térmicos, Snake. / Você verá o calor corporal deles.
+1015	Se descer naquele elevador de / carga, vai parar na base / subterrânea do Metal Gear.
+1016	O que houve, Snake?
+1017	Você está um lixo, Snake!
+1018	Qual é o problema?
+1019	Com medo?
+1020	Com medo demais pra aparecer?
+1021	Apareça e lute!!
+1022	Snake, apareça e lute.
+1023	Então, Snake!
+1024	Você aprendeu o que é medo!!
+1025	Tome isto!!
+1026	Escute, Snake. Há um jeito de andar / sem que ouçam seus passos. / Chamo de "espreitar". Veja como se faz.
+1027	Não é do seu feitio, Snake... Não deixe / o que a Sniper Wolf disse te abalar.
+1028	Para sobreviver num lugar assim, é / preciso ser forte o bastante para não / depender de Deus nem de ninguém.
+1029	A guerra revela a crueldade do homem. / Não importa como o soldado foi criado, / todos viram animais quando / lançados no calor do combate.
+1030	Uma câmera de vigilância...
+1031	Uma câmera de vigilância?
+1032	Ocelot... / De novo você...!
+1033	Desculpe, Chefe...
+1034	...você venceu...

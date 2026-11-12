@@ -1,0 +1,100 @@
+100001	Ali está!
+100002	Droga!
+100003	Vê os terminais de entrada no centro da sala de controle...
+100004	Certo, o código PAL número um está feito...
+100005	Aguardando código PAL dois...
+100006	Aguardando código PAL três...
+100007	Código PAL três confirmado.
+100008	Código PAL completo...
+100009	Parece que o Pentágono já sabe que o Metal Gear caiu,
+100010	Nem precisam de uma BDA / (avaliação de danos).
+100011	Lutar contra eles... / me aproximou de você.
+100012	Se ele morreu, então...
+100013	Sem bombardeiros Stealth.
+100014	Genes existem para passar / nossos sonhos adiante
+100015	ao futuro por meio / dos filhos.
+100016	Sim, graças ao furtivo.
+100017	Snake... sou eu.
+100018	Nenhum sistema me barra.
+100019	Sim. Frank Jaeger, quem você / matou, era meu irmão e / minha única família.
+100020	Eu não sabia, mas agora entendo.
+100021	Então aquele Ninja... o Gray Fox...
+100022	Snake, é vidro blindado. Arma / comum não quebra.
+100023	Invadi a segurança.
+100024	Snake! Abrindo a porta!
+100025	nem vivo, nem morto...
+100026	Perdemos nosso lugar num mundo / que não precisa de nós.
+100027	Depois que eu lançar esta arma / e ganhar o bilhão,
+100028	Eu dirijo!
+100029	Ai. Sem chave.
+100030	Snake, aguenta!
+100031	Snake, aguenta!!
+100032	Snake, um posto de controle.
+100033	Posto de controle, Snake.
+100034	Snake, posto!
+100035	Outro posto.
+100036	Conseguiu, Snake!
+100037	Conseguiu! Snake!
+100038	Ainda não!
+100039	Não acabou!
+100040	Snake, luz do dia!
+100041	Olha, Snake! Luz!
+100042	Segura!
+100043	...Não, senhor. Estou a salvo.
+100044	Recuperei os dados da ogiva.
+100045	Coronel, o elevador está / parado num andar abaixo.
+100046	O Dr. Emmerich conhece a base. / Pergunte a ele.
+100047	Gosto de sauna, mas isso é demais.
+100048	...Snake, os terroristas já se / prepararam para o lançamento. / Não perca tempo!
+100049	A base do Metal Gear é adiante.
+100050	Cuidado, você se curou de um / resfriado...
+100051	Snake, faz 30 negativos lá fora...
+100052	Snake, eles inseriram os dois códigos. / Só o cartão pode parar o / lançamento, reinserindo os códigos.
+100053	Ache o cartão! Caiu em algum / lugar da vala de drenagem!
+100054	Use o Detector de Minas.
+100055	Pegou o cartão... ótimo. Volte à / Sala de Controle e reinsira os / códigos PAL. Pare o lançamento!
+100056	Snake, reinsira os códigos PAL.
+100057	Agora esquente o cartão. / Procure um lugar quente!
+100058	Snake, gás! Faça algo!
+100059	Snake! Ligue pro Emmerich! Ele / pode burlar a segurança!
+100060	Que está fazendo? / Vá atrás do Liquid!
+100061	Destrua o Metal Gear! Sem tempo!
+100062	Um submarino está pronto para / lançar um ataque nuclear / contra a base.
+100063	Não... não é hora de comemorar. / Não consigo me mexer.
+100064	Snake, ótimo trabalho! / Você deteve o Metal Gear...
+100065	Snake, vire o pescoço. / Olhe em volta.
+100066	Cuidado, Snake.
+100067	O que quer, Snake? Se quer a Naomi, / por que não liga pra ela?
+100068	Não... Não creio que a Naomi / seja espiã inimiga. Me recuso.
+100069	Snake, por favor. Se cuide...
+100070	Dr. Emmerich! Talvez ele possa / ajudar.
+100071	Deve usar mira eletrônica, / como a de um tanque.
+100072	Agora é só você e o Liquid. / Não tenho conselho nenhum.
+100073	Isso é "de vez em quando"?
+100074	Snake, o elevador só anda se / apertar o botão. Chegue perto / do painel e aperte Ação.
+100075	Lá fica o sistema de / cancelamento do PAL.
+100076	Por favor, Snake, mais um / tempinho.
+100077	E então? Achou o arquivo / do cancelamento?
+100078	Só dá para parar o lançamento / reinserindo os códigos para travar / o mecanismo. Use o cartão-chave.
+100079	Ache o cartão-chave, Snake! / Não há outro jeito!
+100080	Achou o cartão? Primeiro, a chave / em temperatura ambiente. Use no / terminal à esquerda da Sala.
+100081	Isto é o Alasca. Lá fora / está frio em todo lugar.
+100082	Agora resfrie a chave. Está / perto do depósito onde lutou / contra o Raven, certo?
+100083	Use um Stinger para destruir / o radome e desativá-lo.
+100084	Droga! Sem chaves!
+100085	Snake. Abra caminho!
+100086	Morra!!
+100087	Pulguento!!
+100088	Sem mísseis, Snake!!
+100089	Você é nada!
+100090	Só isso que você faz, é!!
+100091	Levante!
+100092	Não são corvos, são corvos-do-norte. / Os inuítes os veneravam como / divindades criadoras.
+100093	Para impedir o lançamento, trave / o sistema digitando de novo / os códigos de detonação.
+100094	Snake, um rato comeu a chave. / Siga o caminho do rato!
+100095	Pegou o cartão? Bom trabalho. / Corra pra Sala de Controle.
+100096	Agora congele a chave. / Vá a um lugar frio!
+100097	Primeiro mude a forma / da última chave.
+100098	Chave errada?
+100099	Uma câmera de vigilância?
+100100	Droga!

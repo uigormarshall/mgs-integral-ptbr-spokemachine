@@ -1,0 +1,150 @@
+1	Lá está ele!
+2	Bem-vindo, kasack!!
+3	Este é o fim da linha pra você! / Certo, amigos?
+4	Ouça. Eles concordam.
+5	Como ousa matar meus amigos...
+6	Corvos não são necrófagos / como muitos pensam...
+7	Eles apenas devolvem ao mundo natural
+8	aquilo que não é mais necessário.
+9	Às vezes até atacam raposas feridas.
+10	Foi você no tanque M1?
+11	Deve ter sido apertado / para um grandalhão como você.
+12	Mas aquilo não foi uma batalha de verdade.
+13	Os corvos e eu testávamos / que tipo de homem você era.
+14	O julgamento está feito.
+15	Os corvos dizem / que você é um verdadeiro guerreiro.
+16	Estou alucinando?
+17	Não consigo me mover...
+18	O Corvo pôs em você / a marca da morte.
+19	Sangue do Oriente / corre em suas veias.
+20	Seus ancestrais também cresceram / nas planícies áridas da Mongólia.
+21	Inuítes e japoneses / são primos...
+22	Dividimos muitos ancestrais, / você e eu...
+23	Não tenho corvos / na minha árvore genealógica.
+24	Você brinca, mas corvos e serpentes / não são grandes amigos.
+25	Mesmo assim, será / um adversário digno.
+26	Você também vive no Alasca.
+27	Conhece as Olimpíadas / Mundiais Esquimó-Indígenas?
+28	Sim, conheço.
+29	Deve ser uma ameaça / no concurso de "Comer Muktuk".
+30	Sim, você tem razão.
+31	Mas há outra prova / em que sou excelente.
+32	Chama-se "Puxão de Orelha".
+33	Dois oponentes / puxam a orelha um do outro
+34	enquanto suportam o frio cruel.
+35	Testa tanto a força espiritual / quanto a física...
+36	Quer que a gente puxe as orelhas um do outro?
+37	A forma é diferente, / mas o espírito é o mesmo.
+38	Alegre-se, Snake! / Teremos uma batalha gloriosa.
+39	Isso não é glorioso. / É só matar.
+40	Violência não é esporte!
+41	Veremos se há ferro / em suas palavras!!
+42	Como o Boss disse...
+43	Sou eu que não sou / mais necessário neste mundo.
+44	Mas meu corpo não ficará neste lugar.
+45	Meu espírito e minha carne / se unirão aos corvos.
+46	Assim, voltarei à / Mãe Terra que me gerou.
+47	Estarei observando você... / entendeu?
+48	Snake, / pegue este cartão de segurança.
+49	Ele abrirá aquela porta.
+50	Você é uma serpente que não foi / criada pela Natureza.
+51	Você e o Boss... / são de outro mundo...
+52	um mundo que não desejo conhecer...
+53	Vá e lute contra ele...
+54	Estarei observando de cima.
+55	Primeiro, uma dica...
+56	O homem que você viu morrer / diante dos seus olhos...
+57	Não era o Chefe da DARPA.
+58	Era o Decoy Octopus. / Membro da FOX-HOUND.
+59	Era um mestre do disfarce...
+60	Copiava suas vítimas / até o sangue.
+61	Então drenou o sangue do Chefe / e o absorveu.
+62	Mas não conseguiu enganar / o Anjo da Morte.
+63	O Anjo da Morte?
+64	Mas por que tanto trabalho?
+65	Por que se passar pelo Chefe?
+66	Aqui termina minha dica.
+67	O resto do enigma / você mesmo deve resolver.
+68	No mundo natural não existe / matança sem limites.
+69	Sempre há um fim.
+70	Mas você é diferente.
+71	O caminho que você trilha não tem fim.
+72	Cada passo seu é pavimentado / com os cadáveres de seus inimigos...
+73	Suas almas o assombrarão para sempre...
+74	você não terá paz...
+75	Ouça, Snake!
+76	Meu espírito estará observando você!!
+77	Certo. Inseri os códigos PAL / e desativei o dispositivo de segurança.
+78	Podemos lançar a qualquer momento.
+79	Ainda sem resposta / de Washington.
+80	Parece que teremos de mostrar / que falamos sério.
+81	Programo para Chernoton, Rússia?
+82	Não, houve mudança. / O novo alvo é... Lopnor, China.
+83	Por quê, Boss?
+84	Tenho certeza de que nem você nem o Sr. Gurlukovich / gostariam de ver
+85	uma bomba nuclear cair / sobre sua Pátria, certo?
+86	Mas por quê? Não há nada lá.
+87	É um local de testes nucleares.
+88	Um local de testes nucleares?
+89	Se atacarmos um grande centro / populacional, o jogo acaba...
+90	Mas uma explosão num local de testes / ainda pode ser escondida do público.
+91	Enquanto isso, Washington temerá / um ataque de retaliação da China.
+92	Isso provavelmente significa conversas / secretas entre os líderes dos dois países...
+93	E nesse processo, o Presidente será / forçado a revelar a existência
+94	de uma nova arma nuclear altamente / desestabilizadora aos chineses.
+95	O que acha que isso fará / com a reputação dos EUA?
+96	Ou do Presidente?
+97	E com o CTBT, isso significa / que China e Índia...
+98	Quando os outros países souberem / dessa nova arma,
+99	todos vão querer falar conosco.
+100	Washington não ficará nada feliz
+101	quando começarmos a vender o sistema / deles ao maior lance.
+102	O Presidente vai ceder.
+103	Ele cederá às nossas exigências.
+104	O DNA de Big Boss e um bilhão de dólares...
+105	um bilhão de dólares!
+106	Esse dinheiro também curará / nossos soldados genoma.
+107	Também incluo a vacina do FoxDie / nas exigências.
+108	Ela matou Octopus e / o presidente da ArmsTech...
+109	Então é verdade que afeta / primeiro os mais velhos.
+110	Mantis pode não ter sido afetado / porque usava máscara.
+111	Wolf também não foi infectada.
+112	Talvez pelos tranquilizantes / que ela sempre tomava.
+113	Algo a ver com o nível / de adrenalina no sangue?
+114	Ou talvez seja só porque o FoxDie / ainda era experimental
+115	e eles não corrigiram / todos os defeitos...
+116	De qualquer modo,
+117	teve notícias do seu amigo, o Coronel / Sergei Gurlukovich, do Spetznaz?
+118	Ele ainda duvida da / capacidade do Metal Gear.
+119	Disse que podemos conversar depois do / lançamento de teste do Metal Gear.
+120	É um homem muito prudente.
+121	Não há com que se preocupar.
+122	O Coronel quer o Metal Gear
+123	e a nova arma nuclear / de qualquer jeito.
+124	Se a Rússia quer retomar o posto / de superpotência militar,
+125	precisa reforçar seu / arsenal nuclear.
+126	Precisa de uma arma nuclear / que não possa ser interceptada.
+127	O Metal Gear lhes dará / capacidade de primeiro ataque
+128	sobre o resto do mundo.
+129	O exército regular deles está em frangalhos / e acham que podem restaurar
+130	o poderio militar do país / com armas nucleares?
+131	Gurlukovich... não é guerreiro... / é um político.
+132	Mas foi ele quem nos deu o Hind / e quase todo o nosso armamento pesado.
+133	Tem mais de mil soldados / sob seu comando.
+134	Se unirmos forças, / podemos resistir bastante aqui.
+135	Desde que Mantis morreu, a lavagem cerebral / dos soldados genoma vem perdendo efeito.
+136	Me preocupo com o moral dos homens.
+137	Uma aliança com os russos / também ajudaria nisso...
+138	O que está dizendo?
+139	Não vamos a lugar nenhum. / Vamos nos entrincheirar aqui.
+140	Ainda poderíamos fugir...
+141	Temos a arma mais poderosa / já construída
+142	e estamos prestes a nos aliar / às forças de Gurlukovich.
+143	Vai lutar contra o mundo inteiro?
+144	E qual é o problema?
+145	Podemos lançar uma ogiva nuclear contra qualquer alvo do planeta...
+146	Uma ogiva nuclear invisível ao radar.
+147	E, além disso, esta base está / cheia de ogivas nucleares de reserva.
+148	Quando tivermos o DNA e o dinheiro,
+149	o mundo será nosso!
+150	E a sua promessa / ao Coronel Gurlukovich?

@@ -1,0 +1,150 @@
+451	Como está o Sneaking Suit?
+452	Estou seco e aquecido, mas é meio difícil / me mexer.
+453	Aguente firme. Foi feito para evitar / hipotermia.
+454	Aqui é o Alasca, lembre-se.
+455	Relaxe, eu agradeço.
+456	Sem o traje e a injeção, eu teria virado / picolé lá fora.
+457	Um peptídeo anticongelante, Snake.
+458	Todos os Soldados Genoma deste / exercício o usam.
+459	Entendi. Fico aliviado. / Já foi testado, é?
+460	Aliás, como vai a operação / diversionária?
+461	Dois F-16 decolaram de Galena / e vão na sua direção.
+462	O radar dos terroristas já deve / tê-los detectado.
+463	Faltam só 18 horas para o prazo / deles.
+464	Você tem que se apressar!
+465	Nossa...
+466	ele deve ser louco de pilotar um Hind com / esse tempo.
+467	Quem é?
+468	Ah, desculpe, ainda não apresentei / vocês.
+469	Esta é a Mei Ling. Ela foi designada para / nós como especialista em imagem e / processamento de dados.
+470	Ela projetou seu Codec e também / seu radar Soliton.
+471	Fale com ela se tiver dúvidas / sobre algum dos dois.
+472	Prazer, Snake.
+473	É uma honra falar com uma lenda / viva como você.
+474	O que foi?
+475	Nada...
+476	Só não esperava que uma projetista / de tecnologia militar de primeira linha / fosse tão...
+477	...bonita.
+478	Você está me bajulando...
+479	Não, falo sério.
+480	Bem, sei que não vou me entediar / nas próximas 18 horas.
+481	Ora...
+482	Não acredito que estou sendo cantada / pelo famoso Solid Snake...
+483	Mas estou surpresa...
+484	Você é bem franco para um assassino / treinado.
+485	Parece que temos muito a aprender / um sobre o outro.
+486	É.
+487	Estou ansioso para conhecer / o homem por trás da lenda...
+488	...mas primeiro, deixe-me explicar o / seu radar Soliton.
+489	Snake, seu radar não é afetado pelo / clima, mas se um inimigo descobrir você, / não poderá usá-lo.
+490	Sim. Infelizmente ele é facilmente / bloqueado.
+491	Sim. É tudo feito com a tecnologia / que existe hoje.
+492	Não funcionará em áreas com forte / ressonância harmônica. Então / cuidado.
+493	Vamos monitorar seus movimentos / pelo radar,...
+494	...então chame pelo Codec quando / quiser.
+495	Entendido. Ligo se me sentir sozinho.
+496	Falando sério, Snake.
+497	Estamos aqui para apoiar você, então / chame se precisar de informação ou conselho.
+498	Também cuido dos dados da sua missão.
+499	Fale comigo se quiser que eu grave / seu estado atual.
+500	Minha frequência é 140.96.
+501	É uma frequência exclusiva para salvar / dados. Não esqueça.
+502	Lembre-se: fora o binóculo, / você está nu.
+503	Você precisa se armar com / as armas que encontrar.
+504	Lembro. Primeiro a Dra. Naomi me / revista pelado,
+505	...e depois levam todas as minhas armas.
+506	Imagine-se nessa situação.
+507	Bem, se você voltar inteiro, / talvez eu deixe você me revistar.
+508	Vou cobrar isso, doutora.
+509	Aliás, desculpe decepcionar, / mas consegui contrabandear meus / cigarros.
+510	Como você fez isso?
+511	No estômago.
+512	Graças à injeção que você me deu, que / suprimiu meus ácidos estomacais.
+513	Cigarros? Como isso vai / ajudar você?
+514	Nunca se sabe.
+515	Lembre-se: fora o binóculo / você está nu.
+516	Naomi, o Chefe! O que aconteceu!?
+517	Eu... eu não sei.
+518	Parecia um infarto, mas...
+519	Infarto? Não...
+520	...Coronel, está escondendo algo / de mim?
+521	De jeito nenhum. Snake, você tem que / entender.
+522	Esta operação é de nível de segurança Vermelho.
+523	É preciso a mais alta autorização / para acessar o arquivo / completo.
+524	Quer que eu acredite que você comanda / esta operação, mas não tem acesso / ao arquivo completo!?
+525	Já disse. O Secretário de Defesa / tem o controle operacional.
+526	Estou aqui só como seu apoio...
+527	Snake, não temos tempo para debater.
+528	Saia daí e encontre o Presidente / Baker!
+529	Naomi, tive uma espécie de / alucinação.
+530	Foi das nanomáquinas?
+531	Não, Snake.
+532	As nanomáquinas estão funcionando / normalmente.
+533	Então o que foi?
+534	Deve ter sido interferência psicométrica / do Psycho Mantis, o paranormal / do FOX-HOUND.
+535	Pense nisso como um ciclo de / feedback mental.
+536	Então era o Mantis...?
+537	Coronel! Está me ouvindo?
+538	Agora ele também morreu!
+539	...não faço ideia!
+540	Não minta para mim!
+541	Parecia outro infarto, / mas...
+542	Algum tipo de veneno!?
+543	Bem, há muitas drogas que causam / infarto em doses altas.
+544	...não dá para saber / sem uma autópsia.
+545	Droga...!
+546	Snake, quero que você e a Meryl / trabalhem juntos!
+547	Posso confiar nela!?
+548	...Mais do que confia em mim.
+549	Entre em contato com ela.
+550	...Snake, há muita interferência / elétrica vindo daí.
+551	Deve funcionar com transmissão em / rajada, como a nossa, mas a transmissão / normal provavelmente é impossível.
+552	Tente se afastar dessa área.
+553	Snake, controle-se...
+554	Naomi, que diabos era aquele / ninja!?
+555	Um membro do FOX-HOUND?
+556	Não...
+557	Tem certeza?
+558	Sim, não temos ninguém assim / na nossa unidade.
+559	...É mesmo?
+560	Snake, conto com você.
+561	Snake, destranquei a porta de carga / para você.
+562	Valeu. Onde você está?
+563	Onde - eu - posso - ver - você.
+564	Não se mexa muito.
+565	Fique tranquilo, estou disfarçada com / este uniforme inimigo.
+566	Não vai durar muito, do jeito que / você anda.
+567	O que isso quer dizer?
+568	Ah,...nada.
+569	Escute, Snake, a porta de carga é como / uma câmara de ar.
+570	Tem sensores infravermelhos. / Cuidado.
+571	Se um intruso for detectado, / libera gás.
+572	Gás...
+573	Certo, nos encontramos no depósito / de ogivas nucleares.
+574	Espere! Você disse que ficaria quieta / e se comportaria!
+575	Mudei de ideia.
+576	Não relaxe. / É aí que tudo sempre dá errado.
+577	Desculpe, mas é o único jeito de eu / descobrir se levo jeito / para soldado.
+578	...Preciso sujar as mãos.
+579	Esses caras são profissionais. / Você vai acabar morta.
+580	...Até lá!
+581	Gray Fox...
+582	Coronel, aquele Ninja é o Gray Fox.
+583	Sem dúvida.
+584	Ridículo.
+585	Logo você deveria saber que ele / morreu em Zanzibar...
+586	Não. Ele deveria ter morrido.
+587	...mas não morreu.
+588	Foi antes de eu entrar para a equipe / médica do FOX-HOUND.
+589	Usavam um soldado nos experimentos / de terapia gênica.
+590	Nunca ouvi isso.
+591	Foi logo depois que você se aposentou...
+592	Meu antecessor, Dr. Clark, era / o responsável.
+593	Dr. Clark?
+594	Sim. Ele iniciou o projeto de / terapia gênica.
+595	E onde ele está agora?
+596	Morreu numa explosão no laboratório / dele há dois anos.
+597	E esse soldado?
+598	Pelo visto, como cobaia, decidiram usar / o corpo de um soldado
+599	recuperado após a queda de / Zanzibar...
+600	E era o Gray Fox?

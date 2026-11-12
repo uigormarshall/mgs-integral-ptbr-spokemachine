@@ -1,0 +1,150 @@
+1951	Aperfeiçoando a aceleração do projétil, / o railgun dispara com velocidade de / saída acima de 100 km por segundo.
+1952	Ele seria usado, dentro da SDI, para / derrubar ICBMs inimigos fora da / atmosfera.
+1953	É irônico que agora vá ser usado / para lançar uma ogiva nuclear...
+1954	O Rex é o primeiro protótipo de verdade, / mas já fazem protótipos virtuais / há algum tempo.
+1955	Eles colocam o projeto numa simulação / de RV ainda na fase de design.
+1956	Assim podem melhorar o projeto / testando em todo tipo de condição / simulada.
+1957	Mesmo sendo um protótipo, / é muito bem projetado. / Cuidado!
+1958	Snake, não entendo nada de luta. / Mas você tem que vencer o Liquid!
+1959	Se parecer que vai cair da parte de trás / do Rex, aperte qualquer botão / rapidamente. Você sobe mais rápido.
+1960	Você encontrou a Meryl?
+1961	Mais ou menos. / Tenho certeza de que a vi entrar / neste banheiro, mas...
+1962	Só tem uma saída, certo?
+1963	Então ela ainda deve estar lá dentro.
+1964	Tem algum lugar onde ela / possa se esconder aí?
+1965	Snake, não mate os cães... Por favor?
+1966	Do que você está falando? / Se eu não matar, eles me matam.
+1967	Mas esses cães são só animais / inocentes.
+1968	Se fossem culpados, tudo bem?
+1969	...Mas você... você tem cães, não tem?
+1970	E daí?! Isto é uma guerra. Meus / hobbies não têm nada a ver com isso.
+1971	Snake, esses cães...
+1972	Me dá um tempo...
+1973	Por que está usando o Codec? / Estou bem aqui.
+1974	Otacon, você ainda está bem?
+1975	Sim. Graças ao camuflagem / furtiva, claro.
+1976	Preciso de um favor. Preciso da sua ajuda.
+1977	Eu já esperava. / O que devo fazer?
+1978	Fui capturado. / Estou trancado numa cela aqui.
+1979	Que cela?
+1980	Tem uma grande máquina de tortura / por perto.
+1981	Certo. Eu sei qual é. É perto. / Chego aí já.
+1982	Otacon.
+1983	Estou indo até você. / Não consegue ficar calmo?
+1984	Estou calmo. Só não sei como / passar o tempo aqui.
+1985	Certo. Chego o mais rápido que puder.
+1986	Otacon, você está aí?
+1987	Foi você que abriu a porta agora há / pouco?
+1988	Então não foi você!... O que significa que...
+1989	A porta está aberta, né? / Saia daí agora!
+1990	O que está fazendo? Esta é sua / chance de sair daí, Snake!
+1991	Você usou o ketchup? Demorei para / achar. Tem exatamente a cor e a / consistência certas.
+1992	Use com sabedoria, ok?
+1993	Isso é tudo que posso fazer por você, Snake.
+1994	Ótimo trabalho. Você conseguiu descer!
+1995	Não foi fácil.
+1996	De nada.
+1997	Snake, a porta da passarela para a / Torre A está congelada. Com um / pouco de C4, você deve conseguir / passar.
+1998	Talvez seja uma boa hora para explodir / a porta com C4 e poder passar / depois.
+1999	Estão atirando em você? Mas para chegar / aos mísseis Stinger, você precisa / atravessar aquela passarela.
+2000	Está na sala das caldeiras? Esses / canos são muito velhos. De vez em / quando soltam vapor, então cuidado.
+2001	Você chama isso de "de vez em quando"?
+2002	Os cães-lobo não estão atacando? Você / está levando algo que possa estar / causando isso?
+2003	São cães-lobo. Como o nome diz, são / um cruzamento de husky com lobo do / Alasca. Foram criados para puxar / trenós.
+2004	Tentavam criar um animal que unisse / a docilidade de um cão com a / resistência e a ferocidade de um lobo.
+2005	Mas não obtiveram a resistência e a / força que esperavam.
+2006	Além disso, a personalidade ficou mais / próxima à de lobos. A maioria nem / deixa você chegar perto. Por isso / nunca pegaram.
+2007	Ah, é verdade. Você é musher.
+2008	Sim. E depois que proibiram híbridos / em corridas de trenó em 2002, / ninguém quis mais criá-los.
+2009	Ouvi dizer que a maioria foi sacrificada / depois disso...
+2010	Sim, mas alguns filhotes descartados / se tornaram selvagens. Ouvi dizer que / cães-lobo selvagens caçam em / matilhas, como os lobos.
+2011	Melhor tomar cuidado.
+2012	Quero perguntar sobre a Naomi.
+2013	Estou investigando os detalhes, mas / não parece bom. Você nunca / desconfiou dela, Snake?
+2014	...Snake, fique alerta.
+2015	Há muitos corvos por aqui...
+2016	Não são corvos, são corvos-grandes do / norte. Os inuítes e outros nativos / americanos os veneravam como / divindades criadoras.
+2017	Dizem que os corvos têm o poder de / prever a morte. O grande poeta / Marlowe escreveu sobre eles no / século XVI.
+2018	Que sombrio, Mestre.
+2019	Aliás...
+2020	Corvos comem vegetais, carne, lixo... / praticamente qualquer coisa.
+2021	Parece sujo para nós, mas é isso que / permite que vivam até num clima / como este.
+2022	Dizem que corvos vivem três vezes mais / que um homem, e que os corvos-grandes / vivem três vezes mais que um corvo.
+2023	É só lenda, mas é verdade que corvos / vivem mais que muitas aves. Os / corvos-grandes do norte chegam / perto de 70 anos.
+2024	Aquele lugar fica no meio do / permafrost. Como diz o nome, nunca / derrete. Ouvi dizer que mais de 85% / do Alasca é permafrost.
+2025	Lá é extremamente frio, Snake. Se não / se apressar, suas rações vão congelar.
+2026	Um jeito de evitar que as rações / congelem é mantê-las junto ao corpo, / equipando-as.
+2027	Snake, você achou a chave?
+2028	Não, não está aqui.
+2029	Não seja ridículo. Você viu cair no / canal de drenagem, não viu?
+2030	O canal de drenagem... Não tem / algo estranho nele?
+2031	Não. Tem muitos ratos grandes, só...
+2032	É isso, Snake! Um rato deve ter / comido a chave!
+2033	Agora quem está sendo ridículo!
+2034	Não, estou certo. Não há outra / possibilidade. Ratos comem de tudo. / Não há nada de estranho nisso.
+2035	Snake, um rato comeu a chave. Você / vai ter que pegá-la de volta. Siga / o caminho do rato!
+2036	Snake, isso deve ser algum gás / nervoso. É extremamente letal. Use / a máscara de gás.
+2037	Uma caixa de papelão, hein. Igual / em Zanzibar.
+2038	Ela salvou minha pele várias vezes / em Outer Heaven também.
+2039	Tirar o máximo de objetos comuns / à mão é o primeiro princípio da / sobrevivência. Principalmente em / operações secretas.
+2040	Não esqueci o que você me ensinou.
+2041	Pegou um resfriado, Snake? Em batalha / você precisa estar em plena forma. / Tem algum remédio para resfriado?
+2042	Suas rações estão congeladas? Nunca / coma ração congelada. Causa um / desequilíbrio de temperatura que / drena suas forças.
+2043	Esquente as rações antes de comer.
+2044	Você diz que o chefe da DARPA morreu?!
+2045	Sim... Segundo a Naomi, / foi um ataque cardíaco.
+2046	Bem... parece que só resta encontrar / Kenneth Baker, o presidente / da ArmsTech.
+2047	Ele está no subsolo 2, / não está?
+2048	Sim, do outro lado da parede / que foi cimentada.
+2049	Certo. Boa sorte, Snake. / Você consegue...
+2050	Snake, você precisa pensar. Sua mente / é sua arma mais perigosa. / Se as coisas ficarem complicadas, / tente simplificar seus pensamentos.
+2051	Você também pode ligar para o Campbell / pedir conselhos.
+2052	Soldados forjados no fogo da batalha / costumam tirar cochilos quando e / onde puderem.
+2053	Há uma grande diferença entre soldados / de verdade e garotos treinados / só em simuladores de RV.
+2054	Depois de jogar por muito tempo, / você também deveria descansar.
+2055	A velocidade de reação das pessoas é / mais lenta por volta das três da / manhã, e o julgamento também.
+2056	Se estiver com sono, é melhor / dormir um pouco.
+2057	Também é importante saber controlar / as funções do seu corpo.
+2058	Você nunca sabe quando uma cena longa / vai começar, então esteja preparado / para ficar diante do monitor por / muito tempo, se preciso.
+2059	Nunca é bom lutar de estômago muito / cheio. Dá moleza... talvez até sono.
+2060	Espere 30 minutos depois de comer / antes de jogar.
+2061	As rações militares dão ênfase às / calorias.
+2062	Por isso é melhor usá-las junto com / algum suplemento nutricional, como / vitaminas ou minerais.
+2063	O clima no Alasca é muito difícil de / prever. Muda num piscar de olhos. Muita / gente diz que é o pior clima do mundo.
+2064	Primeiro o chefe da DARPA e depois / o presidente Baker morrem de ataque / cardíaco?
+2065	Sim. Cheira muito mal. / Mestre, você sabe de algo?
+2066	Não..., mas definitivamente tem algo / acontecendo. Fique de olhos abertos.
+2067	Mestre, o nome Deepthroat lhe diz / alguma coisa?
+2068	Deepthroat? O quê? Você fala do / cara de Watergate?
+2069	Não. Mas ele usa o mesmo nome. / Seja quem for, não faz parte da nossa / operação, mas tem me dado conselhos / pelo Codec.
+2070	Além disso, ele não usava transmissão / em rajada. Parece que transmitia de / algum lugar desta base.
+2071	De algum lugar da base?
+2072	...Não faço ideia de quem possa ser.
+2073	Ele só está brincando com você. Que tal / tentar jogar fora as suas armas?
+2074	Você se uniu à Meryl. Ótimo... Então / agora você deve ter os cartões-chave / que anulam o código de detonação.
+2075	É melhor se apressar, o tempo está / acabando.
+2076	A Meryl está só sendo controlada. Você / é especialista em CQB (combate / corpo a corpo), certo? Pare-a sem / usar a arma, só isso.
+2077	A Meryl deve ter sofrido lavagem / cerebral. Deve haver um jeito / de ajudá-la.
+2078	Quem sobrevive à guerra desenvolve uma / espécie de sexto sentido para o perigo. / Confie nos seus instintos de soldado, / de gamer.
+2079	Na guerra, uma fração de segundo pode / decidir entre vitória e derrota. / Nunca hesite.
+2080	Quanto mais devagar você reage, maior / a chance de ser derrotado.
+2081	Aquela voz interior que avisa quando o / perigo está perto... não se aprende / em treinamento.
+2082	É preciso ter sobrevivido a alguns / tiroteios... ter visto amigos / morrerem antes de aprender esse truque.
+2083	Ao se esconder, evite lugares que o / inimigo provavelmente vai revistar.
+2084	Pense em como o inimigo vai se mover e / então se infiltre ali. Não importa / quão esperto você seja, use a cabeça.
+2085	Snake, divida e conquiste. Enfrente / os inimigos um por vez.
+2086	Psycho Mantis... que homem patético. / Nasceu com todas as ferramentas, / mas nunca soube usá-las...
+2087	Você precisa decidir rápido. Na guerra, / a diferença entre viver e morrer é / contada em milissegundos.
+2088	A lei básica do CQB (combate corpo a / corpo) é eliminar o inimigo o mais / rápido e eficiente possível
+2089	mantendo sua própria rota de fuga.
+2090	Não use a arma se não precisar. Se / consegue sair de apuros só com mãos / e pés, faça isso. Se não, aí sim / vá para a arma.
+2091	Soldados que perdem a cabeça no campo / de batalha geralmente perdem a cabeça / no campo de batalha. Entendeu? / Sempre planeje sua próxima ação.
+2092	Pense bem nos esconderijos. Pode achar / um lugar perfeito, mas se não puder / cumprir a missão, não adianta nada.
+2093	Sempre use a arma mais adequada / para a situação.
+2094	Se usar uma arma que não serve, além de / desperdiçar munição, você também / coloca sua vida em risco.
+2095	Um jeito de saber quando trocar o / carregador é fazer das últimas balas / do pente balas traçantes.
+2096	Foi por pouco, Snake.
+2097	Sim. Foi uma bela surpresa, / com certeza.
+2098	Esconder uma bomba nos seus itens... é / um ato desprezível. Ele nunca deveria... / Bem, esqueça. É melhor correr para / a base subterrânea.
+2099	Seu tempo está quase acabando.
+2100	Então você derrotou a Wolf, hein. Ela foi / tola de usar a mesma tática que falhou / no primeiro encontro com você.

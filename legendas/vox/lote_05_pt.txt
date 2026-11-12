@@ -1,0 +1,150 @@
+601	Você é extremamente cuidadoso com armadilhas.
+602	Ou você é muito cauteloso,
+603	ou é um covarde...
+604	Ainda não acredita em mim?
+605	Agora vou ler sua alma mais fundo.
+606	Ah... Consigo ver sua mente...
+607	Então você gosta de SUIKODEN?
+608	Então você gosta de AZURE DREAMS?
+609	Você gosta de jogos de luta, não é?
+610	Então você gosta de aventura?
+611	Você curte jogos de RPG.
+612	Você gosta de jogos de ação!
+613	Você gosta de jogos de esporte!
+614	Você gosta de fliperama.
+615	Vejo que você curte jogos da Konami.
+616	Então você gosta de VANDAL HEARTS.
+617	Leio você como um livro aberto!
+618	Hmmm. Você salvou bastante.
+619	Você é uma pessoa prudente.
+620	Hmmm. Você não salvou muito.
+621	Você é meio imprudente.
+622	Hmmm... Seu cartão está / totalmente vazio.
+623	E você também está deixando de / salvar este jogo.
+624	Vai se arrepender.
+625	Você ainda não acredita!?
+626	Vou mostrar meu poder / psicocinético.
+627	Ponha o controle no chão.
+628	Deixe o mais plano possível... / assim, bom.
+629	Agora vou mover seu controle...
+630	só com o poder da minha vontade!!
+631	E agora, o que acha!?
+632	Sente meu poder agora!!!?
+633	A demonstração acabou!!
+634	Você gosta de Castlevania, não é?
+635	Você é mesmo poderoso,
+636	mas conheço seu ponto fraco!
+637	Fique onde ele possa te ver...
+638	e estoure seus miolos!!!
+639	Aaah!!
+640	Pare! Meryl!!
+641	Por que não consegui ler sua mente?
+642	Não!! Não pode ser!!
+643	Nããão!!
+644	Desista!
+645	Eu leio sua mente!
+646	O quê!? Não consigo te ler!!
+647	Mas... por que se esforçou tanto / para salvá-la?
+648	...talvez porque você gosta dela?
+649	...mas isso não significa que ele / não tenha coração.
+650	Eu vou na frente. / Snake, me siga.
+651	Snake, o que houve? / Achei que você era bom com cães.
+652	Este lugar tem minas.
+653	Vou na frente de novo.
+654	Fique para trás, certo?
+655	Mas o radar não está funcionando.
+656	E como também não dá pra usar / o detector de minas...
+657	E aí, o que achou?
+658	Muito bom, né.
+659	Como você sabia onde / estavam as minas?
+660	Parece estranho, mas quando / Mantis invadiu minha mente
+661	consegui ver onde as / minas estavam.
+662	Está impressionado?
+663	Bem... um pouco...
+664	Só um pouco?
+665	Truque de franco-atirador pra te atrair.
+666	Snipers costumam trabalhar em dupla, / mas esse está sozinho, hein.
+667	Está dizendo que só quero / salvar minha pele?
+668	Peguei ela!
+669	Eu o quero vivo.
+670	Não quero mais acidentes / como o do chefe da DARPA.
+671	Sim. Ele é meu alvo. Só meu.
+672	Está me ouvindo, Solid Snake?
+673	Ele é mais duro do que pensei...
+674	Sabe quem eu sou?
+675	Sempre soube que um dia / ia te encontrar.
+676	O homem que roubou o que / era meu por direito...
+677	o homem que roubou minha herança.
+678	É inútil.
+679	Tiramos todas as suas / armas e itens.
+680	Não se preocupe, estão seguros.
+681	Mas você não vai precisar mais deles.
+682	Não me faça rir.
+683	Estas algemas são de aço.
+684	Esqueça.
+685	Seu corpo está bem preso.
+686	Sou o homem de quem você roubou / tudo de bom.
+687	E agora,
+688	após o sacrifício de nossos irmãos... / depois de 30 longos anos,
+689	enfim nós dois nos encontramos.
+690	O irmão da luz
+691	e o irmão das trevas.
+692	Precisa do DNA dele também?
+693	Quero uma amostra enquanto / ele ainda está vivo.
+694	Precisamos dela para corrigir as / mutações dos Soldados Genoma.
+695	Então poderemos curá-los?
+696	Ainda precisamos pôr as mãos / no DNA de Big Boss.
+697	Já cederam às nossas exigências?
+698	Não vão ceder.
+699	São todos hipócritas, / cada um deles.
+700	Essa é a sua opinião como curdo?
+701	Eles sempre põem a política primeiro.
+702	Por isso querem evitar
+703	qualquer vazamento sobre a preciosa / nova arma nuclear deles.
+704	Chefe, parece que nosso amigo acordou.
+705	Aperte o botão O repetidamente / para recuperar suas forças.
+706	Quando cansar, / aperte Select para se render.
+707	Quando sua vida chegar a zero, / o jogo acaba.
+708	Não há continues, meu amigo.
+709	Nem pense em usar / turbo, eu vou saber.
+710	Snake, faz tempo que você / não salva o jogo.
+711	Se seu corpo não aguentar a / tortura, é fim de jogo.
+712	Quer mesmo percorrer / aquele longo caminho de novo?
+713	Vamos, não conto pra ninguém.
+714	Por que não desiste logo?
+715	Vou passar uma corrente elétrica / de alta voltagem pelo seu corpo.
+716	Por pouco tempo, / não vai te matar.
+717	Sabia que foram os franceses
+718	os primeiros a pensar em usar / choques elétricos
+719	como forma de tortura?
+720	Já vi muitos filmes franceses, / mas nunca ouvi isso.
+721	Você é durão, Snake.
+722	Mas tenho más notícias.
+723	Você não é prisioneiro de guerra.
+724	É um refém.
+725	Não existe Convenção de Genebra.
+726	Ninguém virá te salvar.
+727	Começando a sentir medo?
+728	Deveria.
+729	Vamos começar.
+730	Gostou?
+731	Já chega?
+732	Ainda está bem?
+733	Quer que eu continue?
+734	Desista.
+735	Facilite pra você.
+736	Você não quer morrer assim, quer?
+737	Certo. Lá vamos nós.
+738	Vamos de novo?
+739	Ainda não terminamos.
+740	Aguenta mais uma?
+741	Mais uma vez.
+742	Eu poderia fazer isso o dia todo.
+743	Ainda resistindo?
+744	Por que não desiste?
+745	Você é um homem forte.
+746	Bem, por ora é o bastante, acho.
+747	Você é mesmo irmão do Chefe.
+748	Seu irmão... é um homem incrível.
+749	Quem mais derrubaria dois F-16 / com um helicóptero Hind?
+750	O projeto "Les enfants terribles" / não foi um fracasso total.

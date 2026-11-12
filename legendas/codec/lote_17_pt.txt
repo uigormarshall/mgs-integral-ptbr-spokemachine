@@ -1,0 +1,150 @@
+2401	Você vai ver um cronômetro no canto / superior direito, na área do radar.
+2402	Ele mostra quanto tempo falta se / manter fora de vista para sair do / Modo Alerta.
+2403	Se escapar até o contador chegar a / zero, os inimigos param de atacar e / você entra no Modo Evasão.
+2404	Mas não relaxe só porque está no / Modo Evasão. Eles ainda vão te / procurar, então continue escondido.
+2405	Quando o contador do radar chegar a / zero de novo, os inimigos voltam / aos seus postos.
+2406	Aí sim você pode respirar aliviado.
+2407	De qualquer forma, o mais importante / é não ser visto. Evite qualquer / combate desnecessário.
+2408	Você ainda não tem arma. Se entrar / em combate, vai ter que lutar / com as próprias mãos.
+2409	Ouça, Snake. No combate desarmado, / sua arma básica é o soco. Aperte / o Botão de Ação.
+2410	Se apertar várias vezes, você / derruba o inimigo com um combo.
+2411	E tem mais. Sem arma na mão, você / pode aplicar uma projeção chegando / perto do inimigo e
+2412	apertando o Botão de Arma enquanto / segura o Botão Direcional. Isso / causa mais dano que um soco.
+2413	Se apertar o Botão de Arma sem / segurar o Botão Direcional, você / pode estrangular o inimigo.
+2414	Dá pra apagá-lo por um tempo ou, / se continuar, matá-lo de vez. A / escolha é sua. Mas use com cuidado.
+2415	O Medidor de O2 aparece sozinho / quando você está debaixo d'água / ou cercado por gás. / Ele representa o fôlego.
+2416	Quando o Medidor de O2 chega a zero, / seu Medidor de Vida começa a cair.
+2417	Snake, quando você entra num / espaço estreito, passa automaticamente / para o Modo Infiltração.
+2418	Aperte para cima no Botão Direcional / para avançar e para baixo para recuar. / Direita ou esquerda faz você virar.
+2419	Avance se escondendo. Preste atenção / nos movimentos dos inimigos e / não se deixe descobrir.
+2420	Mas cuidado. Você também não pode / atacar no Modo Infiltração.
+2421	E mesmo se entrar no Modo Infiltração / durante uma perseguição, as granadas / inimigas ainda vão te seguir.
+2422	Snake, junto a certas paredes ou / obstáculos, você pode olhar para trás / sem sair do esconderijo. Chamamos / isso de Modo Espreita.
+2423	Use com habilidade para ver as brechas / nos movimentos do inimigo e avançar / sem ser visto.
+2424	No Modo Espreita você pode bater na / parede e fazer barulho apertando / o Botão de Ação.
+2425	Então posso enganar o inimigo e / atraí-lo até mim, é isso.
+2426	Você é bom em enganar as pessoas, / não é?
+2427	Só mulheres bonitas como você.
+2428	Snake, no Modo Visão em Primeira / Pessoa, você pode dar um passo à / direita com R1 ou à esquerda com L1.
+2429	Então posso sair da sombra e ver / o que há mais à frente, certo.
+2430	Sim. Mas lembre-se: ao sair da / sombra, você fica mais fácil de / ser visto.
+2431	Se estiver em perigo, solte o botão / e volte rápido para a sombra, / entendeu?
+2432	Snake, rastejar é importante para / passar por lugares apertados. Mas / você não pode atacar enquanto / rasteja, então cuidado.
+2433	Para se levantar, aperte o Botão de / Rastejar de novo.
+2434	Se achar uma Caixa de Itens, é bom / chegar perto e olhar em Primeira / Pessoa. Assim você vê o que / tem dentro.
+2435	Se você segurar o inimigo num mata-leão, / pode arrastá-lo por aí. Assim dá / pra usar o corpo dele como / escudo humano.
+2436	Snake, no Modo Normal, quando você / mata um inimigo em silêncio, às vezes / consegue itens dele.
+2437	Com o estrangulamento ou um / silenciador na SOCOM, você deve / conseguir eliminar inimigos sem / fazer barulho.
+2438	Se usar bem o estrangulamento, você / elimina os inimigos sem fazer / barulho.
+2439	Sinto muito, Snake, mas o resgate / fracassou. Não há mais motivo / para ficar nessa cela...
+2440	Snake, saia daí e vá para o subsolo / 2. Você precisa resgatar o presidente / da ArmsTech, Kenneth Baker,
+2441	antes que os terroristas descubram / o código de detonação dele.
+2442	Ótimo. Parece que funcionou. Se o / que o Chefe da DARPA disse é verdade, / o presidente Baker deve estar logo / adiante. Tire-o de lá depressa.
+2443	As paredes cobertas de cimento devem / parecer um pouco diferentes. Olhe as / paredes com atenção em Primeira / Pessoa.
+2444	Procure as paredes com um padrão / diferente.
+2445	Você tentou bater na parede? / Talvez o som também seja diferente.
+2446	Você vai precisar de algum explosivo / para destruir a parede... C4, por / exemplo. Olhe bem o arsenal.
+2447	Esse C4 que você tem deve dar conta / das paredes cobertas de cimento.
+2448	O presidente Baker deve estar por / aí. Ande logo e encontre-o.
+2449	Além disso, você não pode usar o radar / aí. Mei Ling diz que é por causa de / interferência eletrônica. Se quiser / saber mais, pergunte a ela.
+2450	Snake, Psycho Mantis lê a mente das / pessoas. Ele pegou o código de / detonação do Chefe da DARPA. Rápido, / ou ele pega o do Baker também...
+2451	Isso mesmo. Se os terroristas tiverem / o código do Baker, poderão lançar / a ogiva quando quiserem.
+2452	É, e vão usar o Metal Gear... / Coronel, você sabia que estavam / fazendo um exercício militar aqui / com o Metal Gear?
+2453	...Eu não sabia.
+2454	Snake, você precisa entender. Eu sou / só um intermediário nesta operação.
+2455	Enfim, corra para o subsolo 2! Você / precisa salvar o presidente da / ArmsTech antes que os terroristas / descubram o código dele.
+2456	O presidente Baker deve estar em / algum lugar ao sul de onde você / explodiu a parede.
+2457	Salve-o depressa antes que os / terroristas descubram o código.
+2458	O Chefe da DARPA e o presidente / Baker... Então os terroristas já têm / os dois códigos de detonação...
+2459	É. E ainda por cima os dois morreram / bem diante dos meus olhos.
+2460	Snake, agora que os terroristas têm / os dois códigos, a única forma de / impedir um lançamento nuclear é
+2461	usar as chaves de liberação do código / de detonação que a Meryl tem, ou...
+2462	Ou encontrar o engenheiro-chefe do / Metal Gear que o presidente Baker / mencionou... Hal Emmerich.
+2463	De qualquer modo, você deve contatar / a Meryl pelo Codec. A frequência dela / não estava atrás da caixa do CD?
+2464	Fique tranquilo, Coronel. A Meryl / está bem.
+2465	Graças a Deus...
+2466	A Meryl é uma mulher muito forte. Eu / a respeito muito.
+2467	Ela tem muita coragem.
+2468	Calma. A verdadeira missão ainda / está por vir.
+2469	Resgatar esse engenheiro do Metal / Gear agora é seu objetivo principal. / Quando a Meryl abrir a porta de carga, / quero você indo para o norte.
+2470	Coronel, recebi uma chamada de Codec / de alguém de fora da operação!
+2471	Eu sei. Estávamos monitorando a / chamada. A Mei Ling sabe tudo sobre / o sistema de comunicação, deixe que / ela explique.
+2472	Bem, se alguém sabe sua frequência, / pode te chamar. A questão é como / ele descobriu... é informação / ultrassecreta...
+2473	Quer dizer que alguém vazou / a informação?
+2474	É a única explicação que me vem / à cabeça...
+2475	Mei Ling, você sabe de onde veio / essa transmissão?
+2476	Sinto muito. As ondas de rádio eram / fracas demais para localizar a origem. / Mas ele deve estar perto de você... / em algum lugar da base.
+2477	Snake, você vai ter que atravessar / o campo minado para avançar.
+2478	Indo para o norte a partir daí, você / deve chegar ao Depósito de / Ogivas.
+2479	O Dr. Emmerich provavelmente está / preso lá.
+2480	Você precisa salvá-lo e descobrir / como destruir o Metal Gear.
+2481	A Meryl entrou em contato, não foi? / Passe pela porta de carga na parte / norte do hangar. Vá para o Depósito / de Ogivas.
+2482	Snake, cuidado com o canhão principal / daquele tanque. Ele te pulveriza.
+2483	Deve haver um jeito. Pergunte à / Nastasha. Ela sabe tudo sobre / sistemas de armas.
+2484	Um tanque não funciona sozinho. Na / verdade é uma arma bem delicada. Fique / tranquilo. Você tem pelo menos uma / chance. Pergunte à Nastasha.
+2485	Você não chega ao Depósito de Ogivas / sem vencer o tanque, Snake. Tem que / destruí-lo.
+2486	Por enquanto, vamos confiar no que / o Deepthroat nos disse.
+2487	Use um Míssil Controlado por Rádio / para destruir o quadro de energia no / noroeste do subsolo 2 do Depósito / de Ogivas.
+2488	Cuide para que seu Míssil Controlado / não seja abatido pelas câmeras / armadas.
+2489	Conseguiu. Destruiu o quadro de / energia. A corrente elétrica no chão / deve ter sido desligada.
+2490	Você precisa resgatar o Dr. Emmerich / e descobrir o ponto fraco do / Metal Gear.
+2491	Ele não está preso no laboratório do / nordeste do andar em que você está?
+2492	Snake, você precisa resgatar o / Dr. Emmerich, o engenheiro do / Metal Gear.
+2493	Ele provavelmente está preso no / subsolo 2 do Depósito de Ogivas.
+2494	Snake, não dispare sua arma / nesse andar.
+2495	Já programei os nanomáquinas para / que ele não consiga, Coronel.
+2496	O quê! Do que você está falando!?
+2497	Esqueceu? É onde guardam as ogivas / nucleares. Não está vendo?
+2498	Estou. Tem um monte de caixas / empilhadas aqui, mas... são todas / ogivas?
+2499	Sim. São todas ogivas desmontadas.
+2500	Largadas assim? É como o presidente / Baker disse... descuido total.
+2501	O orçamento é limitado. Tentam passar / uma boa imagem para a mídia, mas / esta é a dura realidade.
+2502	A Nastasha sabe muito mais sobre / isso do que eu.
+2503	Todas as ogivas dessas caixas tiveram / o mecanismo de detonação removido, / então não há risco de explodirem.
+2504	Mas se as ogivas estiverem danificadas, / podem vazar plutônio, e isso seria / um problema sério.
+2505	Snake, nunca use sua arma / nesse andar.
+2506	O ninja!...
+2507	Esse camuflagem furtiva, é ele. / Só pode ser!
+2508	Snake! O Emmerich está em perigo! / Vá atrás dele depressa!
+2509	Snake! Rápido! O Emmerich está / em perigo!
+2510	Se tiver dúvidas sobre os membros do / FOX-HOUND, pergunte à Naomi.
+2511	Sinto muito, mas não existe ninguém / assim no FOX-HOUND.
+2512	Atualmente o FOX-HOUND tem apenas / seis membros.
+2513	Psycho Mantis, Sniper Wolf, / Vulcan Raven, Decoy Octopus, / Revolver Ocelot...
+2514	E por fim, Liquid Snake.
+2515	Os Soldados Genoma sob o comando / dele são as Forças Especiais da / Nova Geração.
+2516	O FOX-HOUND deve ser um pequeno / grupo de soldados de elite, / escolhidos a dedo.
+2517	Você está falando do FOX-HOUND / atual, certo?
+2518	Snake, quem ou o que é aquilo? / Ele é inimigo ou não?
+2519	É o que eu queria saber. Naomi, / você realmente não faz ideia?
+2520	...Talvez eu devesse te perguntar / a mesma coisa.
+2521	Nada... esqueça.
+2522	Snake, ele está claramente tentando / te provocar.
+2523	Snake, ele está claramente tentando / te provocar. Largue a arma / e enfrente-o.
+2524	Parece que suas armas não funcionam / contra ele. Você vai ter que pensar / em outra coisa.
+2525	Ele é rápido! Se perdê-lo de vista, / mude para a Primeira Pessoa e / procure por ele.
+2526	Bem, parece que você resgatou o / Emmerich por enquanto.
+2527	É. Com aquela camuflagem furtiva, / ele deve conseguir se esconder bem.
+2528	Gray Fox... não acredito... Mas o / verdadeiro problema é sua sobrinha. / O Codec cortar assim me preocupa.
+2529	Algo deve ter acontecido com ela...
+2530	Você está preocupado? Com a Meryl?
+2531	Não exatamente. É que ela está com as / chaves de liberação do código de / detonação. São nossa última chance / de impedir o lançamento nuclear.
+2532	Você é um homem frio. Sua missão é / mais importante que a vida dos / seus companheiros?
+2533	Isto é uma guerra. Sobreviver é o que / importa. Às vezes é preciso ser frio / para sobreviver.
+2534	Sim, mas...
+2535	Snake, de qualquer forma quero que / encontre a Meryl o quanto antes.
+2536	Não encontrou a Meryl? Por que não / dá outra olhada por aí?
+2537	Então a Meryl está disfarçada de / soldado inimigo, é? Mesmo assim, você / deve conseguir achá-la se olhar / bem de perto.
+2538	Use a Primeira Pessoa ou o Modo / Espreita para olhar bem de perto.
+2539	Você também pode tentar se infiltrar / se cobrindo com aquela caixa de / papelão.
+2540	A Meryl não disse que está por perto? / Comece procurando naquele prédio.
+2541	A Meryl disse que está por perto. / Provavelmente no Depósito de Ogivas? / Comece procurando lá.
+2542	Coronel, sua sobrinha está bem.
+2543	Graças a Deus!
+2544	Não podemos relaxar... ainda não.
+2545	Eu sei. Snake...
+2546	Ela é uma mulher e tanto.
+2547	Como comandante desta operação, não / posso te pedir para cuidar da Meryl, / mas...
+2548	O dever em primeiro lugar?
+2549	Talvez eu estivesse errado... mandar / meu próprio sangue para a guerra.
+2550	Ela entende o que é dever.

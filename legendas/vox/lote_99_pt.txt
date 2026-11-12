@@ -1,0 +1,205 @@
+100001	Estou na frente do descarte.
+100002	A idade não te atrasou.
+100003	Pro heliporto, hein...
+100004	Pro desfiladeiro...
+100005	O campo de neve ao norte / das torres...
+100006	...Peguei um baita resfriado.
+100007	É uma mulher...
+100008	Esse não.
+100009	Não me trate como novato!
+100010	Cala!
+100011	Ei! Calado!
+100012	Não sabia se era dos / bons.
+100013	Igualzinho ao seu tio.
+100014	Se não anularmos o código a / tempo, preciso saber como / destruir o Metal Gear.
+100015	Abrindo a porta de carga, / eu aviso.
+100016	Calma, estou disfarçada / com uniforme inimigo.
+100017	Escute. Há um tanque à / frente, te esperando.
+100018	Sem transmissão rápida.
+100019	Como antes?
+100020	Mais forte!
+100021	Cadê a música?
+100022	Parado!
+100023	Meryl!!
+100024	Mas é um bom guerreiro.
+100025	Você é muito cauteloso / com armadilhas.
+100026	E precisa cuidar das / armadilhas também.
+100027	Você é cuidadoso / com armadilhas.
+100028	Você é cuidadoso com armadilhas.
+100029	Gosta de SUIKODEN?
+100030	Gosta de AZURE DREAMS?
+100031	Gosta de jogos de ação!
+100032	Gosta de fliperama.
+100033	Curte jogos da Konami.
+100034	Gosta de VANDAL HEARTS.
+100035	Não li sua mente?
+100036	Não!! Impossível!!
+100037	Nããão!!
+100038	O quê!? Não te leio!!
+100039	E sem o detector de / minas também...
+100040	Quem roubou o que / era meu por direito...
+100041	após o sacrifício dos nossos / irmãos... depois de 30 anos,
+100042	Precisamos dela para corrigir / os Soldados Genoma.
+100043	Continuo?
+100044	Ainda está bem?
+100045	Certo. Vamos lá.
+100046	Faço isso o dia todo.
+100047	Ha ha ha ha!
+100048	Snake, está bem?
+100049	Já estive melhor...
+100050	É pedir muito...
+100051	Vou salvá-la.
+100052	Droga!... Resfriado...
+100053	Levou minha roupa!
+100054	...Uunff...
+100055	...de novo!!
+100056	Assim é melhor...
+100057	Ah
+100058	É tudo que posso fazer, Snake.
+100059	A Meryl deve estar bem.
+100060	Mando você pro inferno!!
+100061	Tarde demais!
+100062	Morra!
+100063	Qual o problema, Snake!
+100064	Com o O2 zerado, sua / Vida começa a cair.
+100065	Cima ou baixo escolhe o andar. / Ação confirma, X cancela.
+100066	Pegue a arma que / um inimigo largou!
+100067	Esse é o Snake que conheço. / Nem vão saber o que houve.
+100068	Tentou bater na parede? / O som deve mudar.
+100069	Ótimo, funcionou. Se o chefe / da DARPA tem razão, o presidente / Baker está adiante. Tire-o de lá.
+100070	O presidente Baker deve estar / ao sul de onde você / explodiu a parede.
+100071	Aí o radar não funciona. Mei Ling / diz que é interferência / eletrônica. Pergunte a ela.
+100072	Atordoe-o com uma / granada de atordoamento.
+100073	Snake, os terroristas têm os dois / códigos. Para impedir o lançamento,
+100074	Contate a Meryl pelo Codec. A / frequência não estava na / caixa do CD?
+100075	A Meryl é muito forte. / Eu a respeito.
+100076	Calma. A missão de verdade / ainda vem aí.
+100077	Salvar o engenheiro é sua / meta. Quando a Meryl abrir / a porta de carga, vá ao norte.
+100078	Salve-o e descubra como / destruir o Metal Gear.
+100079	Meryl conhece a base. / Por que não pergunta?
+100080	Snake, vai ter que / atravessar o campo minado.
+100081	Máscara de Gás, já!
+100082	Snake! O Emmerich / está em perigo!
+100083	Suas armas não funcionam / nele. Pense em outra coisa.
+100084	Snake, ele quer te / provocar.
+100085	Estranho. Eu a vi entrar, / mas sumiu.
+100086	Como comandante não posso / pedir que cuide da Meryl, mas...
+100087	Snake, vá com a Meryl à base / subterrânea do Metal Gear.
+100088	É o Psycho Mantis. Controla / a Meryl. É a música de / controle mental dele.
+100089	Tem poderes mentais, / não é mágico.
+100090	Você vê o que ele vê. São os / poderes dele. Use isso / para achá-lo!
+100091	Nem tudo que vê é real. / Destruir o espírito dele / vale mais que o corpo.
+100092	Ele leu sua mente. Dê um / jeito de contorná-lo!
+100093	Ele lê os movimentos do seu / Controle. Por isso desvia / dos ataques.
+100094	Conheço a Meryl: deve estar / esperando mais à frente.
+100095	Não se deixa dama esperando.
+100096	Snake, a Meryl espera?
+100097	Pergunte ao Dr. Emmerich / onde estão os óculos.
+100098	Meryl em perigo! Ache um rifle / de precisão e revide ao Wolf! / É a única forma de salvá-la!
+100099	Snake!! Quer matar / a Meryl!!?
+100100	Pergunte ao Dr. Emmerich / sobre um rifle de precisão.
+100101	Siga pela passagem / subterrânea ao norte.
+100102	Calma, Snake. Terá chance / de fugir. Aguente.
+100103	É o plano. Da próxima vez, / o Ocelot vai ser do meu jeito...
+100104	Relaxa. Aquele sádico / não me derruba.
+100105	Snake, preocupe-se depois. / Agora é hora de fugir.
+100106	Primeiro recupere seus itens.
+100107	Arremesse os bandidos / que te perseguem!
+100108	Pergunte ao Dr. Emmerich.
+100109	A passarela da torre A foi / destruída...? Deve haver / outro jeito.
+100110	Tem razão, mas sem escolha! O / Hind não manobra em espaço / apertado. É nossa chance!
+100111	Graças a Deus. Fiquei / apavorada só de te ver.
+100112	Snake, ataque vindo / de fora da tela.
+100113	Rápido. A base fica depois da / Torre de Comunicações. O / elevador voltou, não é?
+100114	Camuflagem furtiva! Não dá / pra ver. Escute, use os ouvidos.
+100115	Use os cinco sentidos. Dá / pra fazer sem os óculos térmicos!
+100116	Snake, você é nossa esperança. / Impeça o lançamento nuclear.
+100117	Descongelam em lugar quente. / Talvez a pele já resolva.
+100118	Snake, a Wolf se esconde no / campo de neve. Ache onde ela está.
+100119	Ela sai do esconderijo / um instante pra atirar.
+100120	Coitados. Corvos também são / criaturas de Deus.
+100121	Não queremos ratoeira. Queremos / impedir esse maldito míssil!
+100122	Posso ajudar, Snake?
+100123	Está ferido, Snake!?
+100124	Como ajudo, Snake?
+100125	É só falar, Snake. / Eu ajudo em tudo.
+100126	Snake, como está aguentando?
+100127	Falo depois, Snake.
+100128	Cuidado, Snake.
+100129	Vamos, Snake. Consegue!
+100130	Vença, Snake!
+100131	Faça por mim!
+100132	Desculpe, o Soliton não / funciona em lugar apertado.
+100133	Achou o chefe da DARPA! Pelo / transmissor de nanomáquinas, ele / é um ponto verde no radar.
+100134	O chefe da DARPA. Coitado... / infarto logo depois de salvo...
+100135	Mau pressentimento, Snake. / Deixe eu salvar sua missão.
+100136	Sinal fraco demais pra achar a / origem. Mas ele está perto, / em algum lugar da base.
+100137	Sem radar, Snake. Há muita / interferência. O ninja emite / energia elétrica!
+100138	Entrou atrás dela!? Pervertido!? / Agora não salvo sua missão!
+100139	Não sei... mau pressentimento.
+100140	Vale pra itens. Não seja / ganancioso ou vai se arrepender. / Cuidado, Snake.
+100141	O sábio evita o perigo antes. / Use a cabeça contra armadilhas / e fique longe do inimigo.
+100142	Deve estar terrível. Seja / forte. Sei que consegue. / Acredito em você.
+100143	Não. Mas se o revestimento / estiver danificado, pode vazar / material nuclear. Sem armas ali.
+100144	Achou Granadas. Tire o pino / e explode em cinco segundos.
+100145	Ali tem minas?
+100146	Se tivesse um Detector de Minas...
+100147	Depois de disparados, mandam / imagens ao monitor. Controle o / voo em todas as direções.
+100148	Seu Sneaking Suit protege um / pouco. E suas nanomáquinas / têm agentes anti-BC,
+100149	Olha como ele se move! / ...Deve ter um exoesqueleto / motorizado.
+100150	Para salvar o Dr. Emmerich, / derrote o ninja. Não desista.
+100151	Nossa única chance de falar a / sós. Tinha certeza que ela estava aqui..
+100152	Achou a Meryl.
+100153	A Meryl não é ela mesma. / Dá pra arrastá-la?
+100154	Remédio de resfriado? Não sei. / Parece comum pra mim.
+100155	Foi por pouco. Armaram / armadilha no seu equipamento. / ...desgraçados traiçoeiros.
+100156	Parece um resfriado forte. / Tente se livrar dele.
+100157	Armas leves não derrubam isso. / Se tivesse um Stinger...
+100158	Infravermelho e visão noturna / são inúteis. Ele voa no manual. / Seu Chaff não funciona.
+100159	Ataque de longa distância. / Revide com o rifle de precisão.
+100160	Meu Deus, derrubou / aquele Hind...
+100161	Use os óculos térmicos / do Dr. Emmerich.
+100162	Droga! Câmera de vigilância!
+100163	Sem chave!
+100164	!!
+100165	Snake, firme!
+100166	Snake! Um bloqueio!
+100167	Atire nos tambores!
+100168	Atire neles!!
+100169	Cuidado. A câmara de ar / tem sensores infravermelhos.
+100170	Caixa de papelão? Meu tio contava / histórias, achei que era piada... / Sem comentários.
+100171	Detector de Minas: deve ter um / no 2º andar do hangar dos tanques.
+100172	Purificador de ar: sopra poeira / das pessoas antes do laboratório.
+100173	Deepthroat? Não conheço / ninguém assim.
+100174	Cadê os mísseis / de controle remoto?
+100175	Meryl, essa pilha de / cadáveres é obra sua?
+100176	Rápido! Dr. Emmerich em perigo!
+100177	Snake, corra!
+100178	Disse que estava perto. Talvez / no Prédio de Ogivas.
+100179	Mais ou menos. Vi ela entrar / neste banheiro, mas...
+100180	Graças a Deus. Meryl é durona, / embora ninguém diga olhando pra ela.
+100181	Vá à base de manutenção do Metal / Gear. Lá fica o sistema do / código de detonação.
+100182	Entendeu o que eu / tinha em mente?
+100183	Há óculos noturnos / perto do meu laboratório.
+100184	É real. Não é cena ensaiada. / Se eu errar, não tem repetição.
+100185	Ótimo. Você desceu!
+100186	Snake, salve-a por favor.
+100187	Que estado, Snake!
+100188	Qual o problema?
+100189	Medo?
+100190	Sentiu o medo!!
+100191	Então, Snake!
+100192	Morra!
+100193	São ratos-do-campo do Alasca. / Não te ferem.
+100194	Seu inimigo é um telepata e tanto. / Mas você tem mais experiência. / Você consegue, Snake!
+100195	Bomba nos itens... Que ato / desprezível. Bem, esqueça. / Corra para a base subterrânea.
+100196	No escuro dá pânico. / Mantenha a calma.
+100197	Pense, Snake. Sua mente é sua / arma mais perigosa. Se complicar, / simplifique os pensamentos.
+100198	Só sobrevivendo a tiroteios e / vendo amigos morrer se / aprende esse truque.
+100199	Às vezes, mesmo perdido, é lutar / ou se condenar. Chance pequena / ainda é chance.
+100200	Previsão importa na guerra. No / perigo extremo, o sexto sentido / desperta.
+100201	O que um bom atirador precisa / são os sentidos de nascença. / Treino nenhum muda isso.
+100202	Câmera de vigilância?
+100203	!
+100204	...venceu...
+100205	Você

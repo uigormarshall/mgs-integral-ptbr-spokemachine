@@ -1,0 +1,150 @@
+1201	Ainda não descobri o sistema de / bloqueio, mas descobri o / motivo oculto do Baker.
+1202	Ele só quer ficar rico, né?
+1203	A ArmsTech está bem pior / financeiramente do que eu pensava.
+1204	Perderam a licitação do caça de / nova geração. Isso e o corte / nos gastos com o SDI...
+1205	Parece que até se falou / de uma aquisição hostil.
+1206	Tudo dependia deste projeto, / pelo visto.
+1207	E parece que pagávamos muito / suborno ao chefe da DARPA.
+1208	Suborno, é?
+1209	É, e o Baker era grande defensor / da teoria da dissuasão nuclear.
+1210	Entendi... / Mas e o bloqueio?
+1211	Me dê só mais um tempinho...
+1212	Snake, achei os arquivos / secretos do Baker!
+1213	Ótimo trabalho.
+1214	Como estão as coisas aí?
+1215	Terminaram de inserir / os códigos PAL.
+1216	Então como os desativamos?
+1217	Certo... sabe o sistema de bloqueio / de que o presidente falou...
+1218	Ele também serve para inserir / os códigos de detonação.
+1219	Se inserir as chaves com a ogiva / ativa, você a desativa.
+1220	E se inserir com ela inativa, / ela é ativada.
+1221	E só dá para usar as chaves uma vez.
+1222	Só uma vez, é?
+1223	É... melhor começar logo. / Não temos muito tempo.
+1224	Mas são precisas três chaves, né!? / Só tenho uma!
+1225	Espere um pouco. / Aí é que está o truque.
+1226	Você já tem as três chaves!
+1227	Do que você está falando!?
+1228	O cartão-chave é feito de uma liga / com memória de forma.
+1229	Liga com memória de forma?
+1230	Sim. É um material que muda de forma / conforme a temperatura.
+1231	A chave é feita dele!
+1232	Este cartão-chave?
+1233	Isso. / O cartão muda de forma em / temperaturas diferentes.
+1234	Então esta chave são três em / uma... esperto.
+1235	Snake. É sobre a Naomi Hunter...
+1236	Então fale com o Coronel. / Ele está investigando.
+1237	Desligue seu monitor.
+1238	Pronto, desligado. Ninguém mais nos / ouve. Pode falar.
+1239	Desculpe, mas não queria que o / Coronel ouvisse.
+1240	Certo, o que houve?
+1241	Tenho um bom amigo no / Pentágono...
+1242	Foi ele quem me contou...
+1243	Parece que a DIA desenvolveu há pouco / um novo tipo de / arma de assassinato.
+1244	Uma arma de assassinato?
+1245	O FoxDie?
+1246	...Liquid e os outros / falavam disso...
+1247	É. É uma espécie de vírus que / ataca pessoas específicas.
+1248	Não sei todos os detalhes, mas...
+1249	Aonde você quer chegar?
+1250	É parecido demais.
+1251	O quê!?
+1252	A causa da morte. O presidente da / ArmsTech e o chefe da DARPA, quer dizer, / o Decoy Octopus...
+1253	...não morreram de algo parecido / com um ataque cardíaco?
+1254	Sim...?
+1255	Pelo visto o FoxDie mata as vítimas / simulando um ataque cardíaco.
+1256	...Não... Está dizendo que a Naomi / estava por trás disso?
+1257	Snake, tente lembrar. A Naomi / lhe aplicou alguma injeção?
+1258	...As nanomáquinas.
+1259	Ela era a mais bem posicionada para / fazer isso, mas não sei o motivo.
+1260	...O Coronel sabe?
+1261	Não sei. Mas ele ainda não / a interrogou.
+1262	Certo. Eu mesmo pergunto a ele.
+1263	Coronel, e a situação / da Naomi?
+1264	Acabei de prender a Naomi.
+1265	Prender?
+1266	Ela enviava mensagens codificadas / para a base no Alasca.
+1267	Eu não queria acreditar, mas ela / deve estar com os terroristas.
+1268	Receio que sim. Ela está sendo / interrogada agora.
+1269	Que tipo de interrogatório?
+1270	Bem... queria evitar a violência, / mas nem temos pentotal / sódico aqui.
+1271	Me avise se descobrir algo.
+1272	Então é verdade, não é?
+1273	Naomi... não acredito.
+1274	Isso quer dizer que a vacina do FoxDie / deve estar por aí.
+1275	Escute. Tenho coisas maiores / com que me preocupar.
+1276	Mas, Snake... você também pode / estar infectado.
+1277	Só posso deixar isso nas mãos / do Coronel.
+1278	Snake, está me ouvindo?
+1279	Sou eu, a Naomi...
+1280	Naomi!?
+1281	...que diabo!?
+1282	O Campbell e os outros estão ocupados / agora... estou em outro Codec.
+1283	Naomi, é verdade o que o Coronel diz?
+1284	...Sim.
+1285	Mas nem tudo que eu disse era mentira.
+1286	Nem eu mesma sei.
+1287	Não sei meu nome verdadeiro nem / como eram meus pais.
+1288	Comprei todos os meus documentos.
+1289	Mas meu motivo para entrar na / genética era verdadeiro.
+1290	Porque você quer se conhecer, / certo?
+1291	Isso. Quero saber de onde eu / vim... minha idade, minha raça... / ...qualquer coisa.
+1292	Naomi...
+1293	Fui encontrada na Rodésia em algum / momento dos anos 80...
+1294	...uma órfã suja e miúda...
+1295	Rodésia? O atual / Zimbábue?
+1296	Sim. A Rodésia pertenceu à Inglaterra / até 1965 e havia muitos operários / indianos. Foi...
+1297	provavelmente de lá que veio a cor / da minha pele, mas nem disso / tenho certeza...
+1298	Naomi, você se preocupa demais / com o passado.
+1299	Não basta entender quem você / é agora?
+1300	Entender quem eu sou agora!?
+1301	Por quê? / Ninguém mais tenta me entender.
+1302	Fiquei sozinha por tanto tempo...
+1303	Seu irmão mais velho?
+1304	Ele era um jovem soldado quando me / encontrou perto do rio Zambeze.
+1305	Eu estava quase morta de fome e / ele dividiu a ração comigo.
+1306	Sim. Frank Jaeger, o homem que você / destruiu, era meu irmão e minha / única família.
+1307	Gray Fox?
+1308	Sobrevivemos juntos àquele inferno, / Frank e eu.
+1309	Ele me protegeu.
+1310	Ele é minha única ligação...
+1311	...a única ligação que tenho com o / meu passado.
+1312	E ele a levou de volta à América?
+1313	Não.
+1314	...Está falando do Big Boss?
+1315	Mas depois ele e meu irmão voltaram / à África para continuar a guerra.
+1316	E foi aí que aconteceu...
+1317	Você matou meu benfeitor e mandou / meu irmão para casa aleijado.
+1318	Jurei vingança e entrei para o / FOX-HOUND.
+1319	Sabia que era minha melhor chance de / encontrar você e rezei por esse dia...
+1320	E suas preces foram atendidas?
+1321	Sim. Esperei dois longos anos...
+1322	Para me matar?
+1323	Era só isso que lhe importava?
+1324	Sim. Isso mesmo.
+1325	Dois anos.
+1326	Você era tudo em que eu pensava por / dois longos anos... como uma / obsessão doentia...
+1327	Ainda me odeia?
+1328	...Não exatamente.
+1329	Eu estava em parte errada sobre você...
+1330	E o Liquid e os outros?
+1331	Não. / Também terei minha vingança contra eles.
+1332	Naomi... você não matou aquele / médico também, matou?
+1333	O que usou o Gray Fox em seus / experimentos com genoma...
+1334	...Não... foi meu irmão.
+1335	Depois eu acobertei tudo e o ajudei / a se esconder...
+1336	Então aquele Ninja... quer dizer, / o Gray Fox...
+1337	...veio aqui para me matar?
+1338	...Acho que não.
+1339	Acho que ele veio só para lutar / com você.
+1340	Antes eu não tinha certeza, mas agora / acho que entendo.
+1341	Uma batalha final com você...
+1342	...é só por isso que ele vive. / Tenho certeza...
+1343	...Fox... não...
+1344	Naomi, me diga uma coisa...
+1345	...sobre o FoxDie?
+1346	O FoxDie é um tipo de retrovírus que / ataca e mata só pessoas específicas.
+1347	Primeiro, infecta os macrófagos / do corpo da vítima.
+1348	Eles são programados para reagir / a padrões genéticos específicos.
+1349	Essas enzimas reconhecem o DNA / do alvo?
+1350	Isso. Elas reagem ficando / ativas e, usando os macrófagos, / começam a criar TNF épsilon.

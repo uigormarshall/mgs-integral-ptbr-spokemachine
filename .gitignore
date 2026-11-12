@@ -1,0 +1,22 @@
+# jogo original e imagens geradas (nunca versionar)
+/disc1/
+/patched/
+/work/
+*.bin
+*.cue
+*.7z
+*.iso
+# extraidos do disco (regerados por tools/montar.sh)
+legendas/*_all.json
+# gerados a partir dos lotes
+legendas/demo_pt.json
+legendas/radio_pt.json
+legendas/vox_pt.json
+__pycache__/
+/disc2/
+legendas/disc2/*_all.json
+legendas/disc2/*_pt.json
+# texto original do jogo (Konami): regerado do seu disco por tools/montar*.sh
+legendas/movie_pt.json
+legendas/movie_all.json
+legendas/**/lote_*_en.txt

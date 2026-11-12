@@ -1,0 +1,150 @@
+1501	Vocês dois são um constrangimento / dos anos 70.
+1502	...o segredinho sujo do nosso país.
+1503	Não podem continuar vivos.
+1504	As bombas vão cair em breve, e vocês / dois têm muito a pôr em dia.
+1505	Adeus.
+1506	Snake, sou eu.
+1507	Otacon, boas notícias.
+1508	A Meryl está bem.
+1509	Isso!!!
+1510	Você a salvou, cara. Bom trabalho!
+1511	Também tenho más notícias.
+1512	Vamos ser bombardeados.
+1513	Ótimo. Pelo visto somos descartáveis.
+1514	Tem como sair daqui?
+1515	Sair daqui?
+1516	...É, tem.
+1517	Dá pra pegar o túnel de carga até / a superfície.
+1518	Tem uma garagem logo ao seu lado.
+1519	O túnel sai de lá e vai até / a superfície.
+1520	A porta da frente?
+1521	Não. É uma entrada pequena a oeste / daquela porta.
+1522	E a segurança?
+1523	Acabei de destravar.
+1524	Com quem você acha que está falando?
+1525	Eu cuido da segurança no resto da / rota de fuga também...
+1526	O que você vai fazer?
+1527	Eu?
+1528	Eu fico aqui.
+1529	Você está louco!?
+1530	Preciso de mais um tempo pra cuidar / da sua rota de fuga.
+1531	Destravar as portas de segurança / é um trabalho difícil. / Só eu consigo fazer.
+1532	Otacon?
+1533	Eu vou ficar. / A decisão é minha.
+1534	Otacon, este abrigo é reforçado, mas / vão usar uma bomba nuclear / perfurante.
+1535	Ele não vai aguentar.
+1536	Cansei de me lamentar pelo passado...
+1537	A vida não é só perda, sabe...
+1538	Snake, agora sou uma pessoa completa.
+1539	Encontrei um motivo pra viver.
+1540	Ótimo.
+1541	Não morra.
+1542	Você também não.
+1543	Cuide da Meryl, certo?
+1544	Cuidarei...
+1545	Certo, preciso ir.
+1546	Prometo que vou dar um jeito na / sua rota de fuga.
+1547	...ah, que bom ouvir isso.
+1548	...Eu acredito em você.
+1549	Obrigado, Snake.
+1550	Você está bem?
+1551	Coronel, o que houve?
+1552	O Secretário de Defesa foi preso.
+1553	Aposentadoria antecipada.
+1554	Preso?
+1555	Consegui contato com o Presidente.
+1556	Metal Gear, o treinamento... / tudo isso foi obra do Secretário de / Defesa, agindo sozinho.
+1557	Sozinho?
+1558	E o ataque aéreo e o ataque / nuclear?
+1559	As ordens foram revogadas.
+1560	Os F117 e os B2 Spirit voltaram / para a base.
+1561	Mais uma vez, tenho autoridade total / sobre esta operação.
+1562	Washington não é burra a ponto de usar / armas nucleares pra encobrir segredos.
+1563	Duvido muito.
+1564	De qualquer forma, o perigo passou...
+1565	Coronel, pode ficar tranquilo.
+1566	A Meryl está bem.
+1567	Sério?
+1568	Obrigado...
+1569	...Obrigado, Snake.
+1570	Sinto muito por...
+1571	...ter escondido tanta coisa de você.
+1572	Tudo bem, Coronel.
+1573	Snake,
+1574	eu não sou mais Coronel.
+1575	Ah, é verdade.
+1576	Tenho um presente pra você.
+1577	Tem uma moto de neve perto de você.
+1578	A Mei Ling a viu nas fotos de satélite.
+1579	Nesta época do ano as geleiras estão / bem calmas.
+1580	Você deve conseguir sair daí direto / com ela.
+1581	Aposto que o pessoal da DIA e da / NSA nunca esperou que você / voltasse vivo.
+1582	Nem eu.
+1583	Melhor eu não aparecer por aqui.
+1584	Não há perigo disso.
+1585	Oficialmente vocês dois morreram / quando o jipe afundou no oceano...
+1586	Não está longe da verdade.
+1587	Além disso, há um helicóptero / esperando você na Ilha Fox.
+1588	O Dr. Hal Emmerich deve estar em / algum lugar da base.
+1589	Quero que alguém o traga.
+1590	Deixa comigo.
+1591	Certo, Roy.
+1592	Você vai ficar bem?
+1593	Não se preocupe. Tenho um seguro.
+1594	...uma cópia impressa de todos os / dados da Mei Ling.
+1595	Enquanto eu tiver isso, você, eu e / a Mei Ling ficaremos bem.
+1596	A bateria dessas nanomáquinas / vai acabar logo.
+1597	Elas não vão conseguir nos seguir.
+1598	Acho que não nos veremos mais.
+1599	Não se preocupe. Faço uma visita / qualquer dia.
+1600	Sério? Vou esperar por isso.
+1601	Roy, só me diga uma coisa.
+1602	Sobre o FoxDie.
+1603	A Meryl vai ficar bem.
+1604	Ela não estava incluída na / programação dele.
+1605	E eu?
+1606	Matou o Liquid...
+1607	A Naomi disse que quer falar com / você pessoalmente sobre isso.
+1608	Como ela está?
+1609	A Mei Ling está com ela agora.
+1610	Vou passar para a Naomi.
+1611	Coronel, sobre a Meryl...
+1612	Eu já sei...
+1613	Coronel?
+1614	A Meryl era...
+1615	...minha filha.
+1616	Só descobri há pouco tempo.
+1617	Recebi uma carta da mãe dela... / a viúva do meu irmão...
+1618	Eu ia contar a ela depois que esta / operação acabasse.
+1619	Coronel, eu...
+1620	Obrigado, mesmo assim.
+1621	Escondi muita coisa de você.
+1622	Snake, eu não sou Coronel.
+1623	Sério? / Vou esperar por isso.
+1624	Fiquei sabendo do meu irmão...
+1625	mas ele tinha uma última mensagem / pra você.
+1626	O quê...?
+1627	Ele pediu pra dizer que você o esqueça / e siga com a sua própria vida.
+1628	O Frankie disse isso?
+1629	Sim. Disse também que sempre / vai gostar de você...
+1630	Naomi, seu irmão salvou você, eu / e o mundo inteiro.
+1631	Ele lutou com toda a força que / tinha no corpo.
+1632	Talvez...
+1633	...talvez agora ele finalmente tenha / encontrado um pouco de paz.
+1634	Ele já não era mais meu irmão...
+1635	Desde que lutou com você em Zanzibar, / ele virou um fantasma.
+1636	Um fantasma procurando um lugar / pra morrer...
+1637	Naomi, o Liquid também morreu / de FoxDie.
+1638	Quando chega a minha hora?
+1639	Isso depende de você.
+1640	Todos morrem quando chega a hora...
+1641	É, então quando chega a minha?
+1642	Depende de você como usar o tempo / que lhe resta.
+1643	Viva, Snake.
+1644	É só isso que posso dizer.
+1645	Snake, aqui é McDonell Miller. / Há quanto tempo.
+1646	Mestre? O que está fazendo aqui?
+1647	Larguei o posto de instrutor, então vim / pra cá em busca de paz e sossego.
+1648	Estou aposentado como você. De vez / em quando ainda ajudo a treinar / os Escoteiros do Alasca.
+1649	Passando o conhecimento pra uma / nova geração, é?
+1650	O Campbell me contou da situação / aqui. Achei que podia ser útil.

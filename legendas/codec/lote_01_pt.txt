@@ -1,0 +1,150 @@
+1	Cuidado, Snake. Aquela câmara de ar / tem sensores infravermelhos.
+2	Talvez você não consiga vê-los a olho nu, / mas há feixes infravermelhos / saindo daquela parede.
+3	Se tocar em qualquer um, as portas / vão se fechar e o lugar será / inundado de gás venenoso.
+4	De algum jeito, você tem que passar / sem acionar esses sensores.
+5	Acho que dá pra enganar os sistemas / eletrônicos do tanque com uma / Granada Chaff.
+6	Incrível, Snake! Você derrotou / um tanque M1 sozinho.
+7	Não foi nada. Mas aposto que o simulador / de VR onde você treinou não tinha / nenhum cenário de um contra um / com um tanque, tinha?
+8	Não. Mas também não tinha cenário / em que eu trabalhava sozinho com / um soldado de forças especiais contra / um grupo de terroristas.
+9	Na vida real, as coisas nunca saem / como você espera... principalmente / num campo de batalha.
+10	Já estou escondida no Prédio de Ogivas. / O Dr. Emmerich parece estar bem, / mas não sei por quanto tempo...
+11	Venha logo pra cá, tá?
+12	Deepthroat? Não, não conheço ninguém / que se chame assim.
+13	Entendo...
+14	Por que será que ele quer te ajudar?
+15	Não faço ideia.
+16	Uma armadilha?
+17	Pode ser. Mas, por enquanto, / vou ter que confiar nele...
+18	Onde estão os mísseis / controlados por controle remoto?
+19	Acho que os mísseis estão no primeiro / subsolo do Prédio de Armazenamento / de Ogivas.
+20	O Dr. Emmerich provavelmente está / preso no laboratório, no nordeste / desse andar.
+21	Eles inundaram a área com gás / pra impedir que ele fuja.
+22	Mas deve ter uma máscara de gás / nesse andar também. Com ela, / você passa sem problemas.
+23	Snake, o Dr. Emmerich está preso / logo ao norte daí.
+24	O Dr. Emmerich deve estar na área / do laboratório, no segundo subsolo.
+25	Ele deve estar no laboratório de pesquisa, / no segundo subsolo do Prédio de / Armazenamento de Ogivas Nucleares, / ao norte.
+26	Meryl, pra que servem esses buracos / nas paredes?
+27	É um purificador de ar, pra soprar / partículas de poeira do corpo das pessoas / antes de entrarem no laboratório.
+28	Quem é você?
+29	Fiquei muito impressionada com o jeito / que você escapou de lá.
+30	Aquela da prisão...?
+31	Você é a sobrinha do Coronel, a Meryl, / certo?
+32	......Não... não é ele...
+33	Afinal, quem é você?
+34	Sou o idiota que seu tio mandou / sozinho pro meio dessa confusão toda.
+35	Você veio sozinho?
+36	Você se acha um exército de um homem só?
+37	Você nem está armado.
+38	Agradeço a ajuda de antes. / Mas...
+39	Não preciso de sermão.
+40	Você é igualzinho ao seu tio, sabia?
+41	Como você conhece meu tio?
+42	Nos conhecemos há muito tempo.
+43	Qual é o seu nome?
+44	Meu nome não importa.
+45	Ah!
+46	Será que você é o Snake?
+47	Você é o Solid Snake?
+48	Algumas pessoas me chamavam assim.
+49	O lendário Solid Snake...! Você!?
+50	Desculpe pelo que houve antes...
+51	Não sabia se você era um dos / mocinhos.
+52	Mas eu sabia que era.
+53	Como?
+54	São seus olhos.
+55	Meus olhos?
+56	Não são olhos de soldado.
+57	São olhos de novato, né?
+58	Não, são olhos lindos e compassivos.
+59	Era o que eu esperava do / lendário Solid Snake.
+60	Está tentando me conquistar?
+61	Calma. Você vai cair na real / quando me conhecer.
+62	A realidade não chega aos pés / da lenda, infelizmente.
+63	Ah, não acredito nisso.
+64	Por que você ficou tão surpresa / quando viu meu rosto?
+65	Porque você é a cara dele.
+66	...Está falando do líder dos terroristas, / Liquid Snake?
+67	Isso, você o conhece?
+68	Vocês não são irmãos, são!?
+69	Não tenho família.
+70	Então, qual é a história?
+71	Quem sabe. Por que não pergunta a ele?
+72	Mas primeiro, quero algumas informações.
+73	Você participou deste exercício desde / o início. / O que exatamente aconteceu aqui?
+74	Sinto muito. Fui capturada junto com / o Presidente Baker, logo depois / do ataque terrorista.
+75	Tudo bem.
+76	Mas que lugar é este?
+77	Acho que não é só uma instalação / de descarte de armas nucleares...
+78	Nossa, é a cara deles!
+79	Ninguém te contou nada, não é?
+80	Certo... este lugar na verdade não / serve pra descartar armas nucleares.
+81	Esta base pertence a uma empresa de / fachada da ArmsTech.
+82	Esta é uma base civil?
+83	Isso. / Para o desenvolvimento do Metal Gear.
+84	Coronel!
+85	O FOX-HOUND e as Forças Especiais / da Nova Geração foram chamados / pro lançamento de teste de uma / ogiva nuclear falsa.
+86	Por que o FOX-HOUND?
+87	Porque é um grupo de Operações Especiais / acostumado a missões ultrassecretas.
+88	Acharam que eles ajudariam a manter / tudo em sigilo.
+89	Mas já devemos ter disparado / ogivas nucleares antes.
+90	Por que só desta vez?
+91	Ouvi dizer que era o teste final antes / da adoção oficial do programa / Metal Gear... pelo menos foi o que ouvi.
+92	Hmmm... parece meio suspeito...
+93	E o que você acha que os terroristas / querem?
+94	Hmmm. Desculpe, não sei...
+95	Fui capturada com o Presidente Baker / logo depois que a revolta começou...
+96	Ah, é.
+97	Foi quando ele te deu as chaves de / anulação do código de detonação, né?
+98	Isso mesmo.
+99	Incrível você ter conseguido escondê-las / dos guardas.
+100	Bem... mulheres têm mais esconderijos / que os homens.
+101	Enfim, você encontrou o Baker, né? / Como ele está?
+102	...Está morto.
+103	O quê!?
+104	Ataque cardíaco.
+105	Igual ao Chefe da DARPA...
+106	O Chefe também morreu de ataque / cardíaco...?
+107	É... Algum dos dois estava doente?
+108	Não... pelo menos não que eu saiba.
+109	Eu não acredito em coincidências.
+110	Tem algo estranho acontecendo.
+111	Hmmm. Parece que sim.
+112	Mas não faço ideia do quê.
+113	Nem eu... ainda.
+114	Você conhece a pessoa que projetou / o Metal Gear?
+115	Está falando do Dr. Emmerich?
+116	Sim. Ele ainda está vivo?
+117	Provavelmente. Ele deve estar no / laboratório de pesquisa, no segundo / subsolo do Prédio de Armazenamento / de Ogivas Nucleares, ao norte.
+118	Segundo subsolo?
+119	Isso, é lá que fica o laboratório dele.
+120	Acho que estão forçando ele a trabalhar / no programa de lançamento nuclear.
+121	Então vão precisar dele vivo até / terminar isso...
+122	Então é melhor fazermos algo antes / que ele termine.
+123	Tem razão.
+124	Caso a gente não consiga anular o / código de detonação a tempo, preciso / perguntar a ele como destruir o Metal Gear.
+125	Pretende enfrentar aquilo sozinho, Snake?
+126	Não vai ser a primeira vez...
+127	Ahhhh.
+128	Qual a melhor forma de chegar ao / prédio onde o doutor está preso?
+129	Tem uma porta de carga no primeiro / andar deste prédio que leva ao norte.
+130	Qual o nível de segurança da porta?
+131	Cinco, mas tudo bem... tenho um / cartão nível cinco.
+132	Bem...
+133	Preciso ir salvar o doutor. / Você deve ir...
+134	Eu vou com você!
+135	De jeito nenhum.
+136	Você ainda é muito inexperiente. / Quero que se esconda em algum lugar.
+137	Não sou inexperiente.
+138	Ah, é sim.
+139	Basta hesitar um segundo na frente / do inimigo e acabou!
+140	A sorte não dura para sempre!
+141	Não sei o que aconteceu. Eu simplesmente / não consegui puxar o gatilho.
+142	Nunca tive problemas no treinamento...
+143	Mas quando pensei nas minhas balas / atravessando o corpo daqueles soldados, / eu... hesitei...
+144	Atirar em alvos e atirar em pessoas / vivas são coisas diferentes.
+145	Desde pequena, sempre sonhei / em ser soldado...
+146	Todos os dias da minha vida, treinei / mente e corpo para o dia em que / finalmente veria ação de verdade, / e agora...
+147	E agora? Quer desistir?
+148	Não posso desistir.
+149	Não posso me permitir desistir agora.
+150	Escute, Meryl. Todo mundo passa mal / na primeira vez que mata alguém.

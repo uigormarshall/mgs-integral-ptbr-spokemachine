@@ -1,0 +1,150 @@
+2551	Eu sei que ela sabe...
+2552	Mas quero saber qual era o verdadeiro / objetivo desse exercício militar.
+2553	Não sei. Como eu disse, sou só um / intermediário.
+2554	Os militares estão monitorando / esta transmissão?
+2555	Claro.
+2556	Entendi. O mundo é um palco e nós / somos apenas atores, certo?
+2557	Sim, mas até os atores podem mudar / a peça.
+2558	Só espero que a gente consiga evitar / um final ruim.
+2559	Snake, vá com a Meryl até a base / subterrânea onde estão guardando / o Metal Gear.
+2560	Coronel, a Meryl está meio estranha.
+2561	Talvez esteja só cansada de tanto / estresse.
+2562	Snake, você ouve algo parecido / com uma música?
+2563	Ouço sim. Comecei a ouvir um pouco / atrás. O que será?
+2564	Vá em frente, Snake. A base / subterrânea fica ao norte, não é?
+2565	Não consigo ver o Mantis!
+2566	Snake, ele tem poderes mentais, / mas não é mágico.
+2567	Entendi. Camuflagem furtiva, talvez?
+2568	A Meryl está sendo controlada por ele.
+2569	Meu modo de visão em primeira / pessoa não está funcionando direito.
+2570	Você vê o que ele vê. É efeito dos / poderes telepáticos dele. Talvez / possa usar isso para achá-lo!
+2571	Cuidado. Lobos têm vantagem no / escuro. Enxergam melhor e ainda / têm um olfato apurado.
+2572	É melhor usar seus óculos / de visão noturna.
+2573	Pergunte ao Dr. Emmerich onde / estão os óculos de visão noturna.
+2574	Parece que a Meryl está bem. / Obrigado, Snake.
+2575	Coronel, perdi a Meryl de vista...
+2576	Conhecendo a Meryl, ela deve estar / esperando você mais adiante.
+2577	Para chegar à base subterrânea, passe / pela caverna e use a passagem que / leva à Torre de Comunicações.
+2578	Snake, não há mais tempo. Você / precisa chegar logo à base / subterrânea.
+2579	Snake, não há mais tempo. / Você precisa chegar logo à / base subterrânea.
+2580	Você deve poder ir para o norte / a partir da Sala do Comandante.
+2581	Sniper Wolf é a melhor atiradora / do FOX-HOUND.
+2582	Todo mundo sabe que mulheres têm / mais paciência que homens,
+2583	mas a Sniper Wolf aguenta uma semana / sem dormir nem comer... sem tirar / a mira do alvo.
+2584	E ainda toma diazepam, para que as / mãos nunca tremam.
+2585	Fique fora do alcance dela e atire / com um rifle de precisão.
+2586	Sim, mas onde acho um rifle de / precisão? Não posso perguntar à Meryl.
+2587	E o Dr. Emmerich? Ele está na base / há um tempo. Talvez saiba...
+2588	Pergunte ao Dr. Emmerich onde pode / haver um rifle de precisão.
+2589	Você não ouviu que há um rifle de / precisão no 2º subsolo do Hangar / de Tanques!? Vá buscá-lo e salve / a Meryl!
+2590	Fique fora do alcance dela e atire / com um rifle de precisão.
+2591	Bom trabalho com a Wolf. A Meryl / está bem?
+2592	Não sei. Não a vejo por aqui.
+2593	Você não acha que ela foi capturada, / acha!?
+2594	Pode ser. Vamos perguntar à Wolf. Se / ela ainda estiver viva, vou ter / respostas...
+2595	Conto com você pela Meryl.
+2596	Snake, siga pela passagem / subterrânea ao norte.
+2597	Snake, o prazo de lançamento da nova / ogiva nuclear está acabando. Corra / para a base de manutenção do / Metal Gear!
+2598	O caminho por terra está bloqueado / por uma geleira. Suba a Torre de / Comunicações para passar por cima.
+2599	A Torre de Comunicações tem a torre A / e a torre B. Você está na A. Para ir / à B, use a passarela externa.
+2600	Lembre-se, Snake. Lugares escuros / são lugares perigosos.
+2601	Você não vê de onde vêm os inimigos. / Use seus óculos de visão noturna / ou térmicos.
+2602	A porta da passarela não abre, é?
+2603	É. Alguma ideia?
+2604	Por que não pergunta ao Dr. Emmerich?
+2605	Espere, Snake. Pelas fotos de satélite / que a Mei Ling conseguiu, parece que / também há uma passarela no telhado.
+2606	Você pode usá-la para chegar ao / outro lado também.
+2607	Snake, você terá de usar a passarela / do telhado. Suba lá!
+2608	Falar é fácil...
+2609	Use seu golpe de arremesso nos / bandidos que estão te perseguindo!
+2610	Granadas também podem funcionar. Para / explodir perto dos soldados, tire o / pino e segure por 4 segundos / antes de jogar.
+2611	Snake, espere. / Você esqueceu seus itens.
+2612	Devem estar guardados / em algum lugar por perto.
+2613	Para chegar à base subterrânea do / Metal Gear, suba a Torre de / Comunicações no lado norte da caverna.
+2614	Espere, Snake. Você está num arsenal. / Que tal reabastecer a munição?
+2615	Ufa... cheguei ao telhado.
+2616	Você deve estar exausto, Snake.
+2617	Foi fácil.
+2618	Snake, estou te monitorando. Seus / batimentos estão acelerados e sua / respiração está curta.
+2619	O que houve, Snake? Fora de forma / depois de tanto conduzir trenó?
+2620	A passarela deve estar logo à sua / frente. Atravesse para chegar à torre B.
+2621	Depois desça e siga para o norte.
+2622	Aonde vai, Snake? Corra e pegue a / passarela do telhado até a torre B.
+2623	A passarela do telhado da torre A foi / destruída...? / Isso não quer dizer que não haja / outro jeito.
+2624	Tem uma corda por aí? Com uma corda / você poderia descer de rapel do / telhado da torre A até a passarela.
+2625	Você é especialista em rapel, / não é?
+2626	Vá até a parte norte da torre A e use / aquela corda para descer de rapel / até a passarela abaixo.
+2627	É perigoso demais! O Hind está mirando / no Snake! E ele precisa das duas / mãos para o rapel!
+2628	Você tem razão, mas não temos escolha! / O Hind não manobra em espaços / apertados. É nossa melhor chance!
+2629	Isso é loucura!
+2630	O Coronel tem razão. / Não há outro jeito.
+2631	Snake, o Hind continua circulando / sobre a Torre de Comunicações.
+2632	Droga. Não há arma aqui que eu / possa usar contra ele.
+2633	O Dr. Emmerich pode saber onde há / uma arma contra o Hind. / Por que não pergunta a ele?
+2634	Snake, pegue logo os mísseis Stinger. / O Emmerich não disse que ficam / perto da entrada da passarela da torre B?
+2635	O caminho para o topo está bloqueado... / Bem, resolvemos isso depois. Que tal / ver o que acontece lá embaixo?
+2636	Parece que o Liquid quer mesmo um / confronto com você. Estou vendo as / imagens de satélite melhoradas da Mei Ling.
+2637	Snake, ele está te esperando. Só fica / circulando como um abutre.
+2638	Espero que todos estejam curtindo / a transmissão ao vivo!
+2639	Desculpe, Snake. Queria poder / ajudar de algum jeito.
+2640	Snake... não gosto disso. / Por favor, não suba ao telhado.
+2641	Preciso subir. Não posso fugir dessa.
+2642	O Liquid está te esperando / no telhado...
+2643	A escada quebrou... azar. Parece que o / elevador é o único caminho agora. / Certo, Snake, suba para lá já.
+2644	O Liquid quer acabar com isso agora. / Ele claramente planejou tudo.
+2645	Talvez o elevador quebrado fizesse / parte da armadilha.
+2646	Quer dizer que ele mexeu no elevador / para me levar ao telhado?
+2647	Você terá de destruir aquele Hind, Snake.
+2648	Você vê o Hind no radar. Mesmo sem / contato visual, sempre pode checar / a posição dele pelo radar.
+2649	Use os ouvidos, Snake. Dá para saber / de onde ele vem pelo som das hélices.
+2650	Hã? Snake, você não está usando / uma TV estéreo!?
+2651	Não pode ser!
+2652	Uma TV mono...
+2653	Hmmmmmm....
+2654	Bem, Coronel... não há o que / fazer a respeito...
+2655	...Acho que você tem razão.
+2656	Snake, não se preocupe. Ser uma boa / pessoa não depende de ter uma TV / estéreo. Você consegue do jeito que é!
+2657	Uma TV mono...
+2658	Conseguiu, Snake! / Você derrubou o Hind!
+2659	Eu estava tão preocupado...
+2660	O Liquid não pode ter sobrevivido a isso.
+2661	Será...
+2662	Mesmo assim, só porque derrubamos o / líder deles não significa que vão / desistir. Ainda vão tentar lançar o míssil.
+2663	Você tem razão. / Não há tempo a perder.
+2664	Rápido. A base subterrânea fica depois / da Torre de Comunicações. / O elevador voltou a funcionar, não é?
+2665	Eles usam camuflagem furtiva! / Não dá para vê-los, então escute / com atenção. Use os ouvidos.
+2666	Como funciona essa tecnologia / furtiva?
+2667	É óptica ou química? / ...Você sabe, Snake?
+2668	Pergunte a quem a inventou. / Ele deve saber.
+2669	Snake, você não luta contra o que não / vê. Use seus óculos térmicos!
+2670	Snake, use todos os cinco sentidos. / Dá para fazer isso até sem os / óculos térmicos!
+2671	O tempo parece estar piorando. / Tente usar o binóculo.
+2672	E os dados de satélite?
+2673	Sinto muito, Snake. Também não vejo / a entrada nas fotos de satélite.
+2674	E uma fonte de calor? / Um tubo de escape, algo assim?
+2675	Não consigo confirmar nada. Só que há / várias fontes de calor a sudeste / da sua posição.
+2676	Provavelmente são só os destroços / em chamas do Hind.
+2677	Snake, você está num grande espaço / aberto cercado por muros. A entrada da / base subterrânea deve estar por ali.
+2678	Fique perto dos muros e não / vai se perder.
+2679	Snake, você é nossa única esperança. / Por favor, impeça o lançamento / do míssil nuclear.
+2680	A entrada da base de manutenção / subterrânea fica nos fundos do campo / de neve ao norte da torre B.
+2681	É a Sniper Wolf. Você só pode atirar / nela com a PSG-1.
+2682	Snake, a Wolf está escondida em algum / lugar do campo de neve. Primeiro / descubra onde ela está.
+2683	Ela deve sair do esconderijo por um / instante para atirar em você.
+2684	Parece que a Wolf caiu. Agora vá / depressa para a base subterrânea / do Metal Gear.
+2685	Coronel, há um elevador, / mas está parado num andar abaixo.
+2686	Esse elevador provavelmente só pode / ser chamado de baixo.
+2687	Deve haver outro jeito de descer. / Procure por aí.
+2688	O Dr. Emmerich conhece bem a base. / Por que não pergunta a ele?
+2689	Snake, isso é um alto-forno.
+2690	Um alto-forno? / Para que servem?
+2691	Não há aeroporto na base, / então é difícil trazer suprimentos.
+2692	Devem ter construído um alto-forno / para fazer materiais de construção / e coisas assim.
+2693	Faz sentido. / Ufa, estou começando a suar. / Está ficando quente.
+2694	O elevador para a base subterrânea / ficava no nordeste do último andar. / Certo, Snake?
+2695	Que história triste. / Não devíamos ter virado as costas / aos curdos depois da Guerra do Golfo...
+2696	Escute. Não somos responsáveis pelas / escolhas dela. Cada um decide o próprio / destino, onde quer que tenha nascido.
+2697	Palavras como destino, karma... para / mim são só desculpa para desistir...
+2698	Não concordo com você.
+2699	Se ela não tivesse nascido num campo / de batalha, talvez tivesse tido uma vida / mais feliz e plena. Talvez não / tivesse virado uma assassina...
+2700	Snake, corra para a base subterrânea / do Metal Gear! A entrada deve ficar / nos fundos do campo de neve.

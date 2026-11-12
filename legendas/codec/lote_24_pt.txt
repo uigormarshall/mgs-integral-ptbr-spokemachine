@@ -1,0 +1,32 @@
+3451	O mais importante é zerar / a mira do seu rifle.
+3452	Se não zerar a mira direito, / nunca vai acertar o alvo.
+3453	A mira pode estar um pouco desregulada, / então teste com um tiro. Se estiver, / terá que compensar ao atirar.
+3454	Relaxe. Esse era o rifle da / Sniper Wolf.
+3455	Da. Nesse caso, é melhor não / mexer nele.
+3456	A 400 metros, um grau de diferença / na temperatura do ar desvia / cerca de 1 centímetro do alvo.
+3457	A pressão atmosférica afeta o tiro / do mesmo jeito. / Por isso a mira muda conforme / as condições.
+3458	Já ouviu falar do Efeito Magnus? / Normalmente a bala do rifle gira / e curva um pouco para a direita. / Isso é o Efeito Magnus.
+3459	Pense no camarada Magnus / ao alinhar a mira.
+3460	Fique longe dele. Esconda-se e ataque. / Use o Míssil Controlado / ou os explosivos C4.
+3461	Snake, cuidado!
+3462	Há minas Claymore por aí.
+3463	Use o Detector de Minas!
+3464	Garganta Profunda?
+3465	O informante do escândalo / de Watergate?
+3466	Deixa pra lá.
+3467	Você não está usando transmissão rápida.
+3468	Está por perto?
+3469	Escute. Há um tanque à frente da sua / posição, esperando para te emboscar.
+3470	Quem é você, afinal?
+3471	Um dos seus fãs.
+3472	Snake, cuidado!
+3473	Esse lugar está cheio de gás.
+3474	Além disso, o chão está eletrificado.
+3475	Primeiro, destrua a chave de alta tensão.
+3476	É o painel na parede noroeste.
+3477	Mas como? Não consigo alcançar.
+3478	Use o Míssil Controlado.
+3479	Snake, há uma bomba plantada / nos seus itens!
+3480	Um deles?
+3481	Você logo vai descobrir.
+3482	Pressione Cancelar para sair.

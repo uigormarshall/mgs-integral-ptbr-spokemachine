@@ -1,0 +1,150 @@
+1	Há quanto tempo, Snake.
+2	Eu devia imaginar que você / estava por trás disso, Coronel.
+3	Não se cumprimenta assim / um velho companheiro, Snake.
+4	O que você quer de mim?
+5	Só te chamei aqui / para conversarmos.
+6	Chamou!?
+7	É assim que você chama mandar / soldados armados atrás de mim?
+8	Desculpe se foram um pouco / duros com você.
+9	Mas temos uma situação / séria aqui.
+10	Só você pode nos tirar dela.
+11	Eu me aposentei do FOX-HOUND.
+12	Você não é mais meu comandante
+13	e não preciso receber ordens / suas nem de ninguém.
+14	Você vai cumprir estas ordens.
+15	Eu sei.
+16	Com licença...
+17	Quem é?
+18	Dra. Naomi Hunter.
+19	Ela é chefe da equipe médica / do FOX-HOUND
+20	e especialista em terapia genética.
+21	Você é militar?
+22	Não, sou civil.
+23	Fui enviada pela ATGC.
+24	Prazer em conhecê-lo, Snake.
+25	Esta injeção não vai doer nada.
+26	Para que é a injeção?
+27	Não gosta de injeções?
+28	Snake, escute.
+29	Tudo aconteceu há cinco horas.
+30	Soldados fortemente armados / ocuparam Shadow Moses,
+31	uma ilha remota na / costa do Alasca.
+32	Que soldados?
+33	Forças Especiais de Nova Geração
+34	lideradas por membros / da unidade FOX-HOUND.
+35	Eles fizeram a Washington / uma única exigência
+36	e dizem que, se não for atendida,
+37	Uma arma nuclear?
+38	Receio que sim.
+39	A ilha abriga
+40	uma instalação secreta de / descarte de armas nucleares.
+41	O FOX-HOUND sequestrando / uma arma nuclear!?
+42	Agora você entende como / a situação é séria.
+43	Primeiro, resgate o chefe / da DARPA, Donald Anderson,
+44	Os dois estão sendo / mantidos como reféns.
+45	Reféns de peso.
+46	você vai investigar se os / terroristas têm
+47	capacidade de lançar / um ataque nuclear.
+48	Alguma pergunta, Snake?
+49	Perguntas?
+50	Nem disse ainda se / aceito esta missão.
+51	Pode decidir
+52	depois de saber mais / sobre a situação.
+53	Fale da instalação de / descarte de armas nucleares.
+54	A instalação inclui / uma base subterrânea blindada.
+55	Mesmo com nossos melhores / equipamentos de inteligência,
+56	não sabemos o que / acontece lá dentro.
+57	Alguém precisa infiltrar,
+58	coletar informações e reportar.
+59	Parece filme de espionagem...
+60	Uma entrada aérea é impossível.
+61	Não com esta tempestade.
+62	Aproximação?
+63	a poucos quilômetros dela.
+64	A instalação tem / detecção por sonar.
+65	Eles ouviriam o ruído do / motor ou da hélice.
+66	Lançamento?
+67	Igual a um torpedo.
+68	Só que sem propulsão própria.
+69	Quer que eu nade em águas / abaixo de zero do Alasca?
+70	Esse traje traz os últimos avanços / em tecnologia politérmica.
+71	O chefe da DARPA
+72	e o presidente de uma fabricante / de armas...
+73	O que eles faziam
+74	numa instalação de descarte / de armas nucleares?
+75	...A verdade é que exercícios / secretos estavam em andamento
+76	quando o grupo terrorista / atacou.
+77	Devem ser exercícios / importantíssimos
+78	se esses dois estavam envolvidos.
+79	Testavam alguma arma nova / avançada?
+80	Não tenho acesso a essa informação.
+81	Sabemos onde exatamente / eles estão presos?
+82	O chefe da DARPA também recebeu / um minitransmissor.
+83	Ao se aproximar, / você deve captar
+84	a posição dele no radar.
+85	Eles realmente podem lançar / um míssil nuclear?
+86	Dizem que sim.
+87	Até nos deram o número / de série
+88	da ogiva que pretendem usar.
+89	O número foi confirmado?
+90	No mínimo, / eles têm em mãos
+91	uma ogiva nuclear de verdade.
+92	Não existe algum dispositivo / de segurança
+93	para impedir esse tipo de terrorismo?
+94	Todo míssil e ogiva / do nosso arsenal
+95	tem um PAL,
+96	que usa um código de / detonação exclusivo.
+97	PAL?
+98	"Permissive Action Link".
+99	O sistema de segurança de / todas as armas nucleares.
+100	Mesmo assim, / não podemos relaxar.
+101	Por quê?
+102	Porque o chefe da DARPA / conhece o código de detonação.
+103	Mas, mesmo com uma ogiva / nuclear,
+104	ela deve ter sido retirada / do míssil.
+105	Todos os mísseis destes / locais de descarte
+106	deveriam ser desmontados.
+107	Não é fácil conseguir / um ICBM.
+108	Era verdade,
+109	mas desde o fim / da Guerra Fria
+110	se consegue qualquer coisa
+111	com dinheiro suficiente e / os contatos certos.
+112	Então, o que exatamente / eles exigem?
+113	Restos mortais de uma pessoa.
+114	Restos mortais?
+115	Mais exatamente, amostras de células,
+116	que contêm a informação / genômica do indivíduo.
+117	Amostras de células?
+118	Por que querem isso?
+119	Os terroristas precisam delas.
+120	Essas Forças Especiais de / Nova Geração
+121	foram fortalecidas / com terapia genética.
+122	Fortalecidas?
+123	Você já ouviu falar do Projeto / Genoma Humano.
+124	Eles vêm mapeando / o genoma humano
+125	e estão quase terminando.
+126	Seguindo essa pesquisa,
+127	os militares tentam identificar / os genes
+128	responsáveis por formar / soldados eficazes.
+129	Existem genes para isso?
+130	E com a terapia genética,
+131	conseguem transplantar esses / genes para soldados comuns.
+132	Terapia genética?
+133	Eu explico esta parte.
+134	Com a terapia genética, / removemos genes
+135	que podem levar / a doenças,
+136	e ao mesmo tempo inserimos / genes benéficos,
+137	como resistência / ao câncer, por exemplo.
+138	superamos todo tipo / de doença genética
+139	e, ao mesmo tempo,
+140	acrescentamos características / genéticas desejadas.
+141	Então, se soubessem quais / genes são responsáveis
+142	por fazer o soldado perfeito,
+143	poderiam implantá-los / do mesmo jeito, certo?
+144	Sim... poderíamos.
+145	Mas tudo depende de conseguir isolar
+146	e identificar esses / "genes de soldado".
+147	E, para isso,
+148	ajuda estudar a informação / genômica de
+149	um dos maiores soldados de todos os tempos.
+150	Um dos maiores soldados de todos os tempos?

@@ -1,0 +1,150 @@
+3001	...Ah, nada...não é nada demais.
+3002	Você pegou uma Máscara de Gás. Ótimo.
+3003	É do tipo de dois visores. Cuidado: / ao contrário do tipo de visor / transparente, ela reduz seu campo de visão.
+3004	Ela tem um emissor de voz, então não / se preocupe: você ainda será ouvido.
+3005	Por fora é de plástico reforçado / e por dentro é de trama de acetato.
+3006	Os visores também têm tratamento / especial para não embaçar.
+3007	Com essa máscara você poderá ficar / muito tempo numa área com gás. / Use com sabedoria.
+3008	Um tranquilizante? Sim.
+3009	Dizem que a Sniper Wolf usa isso pra / não deixar as mãos tremerem.
+3010	Talvez você devesse tentar o mesmo.
+3011	São Óculos de Visão Noturna. / Não usam lentes especiais.
+3012	Eles amplificam a luz eletronicamente, / transformando-a em sinais elétricos / que são reforçados para formar / uma imagem.
+3013	Amplificam a luz 100.000 vezes. / Dá pra enxergar 500 metros à luz / das estrelas como se fosse de dia.
+3014	Mas não funcionam na escuridão total, / pois não há luz para amplificar.
+3015	Os Óculos de Visão Noturna machucam / os olhos depois de um tempo. Não use / por muito tempo seguido.
+3016	Os Óculos Térmicos funcionam por / imagem térmica, em vez de amplificar / a luz como os de Visão Noturna.
+3017	Funcionam bem na escuridão total. / Além disso, enxergam através de / sistemas de camuflagem óptica.
+3018	Você também vai conseguir ver Claymores.
+3019	Mas cansam a vista, então / não abuse deles.
+3020	Remédio pra resfriado? / Não sei. Parece um remédio comum / de resfriado pra mim.
+3021	Corda? Se tiver pelo menos 12 milímetros / de espessura, for leve e difícil de cortar, / dá pra descer de rapel com ela. / Não é uma corda de cânhamo, é?
+3022	Não. Parece ser feita de / fibras de nylon.
+3023	Bom. Corda de cânhamo molhada perde / a flexibilidade e não serve pra rapel. / Mas essa corda não deve dar problema.
+3024	Você achou um Colete à Prova de Balas. / Ele reduz o dano de tiros.
+3025	Ele impede que as balas penetrem, mas / você ainda sente o impacto. / Não confie demais nele.
+3026	A instalação de descarte de armas / nucleares da Ilha Shadow Moses foi / construída no início deste século.
+3027	Foi feita só para armazenar as / ogivas nucleares temporariamente.
+3028	Por quê? Se queriam descartá-las, / por que não desmontá-las logo?
+3029	Não dá. Quando você desmonta uma / ogiva, ainda sobra material nuclear / que precisa ser armazenado.
+3030	Hoje, todos os depósitos de material / nuclear estão muito além da / capacidade.
+3031	Mas eles não podiam parar de desmontar / armas enquanto pressionavam / pelo START-2...
+3032	Então esta base foi construída para / evitar temporariamente um conflito / com o START-2?
+3033	A maioria acha que hoje vivemos num / mundo mais seguro. Mas com tantas / armas e resíduos nucleares por aí,
+3034	...a ameaça do terrorismo nuclear / aumentou enormemente.
+3035	É irônico, não é?
+3036	Depois que o acordo START-2 foi / assinado, em 3 de janeiro de 1993...
+3037	Rússia e EUA reduziram suas ogivas / nucleares estratégicas para entre / 3.000 e 3.500 cada.
+3038	Desmontaram por completo todos os / ICBMs com MIRVs (veículos de reentrada / múltiplos de alvos independentes).
+3039	Por isso, há mais de 15.000 ogivas / nucleares desmontadas esperando / descarte.
+3040	As ogivas deveriam ser desmontadas / em Pantex ou outra instalação,
+3041	mas há um limite de quantas / elas conseguem processar.
+3042	Simplesmente não temos capacidade / para desmontar todas as ogivas / que existem por aí.
+3043	Mais de 200 toneladas de plutônio e / mais de 1.000 de urânio enriquecido / já foram retiradas de armas nucleares.
+3044	E ainda por cima, reatores do mundo / todo continuam produzindo e / vazando combustível nuclear usado.
+3045	Segundo uma estimativa, em 2005 só os / EUA armazenavam mais de 50.000 / toneladas de material nuclear.
+3046	Não há mais espaço nos depósitos de / material nuclear. Por isso precisamos / de instalações de descarte.
+3047	Eles estavam fazendo exercícios com / esse novo protótipo de Metal Gear? / Foi isso que o chefe da DARPA disse?
+3048	Que diabos...!?
+3049	Então você conhece o Metal Gear?
+3050	Só boatos. Ouvi dizer que é um tipo de / tanque bípede que faz ataques / nucleares precisos em qualquer / terreno: montanhas, desertos, pântanos...
+3051	...qualquer lugar. Mas o especialista / em Metal Gear é você, não é, Snake?
+3052	É, acho que sim. Mas e o sistema PAL / que o chefe da DARPA mencionou?
+3053	É um dispositivo ligado a um sistema / de armas nucleares que impede o / míssil de ser armado ou lançado.
+3054	Em geral é preciso um código secreto / de detonação ou uma combinação / para lançar o míssil.
+3055	Segundo o chefe, são dois códigos / e os terroristas já sabem um deles.
+3056	O outro código...se os terroristas / descobrirem esse também...
+3057	É...Preciso correr e resgatar / o Presidente Baker...
+3058	O míssil não pode ser disparado sem / a inserção de um código eletrônico / especial.
+3059	Mas se os terroristas descobriram os / códigos de detonação, podem lançar / o míssil quando quiserem.
+3060	Dá pra destruir o sistema PAL para / disparar o míssil mesmo sem / inserir o código de detonação?
+3061	Acho que não.
+3062	Ele é feito de modo que a ogiva fique / inativa automaticamente se alguém / tentar remover, desativar / ou destruir o PAL.
+3063	Então, a menos que os terroristas / descubram os códigos ou consigam / as chaves de anulação,
+3064	...não têm como lançar...
+3065	Não tenha tanta certeza. Todo sistema / pode ter falhas. Não podemos / relaxar ainda.
+3066	Não sei muito sobre o Metal Gear. / Só o pouco que ouvi.
+3067	Sei que apareceu em Outer Heaven em / 1995 e de novo em Zanzibar / em 1999...
+3068	Ambos eram países do Terceiro Mundo / liderados por regimes militares.
+3069	Eles desenvolveram o Metal Gear em / segredo para aumentar seu poder militar / e político no mundo.
+3070	Mas ambos foram detidos por um herói / solitário...você, Solid Snake.
+3071	Isso foi há muito tempo...
+3072	Todos os silos de ICBM são / monitorados de perto por satélites / militares.
+3073	Submarinos com SLBM se movem em / segredo, mas só podem lançar / da água, claro.
+3074	Por fim, há os ALBMs, lançados de / aeronaves. Têm ótima mobilidade, / mas são pouco confiáveis...
+3075	O Metal Gear foi criado para / resolver todos esses problemas.
+3076	Ele se move livremente por qualquer / terreno e lança sozinho um míssil / nuclear contra qualquer alvo do mundo.
+3077	Muda por completo a corrida armamentista / e destrói o delicado equilíbrio / nuclear...É uma arma temível, acredite.
+3078	O desenvolvimento do Metal Gear é uma / tentativa cínica de consolidar e / ampliar nosso domínio militar...
+3079	...enquanto se mantém a farsa / de que estamos nos desarmando.
+3080	Agora que o acordo SLCM de opção zero, / que permite inspeções surpresa em / submarinos em águas internacionais, / foi fechado,
+3081	...o valor dos submarinos como armas / estratégicas diminuiu muito.
+3082	Com o Metal Gear, os governos do mundo / poderão evitar esse tipo de inspeção,
+3083	...e ao mesmo tempo continuar em / conformidade com os tratados / nucleares internacionais.
+3084	Olha como ele se move! / ...Deve ter algum tipo de / exoesqueleto motorizado.
+3085	Exoesqueleto motorizado? Tipo / próteses de braços e pernas?
+3086	Não. Próteses substituem partes do / corpo. O exoesqueleto desse ninja o / deixa bem mais forte que um humano normal.
+3087	Ele é um ciborgue de verdade... / um organismo cibernético.
+3088	Então ele é meio máquina, é...?
+3089	Ouvi boatos sobre os experimentos, mas / não imaginava que uma criatura / dessas existisse mesmo...
+3090	Snake, para salvar o Dr. Emmerich, / você precisa derrotar esse ninja. / Não desista.
+3091	É como o Baker disse. Corremos perigo / crescente com o material nuclear / armazenado.
+3092	Veja, três elementos são necessários / para fabricar armas nucleares.
+3093	Material nuclear, engenheiros nucleares / e tecnologia de fabricação.
+3094	Os três podem ser obtidos facilmente, / por meios legais ou ilegais. / Se você tiver dinheiro suficiente.
+3095	Dizem que existem 500.000 engenheiros / nucleares no mundo.
+3096	Mas depois do fim da Guerra Fria, a / demanda por eles caiu drasticamente.
+3097	Nos países do Bloco Oriental, em / especial, há uma enorme fuga de / cérebros.
+3098	Eles não conseguem manter seus cientistas / no país, e a cada ano mais engenheiros / vão trabalhar para quem pagar mais.
+3099	Como o Baker disse, a cada ano há / mais casos de MUF vindos dos / depósitos de material nuclear.
+3100	Isso quer dizer que alguém está roubando / material nuclear e provavelmente / vendendo no mercado negro.
+3101	Depois da queda da União Soviética, o / programa de controle nuclear / desmoronou.
+3102	No fim dos anos 90, correram boatos de / que quase cem bombas nucleares do / tamanho de maletas sumiram misteriosamente / do arsenal soviético.
+3103	Ainda não sabemos se é verdade, mas / é possível que tenham caído nas / mãos de terroristas...
+3104	Parece que o chefe da DARPA e o / presidente da ArmsTech concordam com / a ideia de manter um arsenal nuclear / dominante.
+3105	A ideia do impasse nuclear é que os dois / países teriam medo demais de usar uma / arma nuclear por temer represália.
+3106	Em outras palavras, a única coisa que / impede um país de devastar outro / com armas nucleares...
+3107	...é o medo de um contra-ataque nuclear. / Esses dois provavelmente acham que o / Metal Gear reforça essa segurança...
+3108	Os direitistas acreditam que, enquanto / qualquer país tiver armas nucleares, / eles também precisam tê-las.
+3109	Por isso nunca serão a favor da / eliminação total das armas / nucleares.
+3110	E a cada novo país que adquire / capacidade nuclear, aumenta a / necessidade de manter essa / ameaça de contra-ataque.
+3111	Enquanto a política de dissuasão nuclear / continuar, nunca vamos nos livrar / das armas nucleares...
+3112	A teoria da dissuasão nuclear nasceu / na Guerra Fria, num tempo de grande / desconfiança entre EUA e URSS.
+3113	O enorme abismo entre as ideologias do / Leste e do Oeste causou uma escalada / dramática na corrida armamentista.
+3114	E essa escalada, por sua vez, alimentou / a desconfiança e o medo mútuos entre / as duas grandes superpotências.
+3115	A segunda metade do século 20 foi / moldada pela política de dissuasão / nuclear.
+3116	Mas o mundo mudou.
+3117	A Guerra Fria acabou e hoje vivemos / num mundo onde pequenos conflitos / regionais surgem por toda parte.
+3118	As coisas não são mais tão simples, e / a política de dissuasão nuclear / está obsoleta.
+3119	A maioria desses conflitos regionais / vem de inimizades antigas entre / etnias e religiões diferentes.
+3120	Nesses casos, o ódio costuma ser tão / profundo que a racionalidade / vai pro espaço.
+3121	Para essas pessoas, o medo de um / contra-ataque muitas vezes pouco / significa, e por isso a dissuasão / nuclear perdeu muito da eficácia.
+3122	Um impasse nuclear não é dissuasão / suficiente no clima mundial atual.
+3123	Você achou a Meryl. Harasho!
+3124	A Meryl está agindo meio estranho...
+3125	Ele ficou deprimido seis meses depois / de voltar da Chechênia e tirou / a própria vida.
+3126	Foi forçado a lutar contra gente que / falava a sua língua...com a mesma / cultura. Não suportou a culpa.
+3127	Parece TEPT, transtorno de estresse / pós-traumático.
+3128	Muitos veteranos que voltaram do Vietnã / sofreram disso...na verdade, / muitos ainda sofrem.
+3129	Sim, também lembra a Síndrome do / Afeganistão. No caso da Meryl, deve / ser uma condição bem mais passageira...
+3130	Tente animá-la. Ela vai superar.
+3131	A Meryl definitivamente não é ela / mesma. Será que dá pra arrastá-la?
+3132	O Otacon disse que agora é possível / projetar e testar novos tipos de armas / nucleares em simulação virtual...
+3133	...sem nunca explodir um artefato / nuclear. É verdade?
+3134	Sim, é verdade. Desde a criação do / DARHT (Instalação de Teste Hidrodinâmico / Radiográfico de Duplo Eixo),
+3135	e do NIF (Instalação Nacional de Ignição), / no início do século 21, houve uma / enxurrada de dados sobre fissão e / fusão nuclear.
+3136	Há também muitos dados acumulados dos / testes nucleares feitos nas últimas / quatro décadas.
+3137	Com a velocidade dos supercomputadores / de hoje, dá pra projetar uma nova arma / nuclear por simulações em realidade / virtual.
+3138	Para coletar dados para as simulações, / fazem testes subcríticos no subsolo.
+3139	São experimentos em que detonam altos / explosivos perto de plutônio sem / provocar uma reação em cadeia crítica.
+3140	Depois medem o efeito da onda de / choque sobre o plutônio.
+3141	Medindo as partículas que saem da / superfície do plutônio, dá pra saber / massa, velocidade e distribuição / dessas partículas.
+3142	Os políticos insistem que, na superfície / ou no subsolo, um teste que não causa / explosão nuclear não é teste nuclear
+3143	...e portanto não viola o CTBT (Tratado / de Proibição Completa de Testes / Nucleares).
+3144	Muita gente discorda dessa / interpretação.
+3145	O primeiro teste subcrítico foi feito / em 2 de julho de 1997 na Instalação / de Testes Nucleares de Nevada.
+3146	Depois disso, os testes subcríticos / se tornaram comuns, não só nos EUA, / mas na Rússia e em outros países.
+3147	Dizem que o motivo dos testes é garantir / a segurança e a confiabilidade do / estoque nuclear existente,
+3148	...mas isso não passa de uma / desculpa esfarrapada.
+3149	Na realidade, o risco de uma arma / nuclear explodir por acidente / diminui com o tempo.
+3150	É claro que o motivo real desses / testes é ajudar no desenvolvimento / de novos tipos de armas nucleares.

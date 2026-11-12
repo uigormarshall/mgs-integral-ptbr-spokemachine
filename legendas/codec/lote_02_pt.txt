@@ -1,0 +1,150 @@
+151	Infelizmente, matar é uma dessas / coisas que ficam mais fáceis quanto / mais você faz.
+152	Numa guerra, todas as piores emoções / da humanidade... os piores traços vêm à tona.
+153	É fácil esquecer o que é pecado / no meio de um campo de batalha.
+154	Mas isto não é uma guerra.
+155	É um ato terrorista.
+156	Você só está um pouco agitada / por causa da euforia do combate.
+157	A adrenalina no seu sangue / está começando a baixar.
+158	Fique calma.
+159	Mas eu aprendi tudo sobre euforia / de combate na academia...
+160	Falamos disso depois.
+161	Por enquanto, pense só em / se manter viva.
+162	Se eu sair daqui viva, eu / penso nessas outras coisas.
+163	Certo, deixa eu tentar dizer de / outro jeito...
+164	Fique fora do meu caminho.
+165	Você é um canalha mesmo...
+166	...igualzinho ao que meu tio dizia.
+167	Ha. Eu avisei.
+168	O Snake de verdade não chega / aos pés da lenda.
+169	Parece que você tinha razão.
+170	Tá bom, Snake, vou ser boazinha.
+171	Nos encontramos depois que eu pegar o doutor.
+172	Aí cuidamos da anulação do / código de detonação.
+173	Entendido.
+174	Mas escute, eu conheço esta área / melhor que você.
+175	Me chame se tiver alguma dúvida.
+176	Tome cuidado, tá?
+177	Depois que eu abrir a porta de carga, / eu entro em contato.
+178	Snake?... Não seja tão impaciente. / Calma. Preciso de mais um tempo / para abrir a porta de carga.
+179	Eu chamo quando abrir a porta. / Espere um pouco, tá?
+180	Com uma máscara de gás, você deve / sobreviver àquele gás por muito tempo.
+181	Onde está a máscara de gás?
+182	No segundo subsolo daquele prédio. / Então você vai ter que passar / por lá sem uma.
+183	Uma caixa de papelão? Meu tio contava / histórias, mas eu sempre achei que / ele estava me enrolando... Eu... Sem comentários.
+184	O local tem minas? Bem, com um / Detector de Minas, você vê as / minas no seu radar.
+185	Se precisar de um Detector de Minas, / deve haver um no segundo andar / do hangar dos tanques.
+186	A porta de carga já está aberta. Saindo / por lá e indo para o norte, você chega / ao Depósito de Ogivas, onde o / Dr. Emmerich está preso.
+187	Vou para lá agora e espero você. / Venha logo, tá?
+188	Snake, você se perdeu? / A porta de carga fica no primeiro andar.
+189	Snake, aonde você vai? O Depósito / de Ogivas fica ao norte. / Não acredito... / Solid Snake está perdido.....
+190	Acho que é verdade, a realidade não / chega aos pés da lenda.
+191	Indo para o norte daí, você vai / acabar chegando ao Depósito / de Ogivas.
+192	Vou na frente e espero você lá.
+193	Meryl.
+194	O quê? Vai me dizer para ficar / para trás porque sou novata de novo?
+195	Não. A decisão é sua. Não posso / impedir você de fazer o que quer, mas...
+196	Mas?
+197	Não faça nenhuma besteira, tá?
+198	Besteira? Nossa... obrigada pelo / voto de confiança...
+199	Meryl....
+200	Enfim... te vejo lá.
+201	Por melhor que você seja, não tem / como enfrentar um tanque M1. O jeito / é tentar acertar quem está / no banco do motorista.
+202	Com granadas, dá para atacar também / o soldado em cima do tanque.
+203	Armas pesadas são estritamente / proibidas naquela área. Uma explosão / pode vazar material nuclear de / uma ou mais ogivas...
+204	...e isso seria um problema muito / sério. Por favor, tenha cuidado.
+205	Parece que eles estão equipados / com máscaras de gás.
+206	É porque eles não podem / usar armas pesadas.
+207	Ah. Quer dizer que usam armas / químicas no lugar.
+208	Rápido! O Dr. Emmerich está em perigo!
+209	Ninja?
+210	Nunca ouvi falar de nenhum membro / do FOX-HOUND assim... mas você vai / ter que dar um jeito nele se quiser / salvar o Dr. Emmerich.
+211	Meryl, essa pilha de cadáveres... / foi obra sua?
+212	Claro que não!
+213	Imaginei.
+214	Quem teria feito isso?
+215	Não faço ideia.
+216	Mas ele deve estar em algum lugar à frente.
+217	Então acho que você vai ter que / ir descobrir.
+218	Snake, se andar normalmente nesse piso, / vai fazer muito barulho e o inimigo / vai ouvir. / Tente rastejar.
+219	Snake, você está bem?
+220	Você está ferido, Snake!?
+221	Está tudo bem, Snake?
+222	Snake...
+223	Este aviso não deveria aparecer!!
+224	Não desista!
+225	Vamos, Snake. Você consegue!
+226	Vença, Snake! Vença!
+227	Não morra, Snake!
+228	Faça isso por mim! Snake!
+229	Sinto muito, Snake, mas não posso / salvar sua missão sem um Memory Card.
+230	Para salvar a missão, insira / um Memory Card em um dos slots.
+231	Sinto muito, Snake. Parece que não há / blocos livres. Não posso salvar / sua missão se estiverem todos cheios.
+232	Se você não formatar seu Memory Card, / não posso salvar sua missão. Não quer / salvar a missão?
+233	Desculpe, Snake, não consegui salvar / sua missão porque houve algum / tipo de erro.
+234	Como posso ajudar, Snake?
+235	Snake, é só falar. / Eu faço qualquer coisa para ajudar.
+236	Snake, como você está aguentando?
+237	Você chamou, Snake?
+238	Por favor, Snake, não desista.
+239	Volte vivo, Snake...
+240	Snake, tudo depende de você...
+241	Olhe o radar! Ele detectou o chefe / da DARPA. É o ponto verde. / Corra e salve-o.
+242	O chefe da DARPA. Pobre homem... teve / um ataque cardíaco logo depois / de você salvá-lo...
+243	Estou com um mau pressentimento, / Snake. Talvez fosse bom você deixar / eu salvar sua missão.
+244	Snake, você não pode usar o radar. / Ele está confuso com tanta interferência / de rádio. Aquele ninja está emitindo / algum tipo de energia elétrica!
+245	Snake! Esse é o banheiro feminino!
+246	Eu sei. Vi a Meryl entrar aqui.
+247	Então você entrou atrás dela!? Você / é algum tipo de pervertido!? Agora / não deixo você salvar a missão!
+248	Escute, Mei Ling, este é o único lugar / da base onde posso falar com a Meryl / a sós!
+249	Tanto faz, esquisito! Não me chame mais!
+250	Snake, não seria uma boa hora / para salvar sua missão?
+251	Você não salva a missão faz tempo, / não é?
+252	O que está acontecendo?
+253	Não sei... estou com um mau pressentimento.
+254	Um mau pressentimento?
+255	Como uma premonição, sei lá...
+256	Você descobriu onde o chefe da DARPA / está! Com o transmissor de nanomáquinas, / ele deve aparecer como um ponto verde / no seu radar quando você chegar perto.
+257	Tente encontrá-lo.
+258	Mei Ling, como alguém de fora / da operação consegue entrar no meu Codec?
+259	Você fala daquele sujeito que se / chama Deepthroat. Estávamos / monitorando daqui.
+260	E aí?
+261	Bem, se alguém sabe sua / frequência, pode chamar você. Mas a / questão é como ele a descobriu. / ...é informação ultrassecreta...
+262	Dá para saber de onde ele ligou?
+263	Sinto muito. O sinal é fraco demais para / localizar a origem. Mas tenho certeza de que / ele está perto de você... em algum lugar da base.
+264	Tome cuidado, Snake.
+265	Einstein disse que só uma vida vivida / para os outros vale a pena.
+266	Por isso entrei no MIT em vez de / Princeton ou Vassar, como minhas amigas.
+267	Eu queria fazer física aplicada, não / só teoria. Queria criar coisas / para as pessoas.
+268	O Sistema de Radar Soliton ou o / Sistema Codec... Eu só queria criar / algo que fosse útil para / as pessoas.
+269	Acho que era o mesmo para / o Dr. Emmerich.
+270	Mas ele foi usado como ferramenta... para / criar uma terrível máquina de matar.
+271	Talvez fosse melhor se engenheiros / como nós parassem de criar coisas... / Não sei.
+272	Ainda bem que você se juntou à / Meryl...
+273	Você precisava ter visto o Coronel. Ele / não gosta de demonstrar porque é / o chefe, mas estava tão feliz que / mal conseguia se conter.
+274	Que bom ouvir isso.
+275	Falo com você depois, Snake.
+276	Snake, as pessoas normalmente não / mentem em seu último suspiro. Acho que / ele falava a verdade. Talvez você / devesse acreditar nele.
+277	Ela vai morrer se você deixá-la assim! / Você não vai salvá-la!?
+278	Ela é só isca... é a mim que eles querem. / Se eu sair ali, vou ser / abatido, e quem salva / a Meryl então!?
+279	Espero que, se eu não cair / na armadilha, deixem a Meryl viva.
+280	Então você vai deixar a Meryl / lá? Ela está ferida!
+281	Sei o que estou fazendo. / A Meryl entende também.
+282	Que horror...
+283	Você tem razão. É horrível. Mas isso é / guerra. E a primeira regra da guerra é / se manter vivo.
+284	O que posso fazer por você, Snake?
+285	O que foi, Snake?
+286	Você chamou, Snake?
+287	E aí, Snake?
+288	Snake, você está sozinho e / cercado de inimigos. Tente ter / cuidado e evite entrar em combate / sempre que puder.
+289	Tem razão. Uau. Você conhece / muitas citações ótimas, né?
+290	Bem, meus pais são de / Guangdong, na China, mas eu nasci e / cresci nos Estados Unidos.
+291	Sempre gostei de ler literatura / dos dois lados... me mantém em / contato. Compartilho mais citações / com você, se quiser.
+292	Estou ansioso. Mas, para falar a verdade, / eu gostaria de saber mais / sobre você.
+293	Bem... vou pensar no assunto.
+294	Snake! Você está fumando um cigarro!?
+295	Cigarro é veneno... mata / as pessoas. Não ouviu o que / a Dra. Naomi disse?
+296	Só porque você vê um item não / quer dizer que precisa pegá-lo.
+297	Se você não precisa mesmo dele, pense duas / vezes antes de se arriscar. / Pode não valer a pena.
+298	Basicamente, significa que seu desejo / pode te colocar em apuros se você não / tomar cuidado.
+299	Vale para itens também. Não seja / ganancioso demais ou pode se arrepender. / Tome cuidado, Snake.
+300	Significa que o sábio evita o perigo / primeiro. Use a cabeça para evitar / armadilhas e fique longe do inimigo.

@@ -1,0 +1,150 @@
+451	Essas nanomáquinas também / manterão a bateria do Codec
+452	carregada.
+453	Te ligo quando quiser / fazer dieta.
+454	De nada.
+455	Preciso pegar sua tesoura emprestada.
+456	Só vou me ajeitar um pouco.
+457	Não quero ser confundido com / o líder dos terroristas.
+458	Só não esperava que um projetista / militar de renome fosse tão bonitinha.
+459	O ponto brilhante no meio / é você, Snake.
+460	Os pontos vermelhos são os inimigos
+461	e o cone azul é o campo de visão deles.
+462	Os Soldados Genoma têm audição e visão / muito apuradas
+463	graças à terapia genética.
+464	Não deixe que eles vejam você.
+465	Primeiro, infiltre-se na área de descarte / e procure o Chefe da DARPA.
+466	O Chefe da DARPA recebeu as mesmas
+467	nanomáquinas com GPS que você.
+468	Ele deve aparecer no radar / como um ponto verde.
+469	Descubra com ele tudo o que puder / sobre os terroristas.
+470	Se ele estiver vivo, claro...
+471	Me chame se quiser salvar / seu progresso.
+472	Me chame se quiser salvar seu progresso.
+473	Se quiser entrar,
+474	a porta da frente está ali.
+475	É o caminho mais rápido,
+476	mas há muito risco de / o inimigo te ver.
+477	Não posso simplesmente bater / e pedir pra me deixarem entrar.
+478	...Um sentinela à esquerda...
+479	...e outro à direita...
+480	Estão armados com fuzis e granadas...
+481	E o duto de ar perto da porta?
+482	Também deve haver um duto / no segundo andar.
+483	Não consigo ver daqui.
+484	Você decide o melhor / plano de ação.
+485	Conto com você, Snake.
+486	É só isso pra carregar?
+487	Para o heliporto, hein...
+488	Para o desfiladeiro, hein...
+489	Para o depósito de ogivas, hein...
+490	O campo de neve ao norte / das torres, hein...
+491	...Peguei um resfriado dos infernos.
+492	Odeio o Alasca.
+493	Nossa. Que mulher / de corpo bonito.
+494	Aquilo é uma mulher...
+495	Esse não.
+496	O que está esperando!!
+497	Não fale comigo como se eu fosse novato!
+498	Estou dizendo!
+499	Cala a boca!
+500	Ei! Cala a boca!
+501	Ooooooo...
+502	Se esconder não vai adiantar.
+503	Eu entendo as balas, sabe.
+504	Faço elas irem aonde eu quero.
+505	Adoro recarregar em pleno combate.
+506	Não há nada como enfiar uma longa / bala prateada
+507	numa câmara bem lubrificada...
+508	Estou vivo de novo!
+509	Melhor se apressar.
+510	O velho não vai durar muito.
+511	Não quer resolver isso?
+512	Adoro o cheiro de cordite...
+513	Sabe...
+514	aquele cheiro de enxofre...
+515	Mas pra você,
+516	será o cheiro da sua própria morte.
+517	Cloreto de potássio ou dióxidos, / por exemplo...
+518	Mas só saberemos com uma autópsia.
+519	Você veio sozinho?
+520	Obrigado pela ajuda de antes.
+521	Como esperado do lendário / Solid Snake.
+522	Não acredito nisso.
+523	Desculpe. Fui capturada junto com / o Presidente Baker logo após / o ataque terrorista.
+524	Acho que não é só uma instalação / de descarte de armas nucleares...
+525	Desculpe, não sei...
+526	Provavelmente. Ele deve estar na / área do laboratório de pesquisa...
+527	Cinco, mas tudo bem... / Tenho um cartão nível cinco.
+528	Mas quando pensei nas minhas balas / rasgando o corpo daqueles soldados, / hesitei...
+529	Se eu sair viva daqui, penso nisso depois.
+530	Ha ha. Você é um canalha...
+531	O Snake real não chega aos pés da lenda.
+532	Ha ha, parece que você tem razão.
+533	Desculpe, mas é o único jeito de saber / se levo jeito pra soldado.
+534	Use o Detector de Minas!
+535	É...
+536	é um fantasma!!!...
+537	Uuurgh!
+538	Agora.
+539	Me faça sentir!
+540	Me faça sentir vivo de novo!
+541	Snake, você não me vence com / uma arma dessas.
+542	Patético!
+543	O velho Solid Snake / nunca dependeria
+544	de uma arma dessas!
+545	Agora podemos lutar como guerreiros.
+546	Corpo a corpo.
+547	É a base de todo combate.
+548	Só um tolo confia a vida a / uma arma.
+549	Lembra, Snake?
+550	Da sensação da batalha?
+551	Do choque de osso e músculo?
+552	Como nos velhos tempos?
+553	Isso, Snake!
+554	Me machuque mais!
+555	Mais! Mais!
+556	É isso!
+557	Eu me lembro. / Esse soco.
+558	Esperava por essa dor.
+559	Você não me vence com armas!
+560	Isso, Snake!!
+561	Venha logo me pegar.
+562	Estou aqui, Snake!
+563	Pra onde está olhando!
+564	Instalaram nele um exoesqueleto / protótipo e o mantiveram dopado / por 4 anos
+565	Wakkyakkya
+566	Certo. Vamos.
+567	Conheço este lugar melhor que você.
+568	Eu vou na frente. Me siga...
+569	Que estranho. Não há guardas.
+570	O que aconteceu com a música?
+571	Eu vigio.
+572	Esteja pronto, certo?
+573	Não! Meryl!
+574	Droga! Meryl!
+575	Snake, não faça isso! Vamos / à Sala do Comandante.
+576	Snake, o que está fazendo? / Vamos à Sala do Comandante.
+577	Snake, vamos logo / à Sala do Comandante!
+578	Snake, o que está fazendo?
+579	Vamos, Sr. FOX-HOUND. / O comandante está esperando.
+580	Ah!
+581	Ha ha ha! Seu tolo!
+582	Não! Meryl!!
+583	Agora deixe-me ler sua mente.
+584	...ou melhor, seu passado.
+585	Você é um homem descuidado, / não é?
+586	E também um guerreiro fraco.
+587	E o mesmo vale para armadilhas.
+588	Mas você sabe escapar de armadilhas.
+589	Mas você é um guerreiro habilidoso.
+590	Você gosta de força bruta...
+591	Mas é descuidado com armadilhas.
+592	Você é extremamente cauteloso / com armadilhas.
+593	Você é muito metódico.
+594	Do tipo que sempre chuta os / pneus antes de sair.
+595	E ainda assim é bastante / ineficaz em combate.
+596	E precisa tomar cuidado / com armadilhas também.
+597	Parece que você é cuidadoso / com armadilhas.
+598	Você é um guerreiro muito habilidoso,
+599	ideal para esta missão / furtiva.
+600	Mas armadilhas são seu ponto fraco.

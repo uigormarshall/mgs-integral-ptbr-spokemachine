@@ -1,0 +1,150 @@
+901	Desculpe por escutar, / mas não aguentei mais.
+902	Mestre...
+903	Snake, pode se arrepender se / quiser... é natural.
+904	Mas não dá pra se culpar por / coisas que já aconteceram.
+905	Esse caminho leva à loucura, / acredite.
+906	Ele tem razão. Não se culpe.
+907	Isso não combina com uma lenda como você.
+908	Além disso, até onde sabemos / a Meryl está bem, certo?
+909	Tenho certeza de que a Meryl está bem.
+910	Mei Ling...
+911	Snake, esqueça a Meryl. / Detenha o Liquid.
+912	É isso que a Meryl também ia querer.
+913	A Meryl diria a mesma coisa.
+914	...Snake?
+915	A Meryl... é muito especial pra você, / né?
+916	Sim, ela é especial.
+917	Não há muitas mulheres como ela / por aí.
+918	...Não foi isso que eu quis dizer...
+919	Ela é sobrinha do Coronel. / ...E uma companheira de combate.
+920	Só isso? Qual é...
+921	...Parece um interrogatório policial.
+922	Não... eu só...
+923	Acho que está nos genes...
+924	Nos genes?
+925	Do que está falando, Coronel?
+926	Nada, só me lembrei do avô da / Naomi.
+927	Acho que a Naomi disse que ele chegou / a subsecretário do FBI na época / de Edgar Hoover.
+928	É mesmo?
+929	Sim... sim, ele era japonês e / virou investigador infiltrado / para prender a máfia.
+930	Quando foi isso?
+931	Ah... lá pelos anos 50, acho.
+932	Onde?
+933	...Em Nova York, acho...
+934	Naomi... pensei que você não tinha / família...
+935	Bem... eu... pesquisei depois de / adulta.
+936	Meu avô já tinha morrido quando / descobri sobre ele.
+937	Nunca tive nem a chance de / conhecê-lo...
+938	Ah...
+939	...Snake, boa sorte.
+940	Cuidado, Snake.
+941	Snake, o elevador está funcionando.
+942	Você consertou?
+943	Não, é isso que é estranho.
+944	Ele se moveu sozinho. / Está indo na sua direção.
+945	É mesmo? Certo.
+946	Aquela explosão de antes... o que foi?
+947	Ah, tive que derrubar aquele helicóptero.
+948	Helicóptero? / Incrível, Snake!
+949	Escute. Só quero confirmar de novo.
+950	É por aqui que se chega onde o Metal / Gear está guardado?
+951	Sim. A entrada da base de manutenção / subterrânea fica no fundo do / campo de neve à frente.
+952	Certo. / Procure um lugar seguro pra se / esconder por um tempo.
+953	Vou descer.
+954	Eu sei, eu sei. / Não precisa me dizer.
+955	E fique fora do meu caminho. / Não tente bancar o herói.
+956	Certo, me chame se precisar.
+957	Snake, esqueci de te contar uma / coisa.
+958	Havia cinco protótipos de camuflagem / no meu laboratório.
+959	E daí?
+960	Se tirar o que estou usando, / sobram quatro.
+961	Ei. Isto não é aula de matemática.
+962	Pensei em pegar um pra você, / então voltei ao laboratório e...
+963	E?
+964	Os quatro trajes tinham sumido.
+965	Além disso... sobre o elevador que / eu verifiquei...
+966	É muito estranho.
+967	Parecia que alguém o estava / segurando de propósito.
+968	Quando você estava nele, o alarme / de limite de peso disparou?
+969	Isso também me incomodou...
+970	O alarme disparou e sei que não / passei do limite.
+971	Quanto você pesa?
+972	Uns 135 (kg).
+973	Mas aquele elevador tinha limite de / 650 libras.
+974	Precisaria de pelo menos cinco pessoas / pra passar disso...
+975	C... Cuidado, Snake!
+976	Os caras que roubaram meus protótipos / estão aí com você!!!
+977	Snake!! Você está bem!?
+978	Otacon! / Havia outros protótipos / de camuflagem?
+979	Não. Só cinco.
+980	Então... isso não é camuflagem...
+981	Alguém está mirando em mim...
+982	...no meio dessa nevasca...
+983	...É ela!!
+984	Wolf?
+985	...Sniper Wolf?
+986	Sim, é ela!
+987	...É ela com certeza!
+988	Otacon... / Você parece feliz.
+989	Não estou.
+990	Então o que é?
+991	...por favor, não a mate!
+992	Está louco!?
+993	Por favor. Ela é uma boa pessoa!
+994	Você saberia se tivesse falado com ela...
+995	Escute, garoto. Ela é uma assassina / impiedosa.
+996	Posso ver você perfeitamente daqui.
+997	Eu avisei...
+998	Nunca desisto da caçada. / Agora você é meu.
+999	Wolf! Não, você não pode!
+1000	Não se meta entre o lobo e a presa!
+1001	Você é bom se consegue me acertar / nessa tempestade.
+1002	Viu?
+1003	Mulheres naturalmente são / melhores soldados.
+1004	Wolf! Não faça isso!!
+1005	Snake, estou perto.
+1006	Não sente que estou perto de você?
+1007	É um erro um sniper revelar a / posição.
+1008	Vou te mandar uma carta de amor, / querido.
+1009	Sabe o que é? Uma bala direto da / minha arma ao seu coração.
+1010	Por favor!! Wolf!... Snake!... Não!
+1011	Silêncio!
+1012	Não atrapalhe!
+1013	Agora vou te fazer pagar pela / Meryl...
+1014	Vocês, homens, são tão fracos.
+1015	Nunca terminam o que começam...
+1016	Snake.
+1017	Preciso te contar uma coisa sobre / a Naomi Hunter.
+1018	O que tem ela?
+1019	Esta conversa é segura?
+1020	O monitor está desligado.
+1021	Certo.
+1022	O que houve?
+1023	Eu também estive no FBI, sabe.
+1024	Não sabia. Aonde quer chegar?
+1025	A história da Dra. Hunter sobre / o passado dela...
+1026	...sobre o avô ter sido subsecretário / de Hoover no FBI...
+1027	E depois ter se infiltrado pra / investigar a máfia em Nova York..
+1028	Sim, e daí?
+1029	Era tudo mentira.
+1030	O que disse?
+1031	Aquilo estava me incomodando.
+1032	Por que ela mentiria?
+1033	Ela mentiu?
+1034	Ela pode ser uma espiã!
+1035	Qual é. Até um aluno do colegial / perceberia.
+1036	O diretor do FBI na época, / Edgar Hoover... era um racista / notório.
+1037	A Naomi não disse que o pai dela / era japonês?
+1038	Naquela época não havia um único / investigador asiático.
+1039	Além disso, nos anos 50 as operações / infiltradas contra a máfia nem / tinham começado.
+1040	Começaram em 1960... em Chicago, / não em Nova York.
+1041	É melhor investigar.
+1042	O chefe e o presidente morrendo / misteriosamente, aquele ninja... / coisas estranhas demais acontecendo.
+1043	Está dizendo que a Naomi pode estar / por trás disso?
+1044	Isso, ou ela trabalha com os / terroristas.
+1045	...Será?
+1046	Se eu descobrir algo, eu aviso.
+1047	Enquanto isso, tome cuidado!
+1048	Snake, sou eu...
+1049	Mestre?
+1050	É sobre a Naomi.

@@ -1,0 +1,150 @@
+3301	Quase todas as aeronaves de combate / modernas têm um.
+3302	Não é só um radar ali dentro. Esse radome / deve conter sensores infravermelhos, / detectores de movimento / e outros equipamentos.
+3303	É como olhos, ouvidos e nariz / num só. Se você conseguir / destruí-lo, pode ter uma chance...
+3304	Use os mísseis Stinger com cuidado. / Se acabarem, você não terá / chance de vencer.
+3305	Snake, agora é só você e o Liquid. / Não tenho nenhum conselho a dar.
+3306	Confie em si mesmo! Você tem que vencer!!
+3307	Há uma grande diferença entre armas / convencionais e armas de / destruição em massa.
+3308	Armas convencionais são feitas para / alvos militares, mas as nucleares / são usadas contra / civis.
+3309	Bombas nucleares são feitas para matar / dezenas de milhares de inocentes / num instante.
+3310	Por isso as armas nucleares / são tão malignas.
+3311	Quem esquece o passado está / condenado a repeti-lo. Por isso o mundo / jamais deve esquecer Hiroshima / e Nagasaki.
+3312	Armas nucleares são destrutivas o / bastante para matar todo ser vivo / da Terra...
+3313	e deixar o planeta inabitável / por dezenas de milhares / de anos.
+3314	Na história da humanidade, nunca / houve uma arma criada que / não fosse usada depois.
+3315	Se não fizermos algo, vamos acabar / explodindo a nós mesmos. Não / há dúvida disso.
+3316	Enquanto existirem armas nucleares, / a espada de Dâmocles continuará / sobre nossas cabeças.
+3317	Aquilo que corre nas valas do / 1º andar deve ser água residual / nuclear radioativa.
+3318	É melhor ficar longe. Só de estar / naquela área você já está muito / exposto. Mais exposição / pode ser fatal.
+3319	Aquele lugar não tem uma instalação / de processamento nuclear.
+3320	Deve ser algum outro material nuclear / vazando, além das ogivas / desmontadas...
+3321	...provavelmente combustível nuclear / usado ou algo assim.
+3322	Sempre que se queima combustível num / reator nuclear, ele gera como / resíduo
+3323	combustível usado misturado a / compostos radioativos altamente / tóxicos.
+3324	O combustível nuclear usado fica / radioativo por 300 anos. Ou seja, esse / material será letal pelos próximos / três séculos.
+3325	Já se pensou que era seguro selar / o lixo nuclear em recipientes / especiais...
+3326	e enterrá-lo numa camada de sal-gema / com pouco contato com / água subterrânea.
+3327	Hoje sabemos que isso tem grandes / problemas, e ainda não temos / uma solução eficaz de descarte.
+3328	A maior parte do lixo nuclear é / simplesmente enfiada no subsolo, sem / intenção de ser processada.
+3329	É como o avestruz com a cabeça / enterrada na areia. Não?
+3330	Existe um processo que mistura o lixo / nuclear com urânio de baixo teor / para virar combustível de óxido / misto (MOX)...
+3331	...para queimar em reatores de água / leve, geralmente em forma de / blocos de vidro.
+3332	Mas o MOX contamina o reator mais / rápido que o urânio de baixo teor. / Também é altamente tóxico.
+3333	É inviável economicamente, a menos que / o urânio custe mais de quatro / vezes o preço atual.
+3334	Além disso, não dá para ignorar o / perigo de transportar o MOX das / fábricas de processamento / até os reatores.
+3335	Um acidente pode causar contaminação / radioativa, ou terroristas podem / sequestrar o material...
+3336	Não, não acho que o MOX seja uma / solução viável para o problema / do descarte de plutônio.
+3337	Só há um uso eficaz para / o lixo nuclear.
+3338	Uso militar. Veja, após o / reprocessamento químico, dá para / separar o plutônio do / lixo nuclear.
+3339	Armas nucleares normalmente usam / plutônio 239 de grau militar, com / pureza de 93-94%.
+3340	Ele é produzido em reatores nucleares / especiais, feitos para uso militar.
+3341	Já o plutônio do combustível nuclear / usado tem pureza de apenas / cerca de 60%.
+3342	Mas isso não quer dizer que o / combustível usado não possa / servir para fins militares.
+3343	Os EUA testaram com sucesso armas / feitas de plutônio de grau reator.
+3344	Isso significa que, no fim, qualquer um / poderá fazer armas nucleares com / plutônio separado de combustível / nuclear usado.
+3345	O combustível usado também serve para / fazer balas ou projéteis de urânio / empobrecido (DU), munição / antitanque perfurante.
+3346	O DU é duas vezes e meia mais denso / que o aço e 50% mais denso que o / chumbo, o que o torna uma arma / perfurante extremamente eficaz.
+3347	Ele corta a blindagem de um tanque / como faca quente na manteiga.
+3348	Infelizmente, quando um projétil de DU / explode, espalha um pó fino que, / ao ser absorvido pelo corpo,
+3349	supostamente causa graves problemas / de saúde a longo prazo, inclusive / danos genéticos.
+3350	Na Guerra do Golfo, soldados americanos / e iraquianos foram expostos ao pó de / DU e sofreram intoxicação por / radiação e outras doenças.
+3351	O governo americano pesquisou se a / exposição poderia causar câncer / ou danos genéticos,
+3352	...mas os resultados foram inconclusivos.
+3353	mas o governo não admite...
+3354	Atualmente pesquisam formas de / transformar actinídeos menores, como / amerício e netúnio,
+3355	altamente tóxicos e de meia-vida longa, / em materiais nucleares de / meia-vida curta.
+3356	Chama-se processamento de extinção, / mas quase não é usado por causa dos / problemas técnicos e econômicos.
+3357	Ainda não existe um programa sério / de tratamento de lixo nuclear.
+3358	Câmeras de segurança? Da.
+3359	É do tipo sem fio, que transmite as / imagens a uma central de segurança. / Com chaff, você consegue / desativá-la.
+3360	Snake, essa sala tem sensores / infravermelhos. Você os veria com / um pouco de fumaça... / de cigarro, por exemplo.
+3361	Desculpe, mas estes cigarros / não soltam fumaça.
+3362	Aqueles cigarros feitos para reduzir / o fumo passivo?
+3363	Tudo bem. Se soprar a fumaça na / direção dos sensores infravermelhos, / você deve conseguir vê-los.
+3364	Foi boa ideia trazer os cigarros. Mas / não fume demais. Cigarro deixa você / fraco, de corpo e mente. Faz mal.
+3365	Snake, há Câmeras Armadas por aí. / Elas abrem fogo automaticamente se / detectarem você. / Cuidado.
+3366	Dá para confundir os sensores por um / instante com chaff. Passe por elas / enquanto estiverem desativadas!
+3367	Você também pode destruí-las com / os mísseis Stinger.
+3368	Ele usa um Single Action Army? / O primeiro modelo dessa arma é de / 1873... há mais de 130 anos.
+3369	Ainda é fabricada em pouca quantidade, / mas só para colecionadores. Ninguém / mais usa em combate...
+3370	A maior desvantagem dos revólveres é / o tempo de recarga. / Essa é sua chance.
+3371	Snake, a doença da radiação é / horrível...
+3372	Vi meus amigos, minha família... todos / os meus entes queridos morrerem / lentamente por causa dela.
+3373	Ela os corroeu como algo vivo... / morreram de forma miserável. / Só pude assistir.
+3374	Fiquei na cama chorando por dias, / tremendo de medo.
+3375	Achei que seria a minha vez...
+3376	Eu estava amaldiçoada... pela explosão / repentina de Chernobyl. Por que isso / tinha que acontecer conosco?! / Eu xinguei Deus pelo que fez conosco...
+3377	Fui para os EUA depois que meus pais / morreram, mas a terrível maldição / me seguiu.
+3378	Só muitos anos depois decidi dedicar / todos os meus esforços a libertar / este mundo das armas / nucleares...
+3379	Depois que descobri que não podia / ter filhos.
+3380	Nastasha... sinto muito.
+3381	Como fui exposta aos 10 anos, / tive problemas na / tireoide.
+3382	...Não foi surpresa, mas quando a / realidade bate... é / um grande choque.
+3383	Você ficou infértil por causa da / intoxicação por radiação?
+3384	Ouvir que você não pode ter um / filho... que nunca vai poder / passar seus genes para uma nova / geração...
+3385	...você não imagina como é.
+3386	Demorou muito, e magoei muita gente / no caminho, mas saber que era infértil / me fez pensar com clareza.
+3387	Decidi que, em vez de ter filhos, / ajudaria a tornar o mundo um lugar / seguro e melhor para as / futuras gerações.
+3388	Decidi trabalhar pela eliminação das / armas nucleares, e / por isso entrei no Pentágono.
+3389	Nastasha....
+3390	Desculpe ficar falando só de mim.
+3391	Por favor, esqueça o que eu disse.
+3392	Snake, isso é uma área de / armazenamento de ogivas nucleares.
+3393	Todos estes estão cheios de / ogivas nucleares?
+3394	Sim. Mas os mecanismos de detonação / foram removidos.
+3395	Então não preciso me preocupar com / a ilha virar uma pilha de / escombros fumegantes?
+3396	Não. Mas, se o revestimento estiver / danificado, pode haver vazamento de / material nuclear. Não use / sua arma por ali.
+3397	Naturalmente, armas nucleares contêm / plutônio.
+3398	A maior parte da radiação emitida pelos / isótopos de plutônio são / raios alfa.
+3399	O efeito de ionização é forte, mas se / estiverem em recipientes, não há / perigo de exposição.
+3400	Mas se o plutônio entrar no corpo / pela respiração ou outro contato, / é logo absorvido pelos ossos / e órgãos internos.
+3401	Depois disso, não há como removê-lo.
+3402	Quando isso acontece, a vítima fica / exposta o tempo todo, e só um / milionésimo de grama de plutônio / pode causar câncer.
+3403	Por isso um vazamento de plutônio é / tão perigoso. Não use sua arma / em nenhum lugar perto dali.
+3404	Cientistas usam terapia gênica para / tentar criar um microrganismo capaz / de decompor o plutônio, mas...
+3405	...ainda não tiveram sucesso.
+3406	A versão de biorremediação / do plutônio, hein.
+3407	Em vez de processar, por que não / reutilizar? Achei que estavam / trabalhando em usar plutônio / desmontado para fins civis.
+3408	Por um tempo pareceu que haveria / cooperação internacional para isso,
+3409	...mas infelizmente havia desconfiança / demais, e tudo desmoronou.
+3410	A assinatura do START foi um passo / certo, mas gerou uma enxurrada / de plutônio desmontado.
+3411	Descartar esse plutônio com segurança / é hoje o maior desafio do mundo.
+3412	Combustão em reatores, vitrificação... / muitas sugestões foram feitas, mas / na realidade...
+3413	...nenhuma solução eficaz / foi encontrada.
+3414	Aquela área está minada?
+3415	Se ao menos você tivesse um / Detector de Minas...
+3416	Depois de achar as minas no radar, / rasteje até elas e recolha-as.
+3417	Minas antipessoais mataram mais de / 20.000 civis nos últimos / trinta anos.
+3418	Em países como Camboja e Nicarágua, / a morte e a mutilação de inocentes / continuam muito depois / do fim das guerras.
+3419	Plantar minas é fácil, mas / removê-las é outra história.
+3420	Exige mais tempo e gente do que / alguém está disposto a investir.
+3421	As superpotências deveriam doar mais / detectores de minas e outros / equipamentos para removê-las. É o / mínimo depois de tê-las plantado.
+3422	Snake, esse é o banheiro feminino. / Você não deveria estar aí!
+3423	Mas vi a Meryl entrar aqui.
+3424	Mesmo assim, Snake!
+3425	Esta é nossa única chance de conversar / a sós. Tinha certeza de que ela estava aqui...
+3426	Um soldado psíquico... sim. Embora não / admitam, muitos países têm programas / paranormais e usam psíquicos / nas forças especiais.
+3427	Os psíquicos vão de quem entorta / colheres a quem causa / desastres naturais.
+3428	Mas o Psycho Mantis é um dos mais / poderosos. Cuidado.
+3429	Snake, gostou do clima aí ou o quê? / Anda, fuja logo!
+3430	Estar trancado não significa que / não há chance de fuga.
+3431	Fique atento e, quando surgir uma / chance, aproveite.
+3432	Chame o Campbell e espere / as instruções dele.
+3433	E seu equipamento? Não vai deixar / para trás tudo o que juntou, vai? / Rápido! Pegue suas coisas.
+3434	Snake, vá logo para a / Torre de Comunicações.
+3435	A vista é boa, mas a movimentação é / limitada... Pode ser um bom lugar / para abater o inimigo com a PSG-1.
+3436	Snake, detecto altos níveis de radiação / vindo daquela cachoeira. Se chegar / perto demais, pode se expor.
+3437	Além das ogivas desmontadas, a Ilha / Shadow Moses deve guardar outros / materiais nucleares.
+3438	Seja o que for, deve estar vazando...
+3439	Você já deve ter ouvido, mas repito. A / maioria dos depósitos nucleares não / está em condição muito melhor que este.
+3440	Eles causam danos incalculáveis / ao meio ambiente.
+3441	Você está sob ataque de longa distância. / Revide com o rifle de precisão.
+3442	Sniper Wolf... É raro um atirador / anunciar a presença antes de / atirar. Ela deve ter / uma queda por você.
+3443	De qualquer forma, acho que não vai / ser tão fácil quanto antes.
+3444	Deite de bruços. Atire na posição / deitada. Seria bom ter um tripé ou algo / firme para apoiar a arma.
+3445	Sem isso, segure a arma firme sob a / axila e a estabilize com o queixo. / Alinhe o alvo na mira / da luneta.
+3446	A maioria dos soldados acerta um alvo / a 300 metros. Tenho um amigo / que acerta a 520 metros.
+3447	Um bom atirador precisa de nervos de / aço e muita paciência. Às vezes fica / dias em posição, quase sem / mexer um músculo.
+3448	O mais importante é esperar a / oportunidade e aproveitá-la.
+3449	Um leve tremor na mão pode fazer / você errar um alvo a 60 metros por / quinze centímetros ou mais.
+3450	Concentre-se, prenda a respiração e / tente manter a mão parada.

@@ -1,0 +1,150 @@
+2851	Snake, depois você se preocupa com isso. / Agora é hora de fugir.
+2852	Bom trabalho com o guarda, Snake. / Agora é sua chance de fugir.
+2853	É o que pretendo. Da próxima vez que / encontrar o Ocelot, será do meu jeito...
+2854	Como você está, Snake? / Consegue continuar?
+2855	Sim. Relaxa. Aquele sádico não vai / me derrubar.
+2856	Snake. / Agora é sua chance de fugir.
+2857	O ketchup! Dá pra enganar o guarda / se você usar direito.
+2858	Snake, que tal usar o ketchup / e fingir que está morto?
+2859	Snake, isso é uma cela. Não dá pra / abrir a porta por dentro. / Você vai ter que tirar a chave / do guarda.
+2860	Sim, mas como?
+2861	Que tal tentar desaparecer?
+2862	Cheguei lá embaixo.
+2863	Graças a Deus você está bem. Fiquei / apavorada só de te ver.
+2864	Você é incrível, Snake.
+2865	Snake, que tal tentar a porta que / vai da passarela até a Torre A?
+2866	Snake, você está sob ataque de / fora da tela.
+2867	Primeiro descubra onde o inimigo está. / Use seu binóculo.
+2868	Depois ataque com a PSG-1 ou o Míssil / Controlado. Algo com alcance maior / que uma arma comum.
+2869	Que pilha de corpos é essa...!? / Parece que todos foram cortados / por uma espécie de espada.
+2870	Não pode ser!...
+2871	...nada não.....
+2872	Snake, estou preocupado com o Emmerich. / Corra até ele!
+2873	Snake, cuidado. Você não conseguirá / controlar o míssil em área com / interferência eletrônica.
+2874	Snake, esse não é o elevador / que desce para a base subterrânea / do Metal Gear?
+2875	Sim, mas não há botão para chamar / o elevador.
+2876	Talvez ele venha se você esperar.
+2877	Por que não pergunta ao Dr. Emmerich?
+2878	Cuidado com o vapor. / É perigoso. Use a Visão em Primeira / Pessoa para ver de onde ele sai / e então evite.
+2879	Sim. Gosto de uma sauna de vez em quando, / mas isso é demais.
+2880	Aquele tanque M1 tem aviônica / avançada. / Depois que trava num alvo, / ele o segue automaticamente,
+2881	e o canhão principal é eficaz até / 3000 metros.
+2882	Para chegar perto, você terá que / confundir o rastreamento. Use o Chaff.
+2883	Se conseguir bloquear o sistema e chegar / perto, ele não poderá usar o / canhão principal.
+2884	Use o Chaff à distância para enganar / os sistemas eletrônicos dele.
+2885	Mesmo que chegue perto, a velocidade / máxima do M1 é 70 km/h. Primeiro / você terá que desacelerá-lo.
+2886	Ataque as esteiras com C4 ou / Granadas.
+2887	Quando ele desacelerar, jogue uma Granada / na escotilha do comandante.
+2888	O M1 tem blindagem excepcionalmente / forte.
+2889	Com suas armas, o único jeito de / vencê-lo é atacar os soldados lá dentro / pela escotilha.
+2890	Tente mirar suas granadas na / escotilha de cima.
+2891	Você tem mísseis Stinger. Agora ao menos / tem uma chance contra o Hind...
+2892	Só uma chance?
+2893	Bem, vocês não estão exatamente / em pé de igualdade.
+2894	Aquele Hind é um monstro. Você tem só / uma pequena chance de vencer, mas é / melhor que nenhuma...
+2895	Que análise sombria, / Nastasha.
+2896	Para derrubar aquele Hind, você terá / que ir a um lugar com boa / visibilidade.
+2897	Não tente lutar naquela passarela. Suba / naquele telhado, onde terá um / tiro limpo contra ele.
+2898	Aqui é Nastasha Romanenko. / É um prazer trabalhar com você, / Solid Snake.
+2899	Você é a especialista nuclear que o / Coronel mencionou?
+2900	Sou eu. / Pode me perguntar o que quiser / sobre armas nucleares.
+2901	Também sou analista militar, então tenho / amplo conhecimento de sistemas / de armas.
+2902	Pediram que eu participasse desta / operação como supervisora da / Equipe de Busca de Emergência Nuclear. / Aceitei com prazer.
+2903	Não podemos deixar terroristas / colocarem as mãos em armas nucleares / de qualquer tipo. Espero ajudar / você a detê-los.
+2904	Você é uma mulher durona.
+2905	Esses terroristas estão falando sério / sobre lançar uma arma nuclear?
+2906	O mundo não pode ficar parado / e permitir que isso aconteça. / E eu também não...
+2907	Infelizmente, tudo o que posso fazer / daqui é fornecer informações...
+2908	Espero que seja o bastante. / Mais um soldado aqui não faria / diferença mesmo. É bom trabalhar / com você, Nastasha.
+2909	Espero que seja o bastante. Mais um / soldado aqui não faria / diferença mesmo. É bom trabalhar / com você, Nastasha.
+2910	Igualmente, Snake.
+2911	Enquanto a estratégia de dissuasão / nuclear continuar, as armas nucleares / podem ser reduzidas, mas / nunca serão eliminadas.
+2912	Pensando bem, reduzir o arsenal / não significa muito sem a eliminação / como objetivo final.
+2913	Eu trabalhava na DIA (Agência de / Inteligência de Defesa). Achei que o / único jeito de eliminar as armas / nucleares...
+2914	...era trabalhar por dentro para / convencê-los da ineficácia / da teoria da dissuasão.
+2915	Parece que você é bem dedicada / a essa causa.
+2916	...Vítimas da radiação nuclear são / tristes de ver...e já vi muitas.
+2917	...Já vi mais do que o suficiente...
+2918	Nasci e cresci em Pripyat, na / Ucrânia. Eu tinha 10 anos naquele / dia...26 de abril de 1986.
+2919	Você não quer dizer...
+2920	Sim. Chernobyl. Foi o dia que mudou / minha vida e a de milhares de / outras pessoas. Eu morava a apenas / três quilômetros ao norte.
+2921	600 a 700 mil pessoas foram / evacuadas. Mais de 650 mil crianças / sofreram os efeitos da / contaminação por radiação.
+2922	Entre 1986 e 1993, / 12 mil crianças morreram...
+2923	Meus pais, e muitos outros que / ajudaram na limpeza, morreram anos / depois de doença causada / pela radiação.
+2924	Precisamos livrar este mundo de todas / as armas nucleares...antes que causem / mais sofrimento.
+2925	Antes que destruam o delicado / ambiente que nos mantém vivos.
+2926	Não vou permitir que essa dor e essa / angústia passem para mais uma geração.
+2927	A área está cheia de gás. Provavelmente / um agente nervoso organofosforado como / Soman ou algo parecido.
+2928	Bem, seu Traje de Infiltração dá alguma / proteção. Além disso, suas / nanomáquinas têm agentes neutralizantes / anti-BQ, então...
+2929	...você deve ficar bem por um curto / tempo. Mas o que você precisa mesmo / é de uma Máscara de Gás.
+2930	Um agente nervoso organofosforado é um / gás que invade os nervos dos animais.
+2931	Foi usado como arma pela primeira vez / na Segunda Guerra Mundial, e as / baixas foram enormes.
+2932	Em forma pura, é um gás incolor e / inodoro. Esse gás provavelmente foi / tingido de amarelo para facilitar / a detecção em caso de vazamento.
+2933	Parece que você está com um resfriado / forte. É melhor tentar se livrar dele.
+2934	Harasho...ótimo! / Você achou uma SOCOM. É uma Pistola / do Comando de Operações Especiais.
+2935	É uma pistola calibre .45 com bastante / poder de parada. / Tem também um LAM (Módulo de Mira / a Laser) para combate noturno.
+2936	Se segurar o Botão de Arma, / pode apontar a mira laser para o / inimigo e mirar melhor.
+2937	Se achar um silenciador de SOCOM, / também poderá equipá-lo.
+2938	Essa pistola foi projetada para as / forças especiais, então acho que / será útil.
+2939	Algumas pessoas acham um pouco pesada e / difícil de usar, mas não deve ser / problema para você.
+2940	Essas são Granadas de Atordoamento. / Costumam ser usadas em operações / delicadas, como libertar reféns / e coisas do tipo.
+2941	Fazem um grande clarão e muito / barulho, desorientando e incapacitando / os oponentes temporariamente.
+2942	Entenda que elas não matam os / inimigos, só os atordoam por alguns / segundos. / Use com sabedoria.
+2943	Isso é uma Granada Chaff. / É uma granada especial que dispersa / tiras metálicas finas e estreitas de / vários comprimentos e frequências.
+2944	Ela pode confundir equipamentos eletrônicos.
+2945	Será útil contra máquinas que / dependem de sensores / eletrônicos.
+2946	Naturalmente, para ser eficaz, você / deve usá-la antes de ser atacado. / Se espera um ataque, espalhe / o chaff antes.
+2947	Você achou algumas Granadas. Basta / tirar o pino e ela explode após / cinco segundos.
+2948	Dá para fazer muita coisa nesses / cinco segundos, Snake. / Como usá-los é com você. /
+2949	Isso é explosivo C4. / Um explosivo plástico com textura / de argila, que você pode moldar / da forma que quiser.
+2950	Embora tenha 1,4 vez o poder / destrutivo da dinamite,
+2951	é muito estável e não explode sem / um detonador, mesmo que seja / baleado, queimado ou golpeado.
+2952	Você está usando um detonador / sem fio, certo?
+2953	O detonador tem um embaralhador, então / não precisa se preocupar com / interferência de outras fontes / de rádio.
+2954	Fique bem longe quando ele / explodir.
+2955	Além disso, como sabe, o som da / explosão alertará os inimigos, / então tome cuidado.
+2956	Isso é uma FAMAS.
+2957	É um fuzil de assalto estilo bullpup. / Durável e fácil de usar. Muito / resistente ao superaquecimento, é uma / arma confiável e de ação suave.
+2958	Dispara até 1.000 tiros por / minuto. No automático, esvazia um / carregador de 25 tiros em segundos.
+2959	Essas são Minas Claymore.
+2960	Ao contrário de outras minas, que são / enterradas,
+2961	as claymores ficam acima do solo / e foram feitas para causar / dano máximo numa ampla área / em forma de leque.
+2962	Quando explodem, lançam setecentas / esferas de aço de 1,2 milímetro / num padrão de 60 graus, como uma / espingarda gigante.
+2963	Tradicionalmente, as claymores usam um / fio de tropeço para detonar, mas essas / são de um novo tipo.
+2964	Elas são camufladas com a nova / tecnologia furtiva e têm sofisticados / detectores de movimento.
+2965	Esses são mísseis de reconhecimento / em miniatura controlados remotamente, / às vezes chamados de Mísseis Nikita.
+2966	Têm câmeras CCD no / nariz.
+2967	Depois de disparados, transmitem / as imagens para o seu monitor. / Você pode controlar o voo livremente / em todas as direções.
+2968	Mas os mísseis têm uma quantidade / limitada de combustível. Fique de olho / no indicador.
+2969	Aperte o Botão de Visão em Primeira / Pessoa para ver as imagens do míssil. / Use com sabedoria.
+2970	Excelente! Essa é uma PSG-1. Um dos / melhores fuzis de precisão do mundo.
+2971	É precisa o bastante para acertar / um quadrado de 2,5 centímetros / a uma distância de 100 metros.
+2972	Ao contrário de outros fuzis de precisão, / a PSG-1 não é de ferrolho, é / semiautomática. Sua melhor qualidade / é permitir disparos rápidos.
+2973	Ao atirar a longas distâncias, o menor / tremor pode fazer você errar o alvo / por centímetros.
+2974	Tente manter as mãos o mais / firmes possível.
+2975	Você achou mísseis Stinger. Ótimo!
+2976	Têm um dispositivo de busca térmica, / então depois de travar na mira, / perseguem o alvo automaticamente.
+2977	Para travar, basta alinhar / a mira.
+2978	Os Stingers são mísseis terra-ar potentes, / de curto alcance e baixa altitude. No / Afeganistão, os mujahidin derrubaram / centenas de aeronaves soviéticas com eles.
+2979	Na verdade, os soviéticos foram / forçados a mudar de tática.
+2980	Um dos meus livros de terror favoritos / se chama Stinger e meu coquetel / favorito é um Stinger. Acho que tenho / uma queda por Stingers.
+2981	Bom. / Você achou um Silenciador para a / pistola SOCOM.
+2982	Se o equipar, não precisará se / preocupar em ser notado pelo / inimigo quando atirar.
+2983	Reduz bastante o som e o clarão / do cano.
+2984	Usa uma câmara de várias camadas para / diminuir a velocidade da saída dos gases / e assim reduzir o som e o clarão / quando você dispara.
+2985	O Silenciador é fino o bastante para que / você ainda use a mira original da arma / mesmo com ele equipado.
+2986	Não deve mudar a sensação ao / disparar.
+2987	Isso é um Detector de Minas. Funciona / procurando objetos de metal. / Encontra até Claymores escondidas / com tecnologia furtiva óptica.
+2988	Está configurado para que a posição das / minas terrestres apareça no radar.
+2989	Basta equipar o detector de minas e / ficar de olho no radar. / Use com cuidado.
+2990	Armas nucleares, reatores / nucleares, lixo perigoso...
+2991	Estamos constantemente expostos a / plutônio e outros materiais radioativos. / Comparado a isso, fumar não / parece tão ruim, não?
+2992	Uma caixa de papelão.
+2993	Uma caixa de papelão geralmente é feita / de papel-cartão fino com miolo de / papel ondulado. Costumam ser feitas / de papel reciclado.
+2994	Foi inventada na Europa há mais de cem / anos. / Originalmente servia para absorver / o suor ao usar chapéus.
+2995	Com a mesma quantidade de madeira de / uma caixa de madeira, dá para fazer / seis ou sete de papelão.
+2996	E como é reciclável, é muito / econômica. Além disso, é resistente / e fácil de guardar. Por isso é / muito usada para embalagem.
+2997	Mas para não danificar armas e outros / instrumentos delicados no / transporte, devem ser embalados em / caixas mais fortes, como... /
+2998	madeira ou algo assim.
+2999	Além disso, as frestas devem ser / preenchidas com isopor para evitar / que se movam.
+3000	...Enfim, qual é o lance dessa caixa?

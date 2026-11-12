@@ -1,0 +1,150 @@
+151	Não tenho interesse em / reviver a Mãe Rússia.
+152	...Não está pensando em reviver / o sonho do Big Boss?
+153	A partir de hoje,...chame este lugar de
+154	sonho do Big Boss...
+155	Mas, chefe,...
+156	não teme que o PAL seja anulado?
+157	Se o código for inserido de novo, / ele será desativado.
+158	Não precisa se preocupar.
+159	O chefe da DARPA e o presidente / da ArmsTech estão mortos.
+160	O Snake sabe como funciona / o sistema de anulação?
+161	Você o interrogou. / Não sabe?
+162	Ele não tinha nenhuma chave consigo.
+163	Então ninguém mais pode parar o Metal Gear.
+164	A propósito, o que / faremos com aquela mulher?
+165	Quer que eu a mate?
+166	Deixe-a viver.
+167	Ela é sobrinha do Campbell / e o Snake se importa com ela...
+168	Será nossa carta na manga.
+169	ela está viva.
+170	Está vendo os terminais de entrada / no centro da sala de controle...
+171	Estou vendo.
+172	Aqueles três terminais portáteis / são para a entrada de emergência.
+173	Deve haver um símbolo / em cada tela...
+174	Cada símbolo corresponde / a uma chave diferente.
+175	Insira as chaves da esquerda para a direita.
+176	A da esquerda é a chave / de temperatura ambiente.
+177	Está vendo o símbolo?
+178	Ao lado dela fica / a chave de baixa temperatura.
+179	A da direita é / a chave de alta temperatura.
+180	Certo, entendi.
+181	Primeiro mudo a forma do cartão / e depois insiro em ordem, certo?
+182	Isso. / Basta inserir os cartões-chave.
+183	Depois que você inserir a chave / no módulo,
+184	um disco rígido lê as informações / contidas nela.
+185	Quando terminar / os três terminais,
+186	o processo de entrada do código / estará completo.
+187	Mas tem um detalhe.
+188	Você só pode usar a chave três vezes.
+189	É um sistema de emergência / feito para ser usado uma só vez.
+190	O mundo depende dessa chave, Snake.
+191	A chave caiu na vala de drenagem!
+192	Este vidro é à prova de bala!
+193	Não há como entrar!
+194	Vou adorar ver você morrer!
+195	Snake, você precisa pegar essa chave!
+196	Código PAL número um confirmado.
+197	Aguardando código PAL número dois...
+198	Certo, o código PAL / número um está feito...
+199	Agora o PAL número dois...
+200	congele a chave.
+201	Código PAL número dois confirmado.
+202	Aguardando código PAL número três...
+203	Certo, o código PAL número dois foi.
+204	Agora o PAL número três...
+205	aqueça a chave.
+206	Código PAL número três confirmado.
+207	Inserção do código PAL completa...
+208	Código de detonação ativado.
+209	Não! Por quê!
+210	Pronto para o lançamento...
+211	Eu o desativei!!
+212	Gostou dos meus óculos escuros?
+213	Apontaria uma arma / para o seu próprio irmão?
+214	Por que se disfarçou / de Master?
+215	Para manipular você com mais facilidade.
+216	E você se saiu muito bem, / devo dizer.
+217	Embora os caras do Pentágono / provavelmente digam o mesmo...
+218	Do que diabos está falando!?
+219	Seguindo ordens às cegas, / sem questionar.
+220	Você perdeu o orgulho de guerreiro e
+221	virou nada mais que / um peão, Snake.
+222	Impedir o lançamento nuclear, / resgatar os reféns...
+223	Tudo isso foi só um diversionismo.
+224	Um diversionismo?
+225	O Pentágono só precisava que você / entrasse em contato conosco.
+226	Foi isso que matou / o presidente da ArmsTech
+227	e o Decoy Octopus.
+228	Você foi enviado para nos matar
+229	para que eles recuperassem / o Metal Gear intacto
+230	junto com os corpos dos / soldados genoma.
+231	Desde o início, / o Pentágono só estava
+232	usando você como vetor / para espalhar o FoxDie!
+233	FoxDie! / ...Não pode ser!
+234	Está dizendo que a Naomi / trabalhava com o Pentágono?
+235	Eles achavam que sim.
+236	Mas a Dra. Naomi Hunter / não era tão fácil de controlar.
+237	Temos um espião / no Pentágono.
+238	Ele informou que a Dra. Hunter alterou
+239	o programa do FoxDie / pouco antes da operação.
+240	Mas...ninguém sabe como nem por quê.
+241	Talvez a tenham prendido / para descobrir a resposta.
+242	Sem dúvida.
+243	Mas eu não imaginava que ela agia / por uma vingança tão mesquinha...
+244	ainda não sabemos que mudanças / ela fez no programa do FoxDie.
+245	Enfim. Não importa.
+246	Já incluí a vacina do FoxDie / nas minhas exigências à Casa Branca.
+247	Existe uma vacina?
+248	Deve existir.
+249	Mas aquela mulher é a única / que realmente sabe.
+250	De qualquer forma, talvez / ela nem seja necessária.
+251	Por quê?
+252	Você conseguiu entrar em contato / com todos nós,
+253	então todos devemos ter sido / expostos ao vírus.
+254	É verdade que o presidente / da ArmsTech e o Decoy Octopus
+255	foram mortos pelo FoxDie...
+256	Mas o Ocelot, eu / e você, o portador,
+257	aparentemente não fomos afetados.
+258	Um erro na programação do vírus?
+259	Hum, pode ser.
+260	Seja como for, se não mata você, / eu também não me preocupo.
+261	Afinal, nosso código genético é idêntico.
+262	Então é verdade...você e eu somos...
+263	Sim, gêmeos,
+264	mas não somos gêmeos comuns... / somos gêmeos ligados por genes malditos.
+265	Les enfants terribles.
+266	Você está bem.
+267	Ficou com todos os genes / dominantes do velho.
+268	Eu fiquei com todos os genes / defeituosos e recessivos.
+269	Tudo foi feito para que
+270	você fosse / o maior de seus filhos.
+271	A única razão da minha existência
+272	é para que pudessem criar você.
+273	Então eu era o favorito, é?
+274	Sou só a sobra / do que usaram para fazer você.
+275	Você entende como é / saber
+276	que é lixo / desde o dia em que nasceu!?
+277	Mas...eu fui o escolhido do pai.
+278	...Por isso você é tão / obcecado pelo Big Boss.
+279	Uma espécie de amor distorcido.
+280	Amor!?
+281	É ódio!!
+282	Ele sempre disse que eu era inferior
+283	e agora terei minha vingança!!
+284	Você devia me entender, irmão.
+285	Você matou nosso pai / com as próprias mãos!
+286	Roubou minha chance de vingança!
+287	Agora vou terminar o trabalho / que o pai começou.
+288	Vou superá-lo...
+289	Vou destruí-lo!
+290	Você é igual à Naomi.
+291	Bem, eu não sou como você.
+292	Diferente de você,
+293	tenho orgulho do destino / codificado em meus próprios genes.
+294	Seu sangue será / o primeiro a ser derramado
+295	por esta gloriosa nova arma.
+296	Considere uma honra...
+297	um presente do seu irmão.
+298	Agora, vou lhe mostrar!
+299	O poder da arma / que nos guiará
+300	no século 21!

@@ -1,0 +1,150 @@
+1651	Não há ninguém com quem eu / preferisse estar numa trincheira.
+1652	Eu sei muito sobre sobrevivência / em ambientes hostis.
+1653	Vivo no Alasca há mais tempo que você. / Se tiver dúvidas sobre a flora / ou a fauna daqui, me chame.
+1654	Minha frequência é 141.80.
+1655	Snake, aquela é a porta da passarela.
+1656	Ela não abre nem com o cartão.
+1657	Hã? Ah, é verdade. Esqueci totalmente...
+1658	Você sabe de alguma coisa?
+1659	Às vezes ela congela e emperra / de tanto frio lá fora.
+1660	Da próxima vez avise antes. / E agora, o que eu faço?
+1661	É impossível abrir por dentro. / Sempre usaram C4 ou algo assim / por fora...
+1662	Por fora? Não dá pra abrir / por dentro?
+1663	Desculpe, é impossível. Mas relaxe, / você vai passar. Há duas passarelas / ligando a Torre A à Torre B. / A outra fica no telhado.
+1664	Use a passarela do telhado.
+1665	Não adianta, Snake. A porta parece / congelada. O único jeito é explodi-la / por fora.
+1666	E como a passarela do telhado foi / destruída, pra chegar à Torre B você / precisa usar a do outro lado da porta.
+1667	Se tivesse uma corda, talvez pudesse / descer do telhado da Torre A / até o outro lado...
+1668	Se descer naquele elevador de carga, / vai parar na base de manutenção / subterrânea do Metal Gear.
+1669	Ele vai e volta automaticamente entre / a fornalha e a base de manutenção / subterrânea.
+1670	Ele ainda não chegou, então / vai ter que esperar.
+1671	Esse elevador transporta veículos e / materiais de construção para a / base de manutenção subterrânea.
+1672	Por isso ele é tão grande.
+1673	O elevador em que você está agora é / o elevador nº 1.
+1674	Ele não desce até o fim, então você / terá que trocar para o elevador nº 2 / no ponto de conexão.
+1675	Snake, o elevador não se move se você / não apertar o botão. Tem um painel de / controle, certo? Chegue perto e / aperte o botão de Ação.
+1676	Snake, este é o ponto de conexão entre / o elevador nº 1 e o nº 2.
+1677	Por que foi feito assim?
+1678	Bem, por muito tempo dava pra descer / até o fundo num único elevador,
+1679	mas ouvi dizer que mudaram por causa / da integridade estrutural da rocha.
+1680	O elevador nº 2 está do seu lado, / certo? Troque para ele.
+1681	Se descer nesse elevador, você vai / parar no depósito. A base de manutenção / subterrânea do Metal Gear fica / logo depois.
+1682	Corvos...
+1683	Tem muitos corvos aqui.
+1684	Corvos...
+1685	Tem muitos corvos aqui.
+1686	Já havia corvos por aqui antes.
+1687	Mas, por algum motivo, eles aumentaram / muito mais ou menos na mesma época / em que o FOX-HOUND chegou à base.
+1688	É muito estranho. / O que será que significa...?
+1689	Já havia corvos por aqui antes.
+1690	Mas, por algum motivo, eles aumentaram / muito mais ou menos na mesma época / em que o FOX-HOUND chegou à base.
+1691	É muito estranho. / O que será que significa...?
+1692	Que diabos esses corvos estão / fazendo por aqui?
+1693	Corvos? ...não faço ideia.
+1694	Que diabos esses corvos estão / fazendo por aqui?
+1695	Corvos? ...não faço ideia.
+1696	Invadi o sistema de segurança.
+1697	Snake! Estou abrindo a porta!
+1698	Tem remédio pra resfriado / nesta base?
+1699	O que houve, Snake? / Você se resfriou?
+1700	Acho que tem no quarto do / comandante. Há um depósito de / remédios no sudoeste do 1º / subsolo
+1701	...do Prédio de Ogivas. Também / tem outros tipos de remédio lá.
+1702	Dei as direções a outro soldado / que estava resfriado.
+1703	Pelo visto ele passou o resfriado / pra mim.
+1704	Snake, ainda não achou a Meryl?
+1705	Você ainda não achou a Meryl?
+1706	Ela está vestida como um dos / terroristas. Mas é só por fora, / por dentro ela não mudou. / Observe o jeito dela andar...
+1707	Snake, ela está disfarçada de terrorista. / Não vai poder se revelar com outros / soldados por perto.
+1708	Você precisa achar um lugar onde / possa ficar a sós com ela.
+1709	Mesmo vestida assim, ela é mulher. / Entendeu? Não há algum lugar / aonde só mulher vai?
+1710	Snake, o Prédio de Ogivas em que você / está tem um andar acima do solo e / dois abaixo. Que tal procurar / lá também?
+1711	Ela disse que estava por perto, então / pode estar em algum lugar do Prédio / de Ogivas.
+1712	Graças a Deus a Meryl está bem. Ela é / durona mesmo. Embora, olhando pra ela, / seja difícil imaginar o quanto.
+1713	Deve ser o jeito de andar.
+1714	Ha ha ha. Enfim, que bom que ela está bem.
+1715	Ela também me deu uma chave. Acho / que posso usá-la para impedir o / lançamento de uma bomba nuclear.
+1716	Vá até a base de manutenção / subterrânea do Metal Gear. É lá que / fica o sistema de código de detonação.
+1717	Alguém deve estar controlando a / Meryl. / Faça algo, Snake... salve-a.
+1718	O que eu posso fazer? / Nem sei onde ele está.
+1719	Provavelmente está por perto. / Só está invisível.
+1720	Camuflagem furtiva. / Uma tecnologia que eu desenvolvi...
+1721	A camuflagem furtiva curva a luz / ao redor do usuário de modo que ele / fica quase invisível.
+1722	Mas com os Óculos Térmicos / você conseguiria vê-lo.
+1723	De qualquer forma, a olho nu você não / o vê, mas deve haver um jeito de / fazê-lo aparecer.
+1724	Snake, alguém está controlando a mente / da Meryl. Você deve conseguir / salvá-la.
+1725	Por favor, Snake. Você tem que salvá-la.
+1726	Um soldado psíquico... que desperdício. / Acho que ele só conhecia a luta...
+1727	Está com pena dele?
+1728	Mantis tinha um poder incrível... / fantástico. Talvez esse poder pudesse / ter feito as pessoas felizes.
+1729	...É triste ver todo esse poder / sendo usado só para a guerra.
+1730	Snake, o Metal Gear está numa base / subterrânea ao norte. / Rápido!
+1731	Use os Óculos de Visão Noturna / em lugares escuros.
+1732	Se quiser Óculos de Visão Noturna, / há um par no laboratório do / Prédio de Ogivas.
+1733	Otacon, você já viu um rifle de / precisão em algum lugar da base?
+1734	Um rifle de precisão?
+1735	A Meryl foi baleada... por um atirador / extremamente bom.
+1736	Atirador...
+1737	Um rifle de precisão de qualidade é / o único jeito de revidar.
+1738	E-eu vi um PSG-1 no arsenal do 2º / subsolo do Hangar de Tanques.
+1739	O 2º subsolo do Hangar de Tanques? / Tenho que voltar até lá?
+1740	Bem... é...
+1741	O que há com você, Otacon?
+1742	Ah... nada.
+1743	Otacon, onde há um rifle de precisão?
+1744	Há um PSG-1 no arsenal do 2º / subsolo do Hangar de Tanques....
+1745	O que foi?
+1746	Wolf... eu... só.... esqueça.
+1747	Snake, está escuro dentro das / Torres de Comunicação. / Use os Óculos de Visão Noturna / ou Térmicos.
+1748	Se quiser Óculos Térmicos, há um par / no mesmo andar do meu laboratório.
+1749	Há um par de Óculos de Visão Noturna / perto do meu laboratório.
+1750	Cuidado. Sempre há muitos soldados / vigiando a Torre de Comunicação.
+1751	A passarela fica bem entre / as Torres de Comunicação. / Vá para lá.
+1752	Snake, também há uma passarela no / telhado. Use essa.
+1753	Então você percebeu o que eu tinha / em mente, hein?
+1754	Não acredito que realmente funcionou.
+1755	Parece que você escapou. Que bom.
+1756	Sem a sua ajuda.
+1757	Pena. Achei que você fosse capaz / de adivinhar meu plano.
+1758	Do que está falando? Tive sorte de a / segurança ter vacilado.
+1759	Se está procurando seus itens, eles / estão perto de onde te torturaram. / Por que não vai buscá-los?
+1760	Se sabia disso, por que não / trouxe pra mim?
+1761	O guarda era assustador.
+1762	Se seguir direto pela passagem / subterrânea ao norte da Caverna, / chegará às Torres de Comunicação.
+1763	Você deve conseguir atravessar a / geleira pela passarela das Torres de / Comunicação. / Vá até as torres.
+1764	Otacon, estou no telhado.
+1765	Subiu bem rápido.
+1766	Eu queria ir devagar. Mas alguém / me obrigou a me apressar.
+1767	Hmm. Bem, pode relaxar porque / há um elevador na Torre B.
+1768	Essa passarela leva à Torre B.
+1769	Snake, a passarela fica no telhado / da Torre A.
+1770	Snake, vai enfrentar um Hind / de mãos nuas?
+1771	Não sou tão tolo. Não há alguma arma / que eu possa usar contra ele / por aí?
+1772	Há mísseis Stinger na Torre de / Comunicação B. Tenho quase certeza / de que ficam perto da entrada / da passarela.
+1773	Se tivesse uma corda, poderia pegá-los / descendo do telhado.
+1774	Vi uma corda no andar de baixo / da Torre A.
+1775	Uau, Snake. Você parece um astro / de filme de ação!
+1776	Totalmente diferente.
+1777	Isto é real. Não é uma cena ensaiada. / Se eu errar, não tem segunda / tomada.
+1778	É... acho que você tem razão.
+1779	Snake, há pontos na parede de onde / sai vapor do sistema de aquecimento. / Cuidado, queima feio.
+1780	Os mísseis Stinger estão numa sala / pequena perto da entrada da / passarela.
+1781	Snake, estou indo até você.
+1782	Preciso te perguntar uma coisa...
+1783	Bem, o que é?
+1784	Hmm... bem, é que... eu... pergunto / quando te encontrar... tchau.
+1785	Espere um minuto!
+1786	Snake, estou indo aí. / Aguente firme, ok?
+1787	Você vai atrás daquele Hind agora?
+1788	Ainda ouço o som das hélices. / Ele está rodeando a torre. / Deve estar esperando você.
+1789	Pois é, mas não vai ouvir por / muito mais tempo.
+1790	...Ótimo. Enquanto isso, vou consertar / o elevador pra você usar depois.
+1791	Vou consertar o elevador enquanto você / luta contra o Hind. Pode demorar, / então sem pressa.
+1792	Snake, você está bem!?
+1793	Até agora. E você, como está?
+1794	Desculpe. O elevador ainda não funciona. / É estranho. O motor está bem e há / energia. Preciso de mais um tempo...
+1795	Não sei por quê, mas o elevador voltou / a funcionar. Se descer até o fundo da / Torre B e sair, estará no Campo de Neve.
+1796	A entrada da base de manutenção / subterrânea fica ao norte do / Campo de Neve.
+1797	Otacon, não consigo vê-los! / O que eu faço?
+1798	Hmmm... A camuflagem furtiva curva a / luz ao redor de um objeto. / É assim que os torna invisíveis.
+1799	Mas ela não consegue mascarar / o calor.
+1800	Use os Óculos Térmicos, Snake. / Você vai ver a assinatura de calor deles!
