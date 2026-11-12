@@ -1,5 +1,7 @@
 # Metal Gear Solid Integral: legendas em português (pt-BR)
 
+<p align="center"><img src="docs/banner.png" alt="Metal Gear Solid" width="600"></p>
+
 Tradução feita por fãs das legendas de **Metal Gear Solid Integral** (PlayStation 1, versão japonesa com áudio em inglês) para o português do Brasil.
 
 Um projeto do **Spoke Machine**: veja os bastidores da tradução e outros projetos de jogos retrô no [blog](https://spokemachine.com.br) e no [canal do YouTube](https://www.youtube.com/channel/UCOvPz1-OJJXjhsHDjIE_oZA).
