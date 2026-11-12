@@ -4,17 +4,35 @@ Tradução feita por fãs das legendas de **Metal Gear Solid Integral** (PlaySta
 
 Um projeto do **Spoke Machine**: veja os bastidores da tradução e outros projetos de jogos retrô no [blog](https://spokemachine.com.br) e no [canal do YouTube](https://www.youtube.com/channel/UCOvPz1-OJJXjhsHDjIE_oZA).
 
-O que fica em português:
+## O que foi traduzido
 
-- **Cutscenes**: todas as cenas do jogo.
-- **Codec**: todas as conversas por rádio.
-- **Vozes durante o jogo**: a conversa de abertura, o briefing e as falas nas fases.
-- **Vídeos**: as legendas dos vídeos (FMV).
-- **Discos 1 e 2**: o jogo inteiro.
+Não é só o codec: **todas as legendas do jogo** estão em português, nos dois discos.
+
+| Parte do jogo | O que é | Disco 1 | Disco 2 |
+|---|---|---|---|
+| **Cutscenes** | As cenas de história, com as personagens conversando | 1.511 falas | 991 falas |
+| **Codec** | As conversas por rádio com Campbell, Otacon, Mei Ling, Naomi… (incluindo as dicas e os saves com a Mei Ling) | mais de 14 mil falas | mais de 14 mil falas |
+| **Vozes durante o jogo** | A conversa de abertura, o briefing, as falas durante as fases e lutas e as dicas de controle | 3.655 falas | 2.840 falas |
+| **Vídeos (FMV)** | As legendas dos vídeos | 48 falas | 42 falas |
+
+São mais de **35 mil falas** no total. Ficaram de fora só alguns poucos trechos (veja [Limitações conhecidas](#8-limitações-conhecidas)).
 
 Também deixamos o jogo **em inglês desde a primeira vez que ele liga**. Assim você não precisa mudar o idioma no menu.
 
 > **Importante:** este projeto **não distribui o jogo** e nenhum arquivo dele. Você precisa ter sua própria cópia do Metal Gear Solid Integral. O que está aqui são as traduções e as ferramentas que aplicam essas traduções na sua cópia e geram uma imagem nova, já traduzida.
+
+---
+
+## Por que a versão japonesa?
+
+Pode parecer estranho traduzir a partir de um jogo japonês, mas o **Metal Gear Solid Integral** é a melhor versão do jogo para isso:
+
+- **É a versão mais completa.** A Integral tem tudo da versão americana e mais: o modo *Very Easy*, a visão em primeira pessoa durante o jogo, trajes e extras desbloqueáveis, um disco extra de VR Missions e pequenas correções. Ela nunca foi lançada no Ocidente para PlayStation.
+- **Ela é em inglês por dentro.** As vozes são da dublagem americana, e todo o texto (legendas, codec, vozes) existe em inglês. É o "(En,Ja)" no nome do arquivo. Por isso a tradução foi feita a partir do inglês, como numa versão ocidental.
+- **O jogo fica em inglês desde o início.** A Integral japonesa começa em japonês na primeira vez que liga. Este patch muda isso, e o jogo já abre com as legendas em português.
+- **O caminho técnico já estava aberto.** Os formatos de arquivo que guardam as legendas foram documentados pelo [FoxdieTeam/mgs_reversing](https://github.com/FoxdieTeam/mgs_reversing), e isso tornou a tradução possível.
+
+O lado ruim: algumas partes só existem em japonês, como o *Mission Log* (veja [Limitações conhecidas](#8-limitações-conhecidas)). E o patch **não funciona** com o Metal Gear Solid americano, europeu ou brasileiro.
 
 ---
 
